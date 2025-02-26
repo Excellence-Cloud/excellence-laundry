@@ -42,38 +42,38 @@ export default function Lavanderia() {
 
               {/* Tabela de Preços */}
               <div className="overflow-x-auto border-t-8 border-[#4CAF50] rounded-xl shadow-lg">
-                <table className="min-w-full table-auto text-sm">
-                  <thead className="bg-[#4CAF50] text-white">
-                    <tr>
-                      <th className="py-5 px-6 font-semibold">{t("serviceDescriptionPrice")}</th>
-                      <th className="py-5 px-6 font-semibold">{t("largebedkit")}</th>
-                      <th className="py-5 px-6 font-semibold">{t("smallbedkit")}</th>
-                      <th className="py-5 px-6 font-semibold">{t("duokit")}</th>
-                    </tr>
-                  </thead>
-                  <tbody className="text-[#4f4f4f]">
-                    <tr className="hover:bg-[#f2f3f7] transition-all">
-                      <td className="py-4 px-6">{t("largebedkitDescription")}</td>
-                      <td className="py-4 px-6 text-center">{t("largebedkitPrice")}</td>
-                      <td className="py-4 px-6 text-center">{t("smallbedkitPrice")}</td>
-                      <td className="py-4 px-6 text-center">{t("duokitPrice")}</td>
-                    </tr>
-                    <tr className="hover:bg-[#f2f3f7] transition-all">
-                      <td className="py-4 px-6">{t("smallbedkitDescription")}</td>
-                      <td className="py-4 px-6 text-center">{t("smallbedkitPrice")}</td>
-                      <td className="py-4 px-6 text-center">{t("smallbedkitPrice")}</td>
-                      <td className="py-4 px-6 text-center">{t("duokitPrice")}</td>
-                    </tr>
-                    <tr className="hover:bg-[#f2f3f7] transition-all">
-                      <td className="py-4 px-6">{t("duokitDescription")}</td>
-                      <td className="py-4 px-6 text-center">{t("duokitPrice")}</td>
-                      <td className="py-4 px-6 text-center">{t("duokitPrice")}</td>
-                      <td className="py-4 px-6 text-center">{t("duokitPrice")}</td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-            </div>
+  <table className="min-w-full table-auto text-sm text-center">
+    <thead className="bg-[#4CAF50] text-white align-middle">
+      <tr>
+        <th className="py-5 px-6 font-semibold">{t("serviceDescriptionPrice")}</th>
+        <th className="py-5 px-6 font-semibold">{t("largebedkit")}</th>
+        <th className="py-5 px-6 font-semibold">{t("smallbedkit")}</th>
+        <th className="py-5 px-6 font-semibold">{t("duokit")}</th>
+      </tr>
+    </thead>
+    <tbody className="text-[#4f4f4f] align-middle">
+      <tr className="hover:bg-[#f2f3f7] transition-all">
+        <td className="py-4 px-6 align-middle">{t("largebedkitDescription")}</td>
+        <td className="py-4 px-6 align-middle">{t("largebedkitPrice")}</td>
+        <td className="py-4 px-6 align-middle">{t("smallbedkitPrice")}</td>
+        <td className="py-4 px-6 align-middle">{t("duokitPrice")}</td>
+      </tr>
+      <tr className="hover:bg-[#f2f3f7] transition-all">
+        <td className="py-4 px-6 align-middle">{t("smallbedkitDescription")}</td>
+        <td className="py-4 px-6 align-middle">{t("smallbedkitPrice")}</td>
+        <td className="py-4 px-6 align-middle">{t("smallbedkitPrice")}</td>
+        <td className="py-4 px-6 align-middle">{t("duokitPrice")}</td>
+      </tr>
+      <tr className="hover:bg-[#f2f3f7] transition-all">
+        <td className="py-4 px-6 align-middle">{t("duokitDescription")}</td>
+        <td className="py-4 px-6 align-middle">{t("duokitPrice")}</td>
+        <td className="py-4 px-6 align-middle">{t("duokitPrice")}</td>
+        <td className="py-4 px-6 align-middle">{t("duokitPrice")}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+</div>
 
             {/* Preço por Item */}
             <div className="flex-1 bg-white p-8 rounded-xl shadow-lg">
