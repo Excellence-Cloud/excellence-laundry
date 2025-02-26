@@ -1,4 +1,4 @@
-import { useState } from "react"; // Import useState
+import { useState } from "react"; // Import useState  
 import { useTranslation } from "next-i18next";
 import emailjs from "emailjs-com";
 import { Formik, Form, Field, ErrorMessage } from "formik";
@@ -16,6 +16,7 @@ export default function ContactLower() {
   const legalLinks = t("legalLinks", { returnObjects: true });
   const router = useRouter(); // Initialize the router
   const { locale } = router; // Get the current locale
+  const [selectedService, setSelectedService] = useState(""); // State to track selected service
 
   const handleSubmit = (values, { setSubmitting }) => {
     const formData = { ...values };
@@ -48,6 +49,10 @@ export default function ContactLower() {
       });
   };
 
+  const filteredFormFields = formFields.filter((field) =>
+    ["fullName", "email", "serviceType", "message"].includes(field.name)
+  );
+
   const renderFormFields = (fields) => {
     return fields?.map((field, index) => (
       <div key={index} className="flex flex-col gap-[12px]">
@@ -59,11 +64,36 @@ export default function ContactLower() {
             </span>
           )}
         </label>
-        {field.type === "text" ||
-        field.type === "email" ||
-        field.type === "number" ||
-        field.type === "tel" ||
-        field.type === "date" ? (
+        {field.name === "serviceType" ? (
+          <div className="flex gap-[8px]">
+            <button
+              type="button"
+              className={`px-[14px] py-[12px] w-[170px] rounded-[6px] border-[1px] ${
+                selectedService === "rental"
+                  ? "bg-green-500 text-white border-green-500"
+                  : "bg-[#F2F2F2] text-black border-color03"
+              }`}
+              onClick={() => setSelectedService("rental")}
+            >
+              {t("rentalService")}
+            </button>
+            <button
+              type="button"
+              className={`px-[14px] py-[12px] w-[170px] rounded-[6px] border-[1px] ${
+                selectedService === "laundry"
+                  ? "bg-green-500 text-white border-green-500"
+                  : "bg-[#F2F2F2] text-black border-color03"
+              }`}
+              onClick={() => setSelectedService("laundry")}
+            >
+              {t("laundryService")}
+            </button>
+          </div>
+        ) : field.type === "text" ||
+          field.type === "email" ||
+          field.type === "number" ||
+          field.type === "tel" ||
+          field.type === "date" ? (
           <Field
             type={field.type}
             name={field.name}
@@ -112,7 +142,7 @@ export default function ContactLower() {
         {({ isSubmitting }) => (
           <Form className="w-full p-[24px] border-solid border-color03 border-[1px] flex flex-col gap-[32px] shadow-custom rounded-[16px]">
             <div className="flex flex-col gap-[12px]">
-              {renderFormFields(formFields)}
+              {renderFormFields(filteredFormFields)}
               <button
                 type="submit"
                 className="btn px-[32px] py-[12px] rounded-[4px] uppercase font-bold text-[14px] text-white w-full md:w-fit"
