@@ -66,7 +66,9 @@ export default function Hero() {
             <motion.button
               variants={itemVariants}
               className="btn px-[32px] py-[12px] rounded-[6px] uppercase font-bold text-[14px] text-white w-fit cursor-pointer"
-              onClick={() => handleModalOpen()}
+              onClick={() => {
+    document.getElementById('service').scrollIntoView({ behavior: 'smooth' });
+  }}
               aria-haspopup="dialog"
             >
               {t("heroButton")}{" "}
