@@ -47,32 +47,32 @@ export default function Aluguel() {
       </tr>
     </thead>
     <tbody className="text-[#4f4f4f]">
-      <tr className="hover:bg-[#f2f3f7] transition-all">
+      <tr className="hover:bg-[#f2f3f7] transition-all text-center align-middle">
         <td className="py-4 px-6">{t("packageDuo")}</td>
         <td className="py-4 px-6">{t("packageDescriptionDuo")}</td>
         <td className="py-4 px-6 text-center">{t("priceDuo")}</td>
       </tr>
-      <tr className="hover:bg-[#f2f3f7] transition-all">
+      <tr className="hover:bg-[#f2f3f7] transition-all text-center align-middle">
         <td className="py-4 px-6">{t("packageLargeBed")}</td>
         <td className="py-4 px-6">{t("packageDescriptionLargeBed")}</td>
         <td className="py-4 px-6 text-center">{t("priceLargeBed")}</td>
       </tr>
-      <tr className="hover:bg-[#f2f3f7] transition-all">
+      <tr className="hover:bg-[#f2f3f7] transition-all text-center align-middle">
         <td className="py-4 px-6">{t("packageSmallBed")}</td>
         <td className="py-4 px-6">{t("packageDescriptionSmallBed")}</td>
         <td className="py-4 px-6 text-center">{t("priceSmallBed")}</td>
       </tr>
-      <tr className="hover:bg-[#f2f3f7] transition-all">
+      <tr className="hover:bg-[#f2f3f7] transition-all text-center align-middle">
         <td className="py-4 px-6">{t("packageBathTwoPeople")}</td>
         <td className="py-4 px-6">{t("packageDescriptionBathTwoPeople")}</td>
         <td className="py-4 px-6 text-center">{t("priceBathTwoPeople")}</td>
       </tr>
-      <tr className="hover:bg-[#f2f3f7] transition-all">
+      <tr className="hover:bg-[#f2f3f7] transition-all text-center align-middle">
         <td className="py-4 px-6">{t("packageBathOnePerson")}</td>
         <td className="py-4 px-6">{t("packageDescriptionBathOnePerson")}</td>
         <td className="py-4 px-6 text-center">{t("priceBathOnePerson")}</td>
       </tr>
-      <tr className="hover:bg-[#f2f3f7] transition-all">
+      <tr className="hover:bg-[#f2f3f7] transition-all text-center align-middle">
         <td className="py-4 px-6">{t("packageKitchenTowels")}</td>
         <td className="py-4 px-6">{t("packageDescriptionKitchenTowels")}</td>
         <td className="py-4 px-6 text-center">{t("priceKitchenTowels")}</td>
