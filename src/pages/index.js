@@ -187,7 +187,7 @@ export default function Home(props) {
           <WhyUs />
           <Team />
           <About />
-          <Services />
+                {/*<Services />*/}
           <Packs />
           <Lavanderia />
           <Aluguel />
