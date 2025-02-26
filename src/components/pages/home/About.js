@@ -51,7 +51,10 @@ export default function About() {
               {t("aboutTitle")}
             </h2>
 
-            <p>{t("aboutDescription")}</p>
+            <p>{t("aboutDescriptionline1")}</p>
+            <p>{t("aboutDescriptionline2")}</p>
+            <p>{t("aboutDescriptionline3")}</p>
+            <p>{t("aboutDescriptionline4")}</p>
           </div>
 
           <ScrollLink

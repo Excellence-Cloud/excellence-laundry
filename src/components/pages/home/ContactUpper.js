@@ -41,6 +41,7 @@ export default function ContactUpper() {
             >
               {item.text}
             </Link>
+            
           </li>
         ))}
       </ul>

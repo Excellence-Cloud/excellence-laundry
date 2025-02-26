@@ -55,8 +55,11 @@ export default function Hero() {
                 variants={itemVariants}
                 className="flex flex-col gap-[16px]"
               >
-                <p>{t("heroFirstParagraph")}</p>
-                <p>{t("heroSecondParagraph")}</p>
+                <p>{t("heroParagraphline1")}</p>
+                <p>{t("heroParagraphline2")}<br></br>
+                {t("heroParagraphline3")}<br></br>
+                {t("heroParagraphline4")}</p>
+                <p>{t("heroParagraphline5")}</p>
               </motion.div>
             </div>
 
