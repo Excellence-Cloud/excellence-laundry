@@ -35,6 +35,16 @@ export const formFields = [
     required: false,
   },
   {
+    type: "radio", // Adicionando o campo de seleção do serviço
+    name: "serviceType",
+    label: "serviceTypeLabel", // Deve estar na tradução
+    required: true,
+    options: [
+      { value: "rental", label: "rentalService" },
+      { value: "laundry", label: "laundryService" },
+    ],
+  },
+  {
     type: "textarea",
     name: "message",
     label: "messageLabel",
@@ -49,5 +59,6 @@ export const initialValues = {
   phone: "",
   address: "",
   companyName: "",
+  serviceType: "", 
   message: "",
 };
