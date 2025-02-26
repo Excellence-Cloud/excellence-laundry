@@ -48,14 +48,14 @@ export default function Aluguel() {
       </thead>
       <tbody className="text-[#4f4f4f] align-middle">
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("packageDuo")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("packageDescriptionDuo")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceDuo")}</td>
+          <td className="py-4 px-6 align-middle">{t("packageDuo")}</td>
+          <td className="py-4 px-6 align-middle">{t("packageDescriptionDuo")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceDuo")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("packageLargeBed")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("packageDescriptionLargeBed")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceLargeBed")}</td>
+          <td className="py-4 px-6 align-middle">{t("packageLargeBed")}</td>
+          <td className="py-4 px-6 align-middle">{t("packageDescriptionLargeBed")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceLargeBed")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
           <td className="py-4 px-6 flex justify-center items-center">{t("packageSmallBed")}</td>
