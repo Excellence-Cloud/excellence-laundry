@@ -58,24 +58,24 @@ export default function Aluguel() {
           <td className="py-4 px-6 align-middle">{t("priceLargeBed")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("packageSmallBed")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("packageDescriptionSmallBed")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceSmallBed")}</td>
+          <td className="py-4 px-6 align-middle">{t("packageSmallBed")}</td>
+          <td className="py-4 px-6 align-middle">{t("packageDescriptionSmallBed")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceSmallBed")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("packageBathTwoPeople")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("packageDescriptionBathTwoPeople")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceBathTwoPeople")}</td>
+          <td className="py-4 px-6 align-middle">{t("packageBathTwoPeople")}</td>
+          <td className="py-4 px-6 align-middle">{t("packageDescriptionBathTwoPeople")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceBathTwoPeople")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("packageBathOnePerson")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("packageDescriptionBathOnePerson")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceBathOnePerson")}</td>
+          <td className="py-4 px-6 align-middle">{t("packageBathOnePerson")}</td>
+          <td className="py-4 px-6 align-middle">{t("packageDescriptionBathOnePerson")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceBathOnePerson")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("packageKitchenTowels")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("packageDescriptionKitchenTowels")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceKitchenTowels")}</td>
+          <td className="py-4 px-6 align-middle">{t("packageKitchenTowels")}</td>
+          <td className="py-4 px-6 align-middle">{t("packageDescriptionKitchenTowels")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceKitchenTowels")}</td>
         </tr>
       </tbody>
     </table>
@@ -99,54 +99,54 @@ export default function Aluguel() {
       </thead>
       <tbody className="text-[#4f4f4f] align-middle">
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemDuvet")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemDescriptionDuvet")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceDuvet")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemDuvet")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemDescriptionDuvet")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceDuvet")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemDuvetCoverLarge")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemDescriptionDuvetCoverLarge")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceDuvetCoverLarge")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemDuvetCoverLarge")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemDescriptionDuvetCoverLarge")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceDuvetCoverLarge")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemDuvetCoverSmall")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemDescriptionDuvetCoverSmall")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceDuvetCoverSmall")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemDuvetCoverSmall")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemDescriptionDuvetCoverSmall")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceDuvetCoverSmall")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemSheetLarge")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemDescriptionSheetLarge")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceSheetLarge")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemSheetLarge")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemDescriptionSheetLarge")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceSheetLarge")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemSheetSmall")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemDescriptionSheetSmall")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceSheetSmall")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemSheetSmall")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemDescriptionSheetSmall")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceSheetSmall")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemBeachTowel")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemDescriptionBeachTowel")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceBeachTowel")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemBeachTowel")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemDescriptionBeachTowel")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceBeachTowel")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemBathTowel")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemDescriptionBathTowel")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceBathTowel")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemBathTowel")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemDescriptionBathTowel")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceBathTowel")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemBathMat")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemDescriptionBathMat")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceBathMat")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemBathMat")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemDescriptionBathMat")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceBathMat")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemPillowcase")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemDescriptionPillowcase")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("pricePillowcase")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemPillowcase")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemDescriptionPillowcase")}</td>
+          <td className="py-4 px-6 align-middle">{t("pricePillowcase")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemKitchenCloth")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("itemDescriptionKitchenCloth")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceKitchenCloth")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemKitchenCloth")}</td>
+          <td className="py-4 px-6 align-middle">{t("itemDescriptionKitchenCloth")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceKitchenCloth")}</td>
         </tr>
       </tbody>
     </table>
@@ -172,19 +172,19 @@ export default function Aluguel() {
       </thead>
       <tbody className="text-[#4f4f4f] align-middle">
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("babyItemCrib")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("babyItemDescriptionCrib")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceBabyCrib")}</td>
+          <td className="py-4 px-6 align-middle">{t("babyItemCrib")}</td>
+          <td className="py-4 px-6 align-middle">{t("babyItemDescriptionCrib")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceBabyCrib")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("babyItemBedSet")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("babyItemDescriptionBedSet")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceBabyBedSet")}</td>
+          <td className="py-4 px-6 align-middle">{t("babyItemBedSet")}</td>
+          <td className="py-4 px-6 align-middle">{t("babyItemDescriptionBedSet")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceBabyBedSet")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("babyItemHighChair")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("babyItemDescriptionHighChair")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceBabyHighChair")}</td>
+          <td className="py-4 px-6 align-middle">{t("babyItemHighChair")}</td>
+          <td className="py-4 px-6 align-middle">{t("babyItemDescriptionHighChair")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceBabyHighChair")}</td>
         </tr>
       </tbody>
     </table>
@@ -208,24 +208,24 @@ export default function Aluguel() {
       </thead>
       <tbody className="text-[#4f4f4f] align-middle">
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("consumableSoap")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("consumableDescriptionSoap")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceSoap")}</td>
+          <td className="py-4 px-6 align-middle">{t("consumableSoap")}</td>
+          <td className="py-4 px-6 align-middle">{t("consumableDescriptionSoap")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceSoap")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("consumableHandSoap")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("consumableDescriptionHandSoap")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceHandSoap")}</td>
+          <td className="py-4 px-6 align-middle">{t("consumableHandSoap")}</td>
+          <td className="py-4 px-6 align-middle">{t("consumableDescriptionHandSoap")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceHandSoap")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("consumablePaperTowel")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("consumableDescriptionPaperTowel")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("pricePaperTowel")}</td>
+          <td className="py-4 px-6 align-middle">{t("consumablePaperTowel")}</td>
+          <td className="py-4 px-6 align-middle">{t("consumableDescriptionPaperTowel")}</td>
+          <td className="py-4 px-6 align-middle">{t("pricePaperTowel")}</td>
         </tr>
         <tr className="hover:bg-[#f2f3f7] transition-all">
-          <td className="py-4 px-6 flex justify-center items-center">{t("consumableToiletPaper")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("consumableDescriptionToiletPaper")}</td>
-          <td className="py-4 px-6 flex justify-center items-center">{t("priceToiletPaper")}</td>
+          <td className="py-4 px-6 align-middle">{t("consumableToiletPaper")}</td>
+          <td className="py-4 px-6 align-middle">{t("consumableDescriptionToiletPaper")}</td>
+          <td className="py-4 px-6 align-middle">{t("priceToiletPaper")}</td>
         </tr>
       </tbody>
     </table>
