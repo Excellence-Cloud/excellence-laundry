@@ -16,6 +16,8 @@ import TeamSkeleton from "@/components/skeleton-loaders/TeamSkeleton";
 import AboutSkeleton from "@/components/skeleton-loaders/AboutSkeleton";
 import ServicesSkeleton from "@/components/skeleton-loaders/ServicesSkeleton";
 import PacksSkeleton from "@/components/skeleton-loaders/PacksSkeleton";
+import LavanderiaSkeleton from "@/components/skeleton-loaders/LavanderiaSkeleton";
+import AluguelSkeleton from "@/components/skeleton-loaders/AluguelSkeleton";
 import FaqSkeleton from "@/components/skeleton-loaders/FaqSkeleton";
 import ContactUpperSkeleton from "@/components/skeleton-loaders/ContactUpperSkeleton";
 import ContactLowerSkeleton from "@/components/skeleton-loaders/ContactLowerSkeleton";
@@ -65,6 +67,14 @@ const Services = dynamic(
 );
 const Packs = dynamic(() => import("@/components/pages/home/Packs"), {
   loading: () => <PacksSkeleton />,
+  ssr: false,
+});
+const Lavanderia = dynamic(() => import("@/components/pages/home/Lavanderia"), {
+  loading: () => <LavanderiaSkeleton />,
+  ssr: false,
+});
+const Aluguel = dynamic(() => import("@/components/pages/home/Aluguel"), {
+  loading: () => <AluguelSkeleton />,
   ssr: false,
 });
 const Faq = dynamic(() => import("@/components/pages/home/Faq"), {
@@ -179,13 +189,9 @@ export default function Home(props) {
           <About />
           <Services />
           <Packs />
+          <Lavanderia />
           <Faq />
-
-          <div
-            className={`bg-[url('/assets/images/img14.webp')] bg-cover bg-fixed curve relative overflow-hidden  border-y-[5px] border-solid border-color01`}
-          >
-            <div className="bg-white bg-opacity-[0.85] py-[200px]"></div>
-          </div>
+          <Aluguel />
 
           <div className="flex flex-col gap-[32px]">
             <ContactUpper />
