@@ -11,17 +11,21 @@
 
   "guideLinesLinks": "Avertissement : Les seules valeurs acceptées pour les champs DO_NOT_CHANGE dans navLinks sont les IDs actuels du site web, qui sont les suivants : how-it-works, introduction, why-us, team, about, servies, faq, after-before, contact",
   "navLinks": [
-    { "text": "Why Us?", "DO_NOT_CHANGE": "why-us" },
-    { "text": "About Us", "DO_NOT_CHANGE": "about" },
-    { "text": "Services", "DO_NOT_CHANGE": "services" },
+    { "text": "Accueil", "DO_NOT_CHANGE": "home" },
+    { "text": "À Propos de Nous", "DO_NOT_CHANGE": "about" },
+    { "text": "Lavanderie", "DO_NOT_CHANGE": "lavandaria" },
+    { "text": "Location de Vêtements", "DO_NOT_CHANGE": "aluguel-de-roupa" },
     { "text": "Contact", "DO_NOT_CHANGE": "contact" }
   ],
 
 "heroSubtitle": "Your Partner in Cleaning and Comfort",
-  "heroTitle": "Excellence Cleaners",
+  "heroTitle": "EXCELLENCE LAUNDRY – WASH OR RENT, THE CHOICE IS YOURS!",
   "heroButton": "Discover Our Services",
-  "heroFirstParagraph": "At Excellence Cleaners, we leverage our expertise to ensure your peace of mind with personalized cleaning services for high-end residences. Whether for seasonal rentals or regular maintenance, our dedicated team ensures that every detail is attended to, providing optimal comfort in your property.",
-  "heroSecondParagraph": "With over 3 years of experience, our passion for excellence is reflected in every service, whether preparing your property before the arrival of new tenants or conducting thorough maintenance throughout the year. With Excellence Cleaners, fully enjoy your space with complete peace of mind.",
+  "heroParagraphline1": "At Excellence Laundry, we adapt to your needs. We offer professional washing to keep your textiles impeccable or the option to rent bed and bath linens, always fresh and ready to use.",
+  "heroParagraphline2": "✔ Premium laundry service – deep cleaning with high-quality products",
+  "heroParagraphline3": "✔ Linen rental – always impeccable, worry-free linens",
+  "heroParagraphline4": "✔ Punctuality and reliability – we deliver when and where you need it",
+  "heroParagraphline5": "Choose the ideal solution for you and ensure comfort and quality effortlessly!",
 
   "howItWorksSubtitle": "Simplify Your Daily Life",
   "howItWorksTitle": "How It Works",
@@ -97,7 +101,10 @@
 
  "aboutSubtitle": "Who We Are",
   "aboutTitle": "Excellence Cleaners - Your Trusted Partner",
-  "aboutDescription": "Excellence Cleaners is a company with over 3 years of experience in the cleaning industry. We have built a solid reputation by specializing in prestigious properties intended for seasonal rentals. Whether it is a villa or a luxury apartment, we ensure that your property is ready to welcome its next tenants in the best conditions. We also offer cleaning services for resident owners, with tailored packages adapted to their needs and the frequency of their requests. Each member of our team is trained in the best cleaning techniques, ensuring impeccable results in every service.",
+  "aboutDescriptionline1": "At Excellence Laundry, we offer complete laundry solutions for professionals in various sectors, including hotels, guesthouses, vacation rentals, and more. Our commitment is to ensure that your linens are always impeccable, clean, and fresh, providing an exceptional experience for your customers.",
+  "aboutDescriptionline2": "With an experienced and dedicated team, we use cutting-edge technology and washing methods that preserve fabric quality. In addition, we offer linen rental services, ensuring practicality and cost savings for your business. Our portfolio includes bed linens, towels, duvets, pillowcases, and specialized items, all maintained in perfect condition and ready for immediate use.",
+  "aboutDescriptionline3": "Excellence Laundry is the right choice for those seeking a reliable and professional service, with attention to detail and personalized customer care. We are here to take care of what is essential for your establishment so that you can focus on what truly matters: providing the best experience for your customers.",
+  "aboutDescriptionline4": "Our mission is to simplify laundry management for our partners and ensure maximum satisfaction with our services. Count on us to make your linen management more efficient and hassle-free.",
   "aboutButton": "Discover Our Journey of Excellence",
 
   "servicesSubtitle": "Our Services",
@@ -182,32 +189,24 @@
 
   "contactSubtitle": "Contact Us",
   "contactTitle": "Contact Us",
-  "contactDescription": "Ready to elevate your hospitality and commit to excellence? Please fill out the form below, and our team will be in touch shortly to discuss how we can help you provide unforgettable stays for your clients.",
+  "contactDescription": "At Excellence Laundry, we are always available to answer your questions and provide the best solution for your establishment's needs. If you would like more information about our services, personalized quotes, or have any doubts, please contact us through the following means:",
 
-  "fullNameLabel": "Full Name",
-  "fullNamePlaceholder": "Your full name",
-  "emailLabel": "Email",
-  "emailPlaceholder": "Your email",
-  "phoneLabel": "Phone",
-  "phonePlaceholder": "Your phone number",
-  "addressLabel": "Address",
-  "addressPlaceholder": "Your address location",
-  "companyNameLabel": "Company",
-  "companyNamePlaceholder": "Your company name",
-  "messageLabel": "Message",
-  "messagePlaceholder": "Your message",
-
-  "propertyLocationLabel": "Property Location",
-  "propertyLocationPlaceholder": "Location",
-  "propertyRoomAmountLabel": "Number of Rooms",
-  "propertyRoomAmountPlaceholder": "Number",
-  "propertyMessageLabel": "Message / Comments or Special Requests",
-  "propertyMessagePlaceholder": "Your message",
-
-  "submit": "Submit",
-  "formSubmittedSuccessfully": "Form submitted successfully!",
-  "thankYouForYourSubmission": "Thank you for your submission. We will get in touch soon.",
-  "backToStart": "Back to Start",
+    "fullNameLabel": "Full Name",
+    "fullNamePlaceholder": "Your full name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Your email",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Your message",
+  
+    "serviceTypeLabel": "Service Type",
+    "rentalService": "Clothing Rental",
+    "laundryService": "Laundry",
+  
+    "submit": "Send",
+    "formSubmittedSuccessfully": "Form successfully submitted!",
+    "thankYouForYourSubmission": "Thank you for your submission. We will contact you soon.",
+    "backToStart": "Back to Home",
+  
 
    "legalLinks": [
     {
@@ -342,5 +341,172 @@
     {"text": "All fees are due on the 1st of each month"},
     {"text": "Equipment maintenance covered by provider"},
     {"text": "Cancellation requires 30-day notice"}
-  ]
-}
+  ],
+
+    "titlelaundryservice": "Laundry Service",
+    "description": "Whether it's a hotel, a guesthouse, or a concierge service, Excellence Laundry is here to simplify the management of your linen and ensure it is always clean and impeccable for your customers. Say goodbye to concerns about logistics and the maintenance of your textiles and hygiene equipment. Let us take care of these tasks so you can focus on what truly matters: providing an unforgettable experience for your customers.",
+    "rates": "RATES",
+    "professionalpackages": "Professional Packages",
+    "packageDescription": "At Excellence Laundry, we offer customized packages to meet the specific needs of hotels, guesthouses, and concierge services. Our packages are designed to ensure quality and efficiency in handling your linen and hygiene equipment, always with the goal of providing the best experience for your customers. Contact us to learn about the available packages and choose the one that best suits your business. We are here to simplify the management of your establishment, allowing you to focus on what truly matters.",
+    "serviceDescriptionPrice": "Service Description Price",
+    "largebedkit": "Large Bed Kit",
+    "largebedkitDescription": "Washing, drying, and ironing for 1 double bed (140, 160, or 180 cm): 1 sheet, 1 duvet cover, 2 pillowcases",
+    "largebedkitPrice": "12,00€",
+    "smallbedkit": "Small Bed Kit",
+    "smallbedkitDescription": "Washing, drying, and ironing for 1 single bed (80 or 90 cm): 1 sheet, 1 duvet cover, 1 pillowcase",
+    "smallbedkitPrice": "10,00€",
+    "duokit": "Duo Kit",
+    "duokitDescription": "Washing, drying, ironing, and folding: 1 fitted sheet, 1 duvet cover, 2 pillowcases, 2 bath towels, 2 hand towels, 1 bath mat, 2 dish towels",
+    "duokitPrice": "19,00€",
+    "priceperitem": "Price per Item",
+    "pillowcase": "Pillowcase",
+    "pillowcaseDescription": "Washing, drying, and ironing",
+    "pillowcasePrice": "2,00€",
+    "duvetcover": "Duvet Cover",
+    "duvetcoverDescription": "Washing, drying, and ironing",
+    "duvetcoverPrice": "6,00€",
+    "tablecloth": "Tablecloth",
+    "tableclothDescription": "Washing, drying, and ironing",
+    "tableclothPrice": "4,50€",
+    "sheetorfittedsheet": "Sheet or Fitted Sheet",
+    "sheetorfittedsheetDescription": "Washing, drying, and ironing",
+    "sheetorfittedsheetPrice": "3,50€",
+    "dishcloth": "Dishcloth",
+    "dishclothDescription": "Washing, drying, and ironing",
+    "dishclothPrice": "0,80€",
+    "bathtowel": "Bathtowel",
+    "bathtowelDescription": "Washing, drying, and folding",
+    "bathtowelPrice": "2,00€",
+    "handtowel": "Hand Towel",
+    "handtowelDescription": "Washing, drying, and folding",
+    "handtowelPrice": "1,50€",
+    "duvet": "Duvet",
+    "duvetDescription": "Washing and drying",
+    "duvetPrice": "20,00€",
+    "mattressprotector": "Mattress Protector",
+    "mattressprotectorDescription": "Washing and drying",
+    "mattressprotectorPrice": "4,50€",
+    "bathmat": "Bath Mat",
+    "bathmatDescription": "Washing and drying",
+    "bathmatPrice": "2,50€",
+    "pillowprotector": "Pillow Protector",
+    "pillowprotectorDescription": "Washing and drying",
+    "pillowprotectorPrice": "2,00€",
+
+      "titleLaundry": "Linen Rental",
+      "descriptionLaundry": "At Excellence Laundry, we offer a professional linen rental and maintenance service, providing a practical and economical solution for managing your linen inventory. With our service, you can rent pillows, sheets, duvets, duvet covers, towels, and more, while we take care of everything for you. We ensure that your linen is always clean and fresh throughout the year, thanks to our professional maintenance service. Our rental and maintenance service is designed to help you focus on your guests' experience while leaving the management of your linens to our experts. We offer affordable rental solutions for hotels, vacation rentals, and other professionals, tailored to your specific needs.",
+    
+      "tariffsLaundry": "TARIFFS",
+    
+      "tariffsLaundrytitletable1": "Clothing Rental Packages",
+      "packageDuo": "Duo Kit",
+      "packageDescriptionDuo": "Complete rental: 1 fitted sheet, 1 duvet cover, 2 pillowcases, 2 bath towels, 2 hand towels, 1 bath mat, 1 kitchen towel",
+      "priceDuo": "€25.00",
+    
+      "packageLargeBed": "Large Bed Kit",
+      "packageDescriptionLargeBed": "Rental for 1 double bed (140, 160, or 180 cm): 1 sheet, 1 duvet cover, 2 pillowcases",
+      "priceLargeBed": "€19.00",
+    
+      "packageSmallBed": "Small Bed Kit",
+      "packageDescriptionSmallBed": "Rental for 1 single bed (80 or 90 cm): 1 sheet, 1 duvet cover, 1 pillowcase",
+      "priceSmallBed": "€14.00",
+    
+      "packageBathTwoPeople": "Bath Kit for 2 People",
+      "packageDescriptionBathTwoPeople": "2 bath towels, 2 hand towels",
+      "priceBathTwoPeople": "€8.50",
+    
+      "packageBathOnePerson": "Bath Kit for 1 Person",
+      "packageDescriptionBathOnePerson": "1 bath towel, 1 hand towel",
+      "priceBathOnePerson": "€5.00",
+    
+      "packageKitchenTowels": "Kitchen Towel Kit",
+      "packageDescriptionKitchenTowels": "2 kitchen towels (40x40 cm)",
+      "priceKitchenTowels": "€1.80",
+
+      
+"tariffsLaundrytitletable2": "Item Rental Tariffs",
+      "itemDuvet": "Duvet",
+      "itemDescriptionDuvet": "1 duvet (220x240)",
+      "priceDuvet": "€14.00",
+    
+      "itemDuvetCoverLarge": "Large Bed Duvet Cover",
+      "itemDescriptionDuvetCoverLarge": "1 duvet cover (220x240 or 240x260)",
+      "priceDuvetCoverLarge": "€9.00",
+    
+      "itemDuvetCoverSmall": "Small Bed Duvet Cover",
+      "itemDescriptionDuvetCoverSmall": "1 duvet cover",
+      "priceDuvetCoverSmall": "€7.00",
+    
+      "itemSheetLarge": "Sheet/Large Sheet",
+      "itemDescriptionSheetLarge": "1 fitted or flat sheet (140, 160, or 180 cm)",
+      "priceSheetLarge": "€6.00",
+    
+      "itemSheetSmall": "Sheet/Small Sheet",
+      "itemDescriptionSheetSmall": "1 fitted sheet (80x200 or 90x200)",
+      "priceSheetSmall": "€5.00",
+    
+      "itemBeachTowel": "Beach Towel",
+      "itemDescriptionBeachTowel": "1 large beach towel",
+      "priceBeachTowel": "€5.00",
+    
+      "itemBathTowel": "Bath Towel",
+      "itemDescriptionBathTowel": "1 bath towel",
+      "priceBathTowel": "€3.50",
+    
+      "itemBathMat": "Bath Mat",
+      "itemDescriptionBathMat": "1 bath mat",
+      "priceBathMat": "€3.00",
+    
+      "itemPillowcase": "Pillowcase",
+      "itemDescriptionPillowcase": "1 pillowcase (50x70 cm or 65x65 cm)",
+      "pricePillowcase": "€2.00",
+    
+      "itemKitchenCloth": "Kitchen Towel",
+      "itemDescriptionKitchenCloth": "1 kitchen towel",
+      "priceKitchenCloth": "€1.50",
+
+      
+"tariffsLaundrytitletable3": "For Babies",
+      "babyItemCrib": "Portable Crib",
+      "babyItemDescriptionCrib": "Rental of portable crib with mattress and protective cover",
+      "priceBabyCrib": "€10.00",
+    
+      "babyItemBedSet": "Baby Sheet Set",
+      "babyItemDescriptionBedSet": "1 baby sheet + 1 baby blanket",
+      "priceBabyBedSet": "€5.00",
+    
+      "babyItemHighChair": "High Chair",
+      "babyItemDescriptionHighChair": "1 baby high chair",
+      "priceBabyHighChair": "€5.00",
+    
+      
+      "tariffsLaundrytitletable4": "Consumable Products",
+      "consumableSoap": "Liquid Soap",
+      "consumableDescriptionSoap": "Liquid Marseille soap",
+      "priceSoap": "€5.00",
+    
+      "consumableHandSoap": "Hand Soap",
+      "consumableDescriptionHandSoap": "Small hand soap (price per unit)",
+      "priceHandSoap": "€2.00",
+    
+      "consumablePaperTowel": "Paper Towel Roll",
+      "consumableDescriptionPaperTowel": "Disposable paper towel roll (price per roll)",
+      "pricePaperTowel": "€1.50",
+    
+      "consumableToiletPaper": "Toilet Paper Roll",
+      "consumableDescriptionToiletPaper": "Triple-layer toilet paper (price per roll)",
+      "priceToiletPaper": "€0.80",
+    
+      "rentalConditionss": "Rental Conditions",
+      "rentalCondition1": "All rentals are for a maximum period of 7 nights. A surcharge of €2 per kit, per night, will be applied from the 8th night onwards.",
+      "rentalCondition2": "A security deposit will be required on the first rental.",
+      "rentalCondition3": "In case of excessive use (blood stains, makeup, shoe marks, ink, etc.), an additional fee will be charged.",
+      "rentalCondition4": "In case of damage, the replacement cost of the new item will be charged.",
+    
+      "finalNotes": "These prices and conditions ensure that Excellence Laundry's services meet the needs of our professional customers with practicality and quality.",
+    
+      "packageAluguell": "Package",
+      "descriptionAluguell": "Description",
+      "priceAluguell": "Price"
+
+    }    

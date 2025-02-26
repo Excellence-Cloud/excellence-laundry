@@ -106,17 +106,21 @@
 
   "guideLinesLinks": "Avertissement : Les seules valeurs acceptées pour les champs DO_NOT_CHANGE dans navLinks sont les IDs actuels du site web, qui sont les suivants : how-it-works, introduction, why-us, team, about, services, faq, after-before, contact",
   "navLinks": [
-    { "text": "Pourquoi Nous?", "DO_NOT_CHANGE": "why-us" },
+    { "text": "Accueil", "DO_NOT_CHANGE": "home" },
     { "text": "À Propos de Nous", "DO_NOT_CHANGE": "about" },
-    { "text": "Services", "DO_NOT_CHANGE": "services" },
+    { "text": "Lavanderie", "DO_NOT_CHANGE": "lavandaria" },
+    { "text": "Location de Vêtements", "DO_NOT_CHANGE": "aluguel-de-roupa" },
     { "text": "Contact", "DO_NOT_CHANGE": "contact" }
   ],
 
   "heroSubtitle": "Votre Partenaire en Propreté et Confort",
-  "heroTitle": "Excellence Cleaners",
+  "heroTitle": "EXCELLENCE LAUNDRY – LAVAGE OU LOCATION, À VOUS DE CHOISIR !",
   "heroButton": "Découvrez Nos Services",
-  "heroFirstParagraph": "Chez Excellence Cleaners, nous mettons notre expertise au service de votre tranquillité avec des services de nettoyage personnalisés pour résidences haut de gamme. Que ce soit pour des locations saisonnières ou un entretien régulier, notre équipe dévouée s'assure que chaque détail est soigné, garantissant ainsi un confort optimal dans votre propriété.",
-  "heroSecondParagraph": "Forte de plus de 3 ans d’expérience, notre passion pour l’excellence se reflète dans chaque prestation, que ce soit pour préparer votre bien avant l’arrivée de nouveaux locataires ou pour un entretien minutieux tout au long de l'année. Avec Excellence Cleaners, profitez pleinement de votre espace en toute sérénité.",
+  "heroParagraphline1": "Chez Excellence Laundry, nous nous adaptons à vos besoins. Nous offrons un lavage professionnel pour garder vos textiles impeccables ou l’option de location de linge de lit et de bain, toujours frais et prêt à l’emploi.",
+  "heroParagraphline2": "✔ Service de blanchisserie premium – nettoyage en profondeur avec des produits de haute qualité",
+  "heroParagraphline3": "✔ Location de linge – du linge toujours impeccable, sans souci",
+  "heroParagraphline4": "✔ Ponctualité et fiabilité – nous livrons quand et où vous en avez besoin",
+  "heroParagraphline5": "Choisissez la solution idéale pour vous et assurez confort et qualité sans effort !",
 
   "howItWorksSubtitle": "Simplifiez Votre Vie Quotidienne",
   "howItWorksTitle": "Comment Ça Marche",
@@ -206,7 +210,10 @@
 
   "aboutSubtitle": "Qui Nous Sommes",
   "aboutTitle": "Excellence Cleaners - Votre Partenaire de Confiance",
-  "aboutDescription": "Excellence Cleaners est une entreprise avec plus de 3 ans d’expérience dans le secteur du nettoyage. Nous nous sommes forgé une solide réputation en nous spécialisant dans les biens de prestige destinés à la location saisonnière. Que vous ayez une villa ou un appartement de luxe, nous nous assurons que votre bien soit prêt pour accueillir vos prochains locataires dans les meilleures conditions.                    Nous proposons également des services de ménage pour les propriétaires résidents, avec des forfaits sur mesure adaptés à vos besoins et à la fréquence de vos demandes. Chaque membre de notre équipe est formé aux meilleures techniques de nettoyage, garantissant des résultats impeccables à chaque prestation.",
+  "aboutDescriptionline1": "Chez Excellence Laundry, nous offrons des solutions complètes de blanchisserie pour les professionnels de divers secteurs, y compris les hôtels, les maisons d’hôtes, les locations saisonnières et bien plus encore. Notre engagement est de garantir que votre linge soit toujours impeccable, propre et frais, offrant ainsi une expérience exceptionnelle à vos clients.",
+  "aboutDescriptionline2": "Avec une équipe expérimentée et dévouée, nous utilisons une technologie de pointe et des méthodes de lavage qui préservent la qualité des textiles. De plus, nous proposons des services de location de linge, garantissant praticité et économies pour votre entreprise. Notre portefeuille comprend du linge de lit, des serviettes, des couettes, des taies d’oreiller et des articles spécialisés, tous maintenus en parfait état et prêts à l’emploi.",
+  "aboutDescriptionline3": "Excellence Laundry est le choix idéal pour ceux qui recherchent un service fiable et professionnel, avec une attention aux détails et un service personnalisé. Nous sommes là pour prendre soin de l’essentiel de votre établissement, afin que vous puissiez vous concentrer sur ce qui compte vraiment : offrir la meilleure expérience à vos clients.",
+  "aboutDescriptionline4": "Notre mission est de simplifier la gestion de la blanchisserie pour nos partenaires et de garantir une satisfaction maximale avec nos services. Comptez sur nous pour rendre la gestion de votre linge plus efficace et sans complication.",
   "aboutButton": "Découvrez Notre Parcours d’Excellence",
 
   "servicesSubtitle": "Nos Services",
@@ -299,32 +306,23 @@
 
   "contactSubtitle": "Contactez-Nous",
   "contactTitle": "Contactez-Nous",
-  "contactDescription": "Prêt à élever votre hospitalité et à vous engager vers l'excellence ? Veuillez remplir le formulaire ci-dessous, et notre équipe vous contactera sous peu pour discuter de la manière dont nous pouvons vous aider à offrir des séjours inoubliables à vos invités.",
+  "contactDescription": "Chez Excellence Laundry, nous sommes toujours disponibles pour répondre à vos questions et offrir la meilleure solution aux besoins de votre établissement. Si vous souhaitez plus d'informations sur nos services, des devis personnalisés ou si vous avez des questions, veuillez nous contacter par les moyens suivants :",
 
-  "fullNameLabel": "Nom Complet",
-  "fullNamePlaceholder": "Votre nom complet",
-  "emailLabel": "Email",
-  "emailPlaceholder": "Votre Email",
-  "phoneLabel": "Téléphone",
-  "phonePlaceholder": "Votre téléphone",
-  "addressLabel": "Adresse",
-  "addressPlaceholder": "Adresse de localisation",
-  "companyNameLabel": "Entreprise",
-  "companyNamePlaceholder": "Nom de Votre Entreprise",
-  "messageLabel": "Message",
-  "messagePlaceholder": "Votre message",
-
-  "propertyLocationLabel": "Emplacement de la Propriété",
-  "propertyLocationPlaceholder": "Emplacement",
-  "propertyRoomAmountLabel": "Nombre de Chambres",
-  "propertyRoomAmountPlaceholder": "Nombre",
-  "propertyMessageLabel": "Message / Commentaires ou Demandes Spéciales",
-  "propertyMessagePlaceholder": "Votre Message",
-
-  "submit": "Envoyer",
-  "formSubmittedSuccessfully": "Formulaire Soumis avec Succès !",
-  "thankYouForYourSubmission": "Merci pour votre soumission. Nous vous contacterons sous peu.",
-  "backToStart": "Retour au Début",
+    "fullNameLabel": "Nom Complet",
+    "fullNamePlaceholder": "Votre nom complet",
+    "emailLabel": "E-mail",
+    "emailPlaceholder": "Votre e-mail",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Votre message",
+  
+    "serviceTypeLabel": "Type de Service",
+    "rentalService": "Location de Vêtements",
+    "laundryService": "Blanchisserie",
+  
+    "submit": "Envoyer",
+    "formSubmittedSuccessfully": "Formulaire soumis avec succès!",
+    "thankYouForYourSubmission": "Merci pour votre soumission. Nous vous contacterons bientôt.",
+    "backToStart": "Retour à l'Accueil",  
 
   "legalLinks": [
     {
@@ -459,5 +457,172 @@
     {"text": "All fees are due on the 1st of each month"},
     {"text": "Equipment maintenance covered by provider"},
     {"text": "Cancellation requires 30-day notice"}
-  ]
-}
+  ],
+
+  "titlelaundryservice": "Service de blanchisserie",
+  "description": "Que ce soit un hôtel, une maison d'hôtes ou un service de conciergerie, Excellence Laundry est ici pour simplifier la gestion de votre linge et garantir qu'il soit toujours propre et impeccable pour vos clients. Dites adieu aux préoccupations concernant la logistique et l'entretien de vos textiles et équipements d'hygiène. Laissez-nous nous occuper de ces tâches afin que vous puissiez vous concentrer sur ce qui compte vraiment : offrir une expérience inoubliable à vos clients.",
+  "rates": "TARIFS",
+  "professionalpackages": "Forfaits professionnels",
+  "packageDescription": "Chez Excellence Laundry, nous proposons des forfaits personnalisés pour répondre aux besoins spécifiques des hôtels, maisons d'hôtes et services de conciergerie. Nos forfaits sont conçus pour garantir la qualité et l'efficacité dans le traitement de votre linge et de vos équipements d'hygiène, toujours dans le but d'offrir la meilleure expérience à vos clients. Contactez-nous pour découvrir les forfaits disponibles et choisir celui qui convient le mieux à votre entreprise. Nous sommes ici pour simplifier la gestion de votre établissement, vous permettant de vous concentrer sur ce qui compte vraiment.",
+  "serviceDescriptionPrice": "Service Description Prix",
+  "largebedkit": "Kit de lit grand",
+  "largebedkitDescription": "Lavage, séchage et repassage pour 1 lit double (140, 160 ou 180 cm) : 1 drap, 1 housse de couette, 2 taies d'oreiller",
+  "largebedkitPrice": "12,00€",
+  "smallbedkit": "Kit de lit petit",
+  "smallbedkitDescription": "Lavage, séchage et repassage pour 1 lit simple (80 ou 90 cm) : 1 drap, 1 housse de couette, 1 taie d'oreiller",
+  "smallbedkitPrice": "10,00€",
+  "duokit": "Kit duo",
+  "duokitDescription": "Lavage, séchage, repassage et pliage : 1 drap ajustable, 1 housse de couette, 2 taies d'oreiller, 2 serviettes de bain, 2 serviettes de main, 1 tapis de bain, 2 torchons",
+  "duokitPrice": "19,00€",
+  "priceperitem": "Prix par pièce",
+  "pillowcase": "Taie d'oreiller",
+  "pillowcaseDescription": "Lavage, séchage et repassage",
+  "pillowcasePrice": "2,00€",
+  "duvetcover": "Housse de couette",
+  "duvetcoverDescription": "Lavage, séchage et repassage",
+  "duvetcoverPrice": "6,00€",
+  "tablecloth": "Nappe",
+  "tableclothDescription": "Lavage, séchage et repassage",
+  "tableclothPrice": "4,50€",
+  "sheetorfittedsheet": "Drap ou drap ajusté",
+  "sheetorfittedsheetDescription": "Lavage, séchage et repassage",
+  "sheetorfittedsheetPrice": "3,50€",
+  "dishcloth": "Torchon",
+  "dishclothDescription": "Lavage, séchage et repassage",
+  "dishclothPrice": "0,80€",
+  "bathtowel": "Serviette de bain",
+  "bathtowelDescription": "Lavage, séchage et pliage",
+  "bathtowelPrice": "2,00€",
+  "handtowel": "Serviette de main",
+  "handtowelDescription": "Lavage, séchage et pliage",
+  "handtowelPrice": "1,50€",
+  "duvet": "Couette",
+  "duvetDescription": "Lavage et séchage",
+  "duvetPrice": "20,00€",
+  "mattressprotector": "Protège-matelas",
+  "mattressprotectorDescription": "Lavage et séchage",
+  "mattressprotectorPrice": "4,50€",
+  "bathmat": "Tapis de bain",
+  "bathmatDescription": "Lavage et séchage",
+  "bathmatPrice": "2,50€",
+  "pillowprotector": "Protège-oreiller",
+  "pillowprotectorDescription": "Lavage et séchage",
+  "pillowprotectorPrice": "2,00€",
+
+  "titleLaundry": "Location de Linge",
+    "descriptionLaundry": "Chez Excellence Laundry, nous offrons un service de location et d’entretien de linge pour les professionnels, une alternative pratique et économique pour la gestion de votre linge. Avec notre service, vous pouvez louer des oreillers, des draps, des couettes, des housses de couette, des serviettes et bien plus encore, et nous nous occupons de tout pour vous. Nous garantissons que votre linge sera toujours propre et frais tout au long de l'année, grâce à notre service d’entretien professionnel. Notre service de location et d’entretien est conçu pour vous permettre de vous concentrer sur l'expérience de vos clients, tout en laissant la gestion de votre linge entre les mains de nos experts. Nous proposons des solutions de location économiques pour les hôtels, les locations saisonnières et autres professionnels, adaptées à vos besoins spécifiques.",
+  
+    "tariffsLaundry": "TARIFS",
+    
+    
+  "tariffsLaundrytitletable1": "Forfaits de Location de Vêtements",
+    "packageDuo": "Kit Duo",
+    "packageDescriptionDuo": "Location complète : 1 drap-housse, 1 housse de couette, 2 taies d’oreiller, 2 serviettes de bain, 2 serviettes pour les mains, 1 tapis de bain, 1 torchon",
+    "priceDuo": "25,00€",
+  
+    "packageLargeBed": "Kit Grand Lit",
+    "packageDescriptionLargeBed": "Location pour 1 lit double (140, 160 ou 180 cm) : 1 drap, 1 housse de couette, 2 taies d’oreiller",
+    "priceLargeBed": "19,00€",
+  
+    "packageSmallBed": "Kit Petit Lit",
+    "packageDescriptionSmallBed": "Location pour 1 lit simple (80 ou 90 cm) : 1 drap, 1 housse de couette, 1 taie d’oreiller",
+    "priceSmallBed": "14,00€",
+  
+    "packageBathTwoPeople": "Kit Bain 2 Personnes",
+    "packageDescriptionBathTwoPeople": "2 serviettes de bain, 2 serviettes pour les mains",
+    "priceBathTwoPeople": "8,50€",
+  
+    "packageBathOnePerson": "Kit Bain 1 Personne",
+    "packageDescriptionBathOnePerson": "1 serviette de bain, 1 serviette pour les mains",
+    "priceBathOnePerson": "5,00€",
+  
+    "packageKitchenTowels": "Kit Torchons",
+    "packageDescriptionKitchenTowels": "2 torchons (40x40 cm)",
+    "priceKitchenTowels": "1,80€",
+  
+    
+"tariffsLaundrytitletable2": "Tarifs de Location par Article",
+    "itemDuvet": "Couette",
+    "itemDescriptionDuvet": "1 couette (220x240)",
+    "priceDuvet": "14,00€",
+  
+    "itemDuvetCoverLarge": "Housse de Couette Grand Lit",
+    "itemDescriptionDuvetCoverLarge": "1 housse de couette (220x240 ou 240x260)",
+    "priceDuvetCoverLarge": "9,00€",
+  
+    "itemDuvetCoverSmall": "Housse de Couette Petit Lit",
+    "itemDescriptionDuvetCoverSmall": "1 housse de couette",
+    "priceDuvetCoverSmall": "7,00€",
+  
+    "itemSheetLarge": "Drap/Drap Grand Format",
+    "itemDescriptionSheetLarge": "1 drap-housse ou plat (140, 160 ou 180 cm)",
+    "priceSheetLarge": "6,00€",
+  
+    "itemSheetSmall": "Drap/Drap Petit Format",
+    "itemDescriptionSheetSmall": "1 drap-housse (80x200 ou 90x200)",
+    "priceSheetSmall": "5,00€",
+  
+    "itemBeachTowel": "Serviette de Plage",
+    "itemDescriptionBeachTowel": "1 grande serviette de plage",
+    "priceBeachTowel": "5,00€",
+  
+    "itemBathTowel": "Serviette de Bain",
+    "itemDescriptionBathTowel": "1 serviette de bain",
+    "priceBathTowel": "3,50€",
+  
+    "itemBathMat": "Tapis de Bain",
+    "itemDescriptionBathMat": "1 tapis de bain",
+    "priceBathMat": "3,00€",
+  
+    "itemPillowcase": "Taie d’Oreiller",
+    "itemDescriptionPillowcase": "1 taie d’oreiller (50x70 cm ou 65x65 cm)",
+    "pricePillowcase": "2,00€",
+  
+    "itemKitchenCloth": "Torchon",
+    "itemDescriptionKitchenCloth": "1 torchon",
+    "priceKitchenCloth": "1,50€",
+  
+    
+"tariffsLaundrytitletable3": "Pour Bébés",
+    "babyItemCrib": "Lit Parapluie",
+    "babyItemDescriptionCrib": "Location de lit parapluie avec matelas et housse de protection",
+    "priceBabyCrib": "10,00€",
+  
+    "babyItemBedSet": "Kit Drap Bébé",
+    "babyItemDescriptionBedSet": "1 drap bébé + 1 couverture bébé",
+    "priceBabyBedSet": "5,00€",
+  
+    "babyItemHighChair": "Chaise Haute",
+    "babyItemDescriptionHighChair": "1 chaise haute bébé",
+    "priceBabyHighChair": "5,00€",
+  
+    "tariffsLaundrytitletable4": "Produits Consommables",
+    "consumableSoap": "Savon Liquide",
+    "consumableDescriptionSoap": "Savon liquide de Marseille",
+    "priceSoap": "5,00€",
+  
+    "consumableHandSoap": "Savon pour les Mains",
+    "consumableDescriptionHandSoap": "Petit savon pour les mains (prix par savon)",
+    "priceHandSoap": "2,00€",
+  
+    "consumablePaperTowel": "Rouleau d’Essuie-tout",
+    "consumableDescriptionPaperTowel": "Essuie-tout jetable (prix par rouleau)",
+    "pricePaperTowel": "1,50€",
+  
+    "consumableToiletPaper": "Rouleau de Papier Toilette",
+    "consumableDescriptionToiletPaper": "Papier toilette triple épaisseur (prix par rouleau)",
+    "priceToiletPaper": "0,80€",
+  
+    "rentalConditionss": "Conditions de Location",
+    "rentalCondition1": "Toutes nos locations sont pour une durée maximale de 7 nuits. Un supplément de 2€ par kit, par nuit, sera appliqué à partir de la 8ème nuit.",
+    "rentalCondition2": "Un dépôt de garantie sera demandé lors de la première location.",
+    "rentalCondition3": "En cas d’usage excessif (taches de sang, maquillage, traces de chaussures, encre, etc.), des frais supplémentaires seront appliqués.",
+    "rentalCondition4": "En cas de dommages, le coût de remplacement de l’article neuf sera facturé.",
+  
+    "finalNotes": "Ces tarifs et conditions garantissent que les services offerts par Excellence Laundry répondent aux besoins de nos clients professionnels avec praticité et qualité.",
+          
+          "packageAluguell": "Forfait",
+          "descriptionAluguell": "Description",
+          "priceAluguell": "Prix"
+ 
+  }

@@ -10,17 +10,21 @@
   ],
   "guideLinesLinks": "Advertencia: Los únicos valores aceptados para los campos DO_NOT_CHANGE en navLinks son los IDs actuales del sitio web, que son los siguientes: how-it-works, introduction, why-us, team, about, services, faq, after-before, contact",
   "navLinks": [
-    { "text": "¿Por qué nosotros?", "DO_NOT_CHANGE": "why-us" },
+    { "text": "Inicio", "DO_NOT_CHANGE": "home" },
     { "text": "Sobre Nosotros", "DO_NOT_CHANGE": "about" },
-    { "text": "Servicios", "DO_NOT_CHANGE": "services" },
+    { "text": "Lavandería", "DO_NOT_CHANGE": "lavandaria" },
+    { "text": "Alquiler de Ropa", "DO_NOT_CHANGE": "aluguel-de-roupa" },
     { "text": "Contacto", "DO_NOT_CHANGE": "contact" }
   ],
 
   "heroSubtitle": "Su Socio en Limpieza y Conforto",
-  "heroTitle": "Excellence Cleaners",
+  "heroTitle": "EXCELLENCE LAUNDRY – ¡LAVADO O ALQUILER, LA ELECCIÓN ES SUYA!",
   "heroButton": "Descubra Nuestros Servicios",
-  "heroFirstParagraph": "En Excellence Cleaners, ponemos nuestra experiencia al servicio de su tranquilidad con servicios de limpieza personalizados para residencias de alto estándar. Ya sea para alquileres de temporada o para mantenimiento regular, nuestro equipo dedicado garantiza que cada detalle sea cuidado, proporcionando así un confort ideal en su propiedad.",
-  "heroSecondParagraph": "Con más de 3 años de experiencia, nuestra pasión por la excelencia se refleja en cada servicio, ya sea para preparar su inmueble antes de la llegada de nuevos inquilinos o para un mantenimiento minucioso a lo largo del año. Con Excellence Cleaners, disfrute plenamente de su espacio con total tranquilidad.",
+  "heroParagraphline1": "En Excellence Laundry, nos adaptamos a sus necesidades. Ofrecemos lavado profesional para mantener sus textiles impecables o la opción de alquiler de ropa de cama y baño, siempre fresca y lista para usar.",
+  "heroParagraphline2": "✔ Servicio de lavandería premium – limpieza profunda con productos de alta calidad",
+  "heroParagraphline3": "✔ Alquiler de lencería – ropa siempre impecable, sin preocupaciones",
+  "heroParagraphline4": "✔ Puntualidad y fiabilidad – entregamos cuando y donde lo necesite",
+  "heroParagraphline5": "¡Elija la solución ideal para usted y garantice confort y calidad sin esfuerzo!",
 
   "howItWorksSubtitle": "Simplifique Su Vida Diaria",
   "howItWorksTitle": "Cómo Funciona",
@@ -107,7 +111,10 @@
 
    "aboutSubtitle": "Quiénes Somos",
   "aboutTitle": "Excellence Cleaners - Su Socio de Confianza",
-  "aboutDescription": "Excellence Cleaners es una empresa con más de 3 años de experiencia en el sector de la limpieza. Hemos construido una sólida reputación al especializarnos en propiedades de prestigio destinadas al alquiler estacional. Ya sea una villa o un apartamento de lujo, garantizamos que su propiedad estará lista para recibir a sus próximos inquilinos en las mejores condiciones. También ofrecemos servicios de limpieza para propietarios residentes, con paquetes a medida, adaptados a sus necesidades y a la frecuencia de sus solicitudes. Cada miembro de nuestro equipo está capacitado en las mejores técnicas de limpieza, garantizando resultados impecables en cada servicio.",
+  "aboutDescriptionline1": "En Excellence Laundry, ofrecemos soluciones completas de lavandería para profesionales de diversos sectores, incluyendo hoteles, casas de huéspedes, alquileres vacacionales y mucho más. Nuestro compromiso es garantizar que su ropa de cama esté siempre impecable, limpia y fresca, proporcionando una experiencia excepcional para sus clientes.",
+  "aboutDescriptionline2": "Con un equipo experimentado y dedicado, utilizamos tecnología de punta y métodos de lavado que preservan la calidad de los tejidos. Además, ofrecemos servicios de alquiler de ropa, garantizando practicidad y ahorro para su negocio. Nuestro portafolio incluye ropa de cama, toallas, edredones, fundas de almohada y artículos especializados, todos mantenidos en perfecto estado y listos para su uso inmediato.",
+  "aboutDescriptionline3": "Excellence Laundry es la elección perfecta para quienes buscan un servicio confiable y profesional, con atención a los detalles y un trato personalizado. Estamos aquí para cuidar lo esencial de su establecimiento, para que usted pueda centrarse en lo que realmente importa: ofrecer la mejor experiencia a sus clientes.",
+  "aboutDescriptionline4": "Nuestra misión es simplificar la gestión de lavandería para nuestros socios y garantizar la máxima satisfacción con nuestros servicios. Cuente con nosotros para hacer que la administración de su ropa de cama sea más eficiente y sin complicaciones.",
   "aboutButton": "Descubra Nuestra Trayectoria de Excelencia",
 
   "servicesSubtitle": "Nuestros Servicios",
@@ -192,32 +199,23 @@
 
   "contactSubtitle": "Contáctenos",
   "contactTitle": "Contáctenos",
-  "contactDescription": "¿Listo para elevar su hospitalidad y comprometerse con la excelencia? Complete el formulario a continuación, y nuestro equipo se pondrá en contacto en breve para discutir cómo podemos ayudarle a ofrecer estancias inolvidables a sus clientes.",
+  "contactDescription": "En Excellence Laundry, siempre estamos disponibles para responder a sus preguntas y ofrecer la mejor solución para las necesidades de su establecimiento. Si desea más información sobre nuestros servicios, presupuestos personalizados o tiene alguna duda, contáctenos a través de los siguientes medios:",
 
-  "fullNameLabel": "Nombre Completo",
-  "fullNamePlaceholder": "Su nombre completo",
-  "emailLabel": "Correo Electrónico",
-  "emailPlaceholder": "Su Correo Electrónico",
-  "phoneLabel": "Teléfono",
-  "phonePlaceholder": "Su teléfono",
-  "addressLabel": "Dirección",
-  "addressPlaceholder": "Ubicación de la dirección",
-  "companyNameLabel": "Empresa",
-  "companyNamePlaceholder": "Nombre de su empresa",
-  "messageLabel": "Mensaje",
-  "messagePlaceholder": "Su mensaje",
-
-  "propertyLocationLabel": "Ubicación de la Propiedad",
-  "propertyLocationPlaceholder": "Ubicación",
-  "propertyRoomAmountLabel": "Número de Habitaciones",
-  "propertyRoomAmountPlaceholder": "Número",
-  "propertyMessageLabel": "Mensaje / Comentarios o Solicitudes Especiales",
-  "propertyMessagePlaceholder": "Su Mensaje",
-
-  "submit": "Enviar",
-  "formSubmittedSuccessfully": "Formulario enviado con éxito!",
-  "thankYouForYourSubmission": "Gracias por su envío. Nos pondremos en contacto en breve.",
-  "backToStart": "Volver al Inicio",
+    "fullNameLabel": "Nombre Completo",
+    "fullNamePlaceholder": "Su nombre completo",
+    "emailLabel": "Correo Electrónico",
+    "emailPlaceholder": "Su correo electrónico",
+    "messageLabel": "Mensaje",
+    "messagePlaceholder": "Su mensaje",
+  
+    "serviceTypeLabel": "Tipo de Servicio",
+    "rentalService": "Alquiler de Ropa",
+    "laundryService": "Lavandería",
+  
+    "submit": "Enviar",
+    "formSubmittedSuccessfully": "¡Formulario enviado con éxito!",
+    "thankYouForYourSubmission": "Gracias por su envío. Nos pondremos en contacto pronto.",
+    "backToStart": "Volver al Inicio",  
 
   "legalLinks": [
     {
@@ -352,6 +350,172 @@
     {"text": "All fees are due on the 1st of each month"},
     {"text": "Equipment maintenance covered by provider"},
     {"text": "Cancellation requires 30-day notice"}
-  ]
-}
+  ],
 
+    "titlelaundryservice": "Servicio de lavandería",
+    "description": "Ya sea un hotel, una casa de huéspedes o un servicio de conserjería, Excellence Laundry está aquí para simplificar la gestión de su lencería y garantizar que siempre esté limpia e impecable para sus clientes. Diga adiós a las preocupaciones sobre la logística y el mantenimiento de sus textiles y equipos de higiene. Déjenos encargarnos de esas tareas para que pueda concentrarse en lo que realmente importa: ofrecer una experiencia inolvidable a sus clientes.",
+    "rates": "TARIFAS",
+    "professionalpackages": "Paquetes profesionales",
+    "packageDescription": "En Excellence Laundry, ofrecemos paquetes personalizados para satisfacer las necesidades específicas de hoteles, casas de huéspedes y servicios de conserjería. Nuestros paquetes están diseñados para garantizar la calidad y eficiencia en el tratamiento de su lencería y equipos de higiene, siempre con el objetivo de proporcionar la mejor experiencia a sus clientes. Contáctenos para conocer los paquetes disponibles y elegir el que mejor se adapte a su negocio. Estamos aquí para simplificar la gestión de su establecimiento, permitiéndole concentrarse en lo que realmente importa.",
+    "serviceDescriptionPrice": "Servicio Descripción Precio",
+    "largebedkit": "Kit de cama grande",
+    "largebedkitDescription": "Lavado, secado y planchado para 1 cama doble (140, 160 o 180 cm): 1 sábana, 1 funda de edredón, 2 fundas de almohada",
+    "largebedkitPrice": "12,00€",
+    "smallbedkit": "Kit de cama pequeña",
+    "smallbedkitDescription": "Lavado, secado y planchado para 1 cama individual (80 o 90 cm): 1 sábana, 1 funda de edredón, 1 funda de almohada",
+    "smallbedkitPrice": "10,00€",
+    "duokit": "Kit dúo",
+    "duokitDescription": "Lavado, secado, planchado y doblado: 1 sábana ajustable, 1 funda de edredón, 2 fundas de almohada, 2 toallas de baño, 2 toallas de mano, 1 alfombrilla de baño, 2 paños de cocina",
+    "duokitPrice": "19,00€",
+    "priceperitem": "Precio por pieza",
+    "pillowcase": "Funda de almohada",
+    "pillowcaseDescription": "Lavado, secado y planchado",
+    "pillowcasePrice": "2,00€",
+    "duvetcover": "Funda de edredón",
+    "duvetcoverDescription": "Lavado, secado y planchado",
+    "duvetcoverPrice": "6,00€",
+    "tablecloth": "Mantel",
+    "tableclothDescription": "Lavado, secado y planchado",
+    "tableclothPrice": "4,50€",
+    "sheetorfittedsheet": "Sábana o sábana ajustable",
+    "sheetorfittedsheetDescription": "Lavado, secado y planchado",
+    "sheetorfittedsheetPrice": "3,50€",
+    "dishcloth": "Paño de cocina",
+    "dishclothDescription": "Lavado, secado y planchado",
+    "dishclothPrice": "0,80€",
+    "bathtowel": "Toalla de baño",
+    "bathtowelDescription": "Lavado, secado y doblado",
+    "bathtowelPrice": "2,00€",
+    "handtowel": "Toalla pequeña",
+    "handtowelDescription": "Lavado, secado y doblado",
+    "handtowelPrice": "1,50€",
+    "duvet": "Edredón",
+    "duvetDescription": "Lavado y secado",
+    "duvetPrice": "20,00€",
+    "mattressprotector": "Protector de colchón",
+    "mattressprotectorDescription": "Lavado y secado",
+    "mattressprotectorPrice": "4,50€",
+    "bathmat": "Alfombra de baño",
+    "bathmatDescription": "Lavado y secado",
+    "bathmatPrice": "2,50€",
+    "pillowprotector": "Protector de almohada",
+    "pillowprotectorDescription": "Lavado y secado",
+    "pillowprotectorPrice": "2,00€",
+
+      "titleLaundry": "Alquiler de Ropa de Cama",
+      "descriptionLaundry": "En Excellence Laundry, ofrecemos un servicio de alquiler y mantenimiento de ropa de cama para profesionales, una alternativa práctica y económica para la gestión de su ropa. Con nuestro servicio, puede alquilar almohadas, sábanas, edredones, fundas de edredón, toallas y mucho más, y nosotros nos encargamos de todo por usted. Garantizamos que toda su ropa de cama estará siempre limpia y fresca durante todo el año, gracias a nuestro servicio profesional de mantenimiento. Nuestro servicio de alquiler y mantenimiento está diseñado para ayudarle a centrarse en la experiencia de sus clientes, mientras dejamos la gestión de su ropa en manos de nuestros especialistas. Ofrecemos soluciones de alquiler económicas para hoteles, alquileres vacacionales y otros profesionales, adaptadas a sus necesidades específicas.",
+    
+      "tariffsLaundry": "TARIFAS",
+    
+      "tariffsLaundrytitletable": "Paquetes de Alquiler de Ropa",
+      "packageDuo": "Kit Dúo",
+      "packageDescriptionDuo": "Alquiler completo: 1 sábana ajustable, 1 funda de edredón, 2 fundas de almohada, 2 toallas de baño, 2 toallas de mano, 1 alfombra de baño, 1 paño de cocina",
+      "priceDuo": "25,00€",
+    
+      "packageLargeBed": "Kit Cama Grande",
+      "packageDescriptionLargeBed": "Alquiler para 1 cama doble (140, 160 o 180 cm): 1 sábana, 1 funda de edredón, 2 fundas de almohada",
+      "priceLargeBed": "19,00€",
+    
+      "packageSmallBed": "Kit Cama Pequeña",
+      "packageDescriptionSmallBed": "Alquiler para 1 cama individual (80 o 90 cm): 1 sábana, 1 funda de edredón, 1 funda de almohada",
+      "priceSmallBed": "14,00€",
+    
+      "packageBathTwoPeople": "Kit Baño 2 Personas",
+      "packageDescriptionBathTwoPeople": "2 toallas de baño, 2 toallas de mano",
+      "priceBathTwoPeople": "8,50€",
+    
+      "packageBathOnePerson": "Kit Baño 1 Persona",
+      "packageDescriptionBathOnePerson": "1 toalla de baño, 1 toalla de mano",
+      "priceBathOnePerson": "5,00€",
+    
+      "packageKitchenTowels": "Kit Paños de Cocina",
+      "packageDescriptionKitchenTowels": "2 paños de cocina (40x40 cm)",
+      "priceKitchenTowels": "1,80€",
+    
+      
+"tariffsLaundrytitletable2": "Tarifas de Alquiler por Artículo",
+      "itemDuvet": "Edredón",
+      "itemDescriptionDuvet": "1 edredón (220x240)",
+      "priceDuvet": "14,00€",
+    
+      "itemDuvetCoverLarge": "Funda de Edredón Cama Grande",
+      "itemDescriptionDuvetCoverLarge": "1 funda de edredón (220x240 o 240x260)",
+      "priceDuvetCoverLarge": "9,00€",
+    
+      "itemDuvetCoverSmall": "Funda de Edredón Cama Pequeña",
+      "itemDescriptionDuvetCoverSmall": "1 funda de edredón",
+      "priceDuvetCoverSmall": "7,00€",
+    
+      "itemSheetLarge": "Sábana/Sábana Grande",
+      "itemDescriptionSheetLarge": "1 sábana ajustable o plana (140, 160 o 180 cm)",
+      "priceSheetLarge": "6,00€",
+    
+      "itemSheetSmall": "Sábana/Sábana Pequeña",
+      "itemDescriptionSheetSmall": "1 sábana ajustable (80x200 o 90x200)",
+      "priceSheetSmall": "5,00€",
+    
+      "itemBeachTowel": "Toalla de Playa",
+      "itemDescriptionBeachTowel": "1 toalla de playa tamaño grande",
+      "priceBeachTowel": "5,00€",
+    
+      "itemBathTowel": "Toalla de Baño",
+      "itemDescriptionBathTowel": "1 toalla de baño",
+      "priceBathTowel": "3,50€",
+    
+      "itemBathMat": "Alfombra de Baño",
+      "itemDescriptionBathMat": "1 alfombra de baño",
+      "priceBathMat": "3,00€",
+    
+      "itemPillowcase": "Funda de Almohada",
+      "itemDescriptionPillowcase": "1 funda de almohada (50x70 cm o 65x65 cm)",
+      "pricePillowcase": "2,00€",
+    
+      
+"tariffsLaundrytitletable3": "Para Bebés",
+      "itemKitchenCloth": "Paño de Cocina",
+      "itemDescriptionKitchenCloth": "1 paño de cocina",
+      "priceKitchenCloth": "1,50€",
+    
+      "babyItemCrib": "Cuna Portátil",
+      "babyItemDescriptionCrib": "Alquiler de cuna portátil con colchón y funda de protección",
+      "priceBabyCrib": "10,00€",
+    
+      "babyItemBedSet": "Kit Sábana Bebé",
+      "babyItemDescriptionBedSet": "1 sábana bebé + 1 manta bebé",
+      "priceBabyBedSet": "5,00€",
+    
+      "babyItemHighChair": "Silla Alta",
+      "babyItemDescriptionHighChair": "1 silla alta para bebé",
+      "priceBabyHighChair": "5,00€",
+
+
+      "tariffsLaundrytitletable4": "Productos Consumibles",
+      "consumableSoap": "Jabón Líquido",
+      "consumableDescriptionSoap": "Jabón líquido de Marsella",
+      "priceSoap": "5,00€",
+    
+      "consumableHandSoap": "Jabón de Manos",
+      "consumableDescriptionHandSoap": "Jabón pequeño para manos (precio por unidad)",
+      "priceHandSoap": "2,00€",
+    
+      "consumablePaperTowel": "Rollo de Papel de Cocina",
+      "consumableDescriptionPaperTowel": "Papel de cocina desechable (precio por rollo)",
+      "pricePaperTowel": "1,50€",
+    
+      "consumableToiletPaper": "Rollo de Papel Higiénico",
+      "consumableDescriptionToiletPaper": "Papel higiénico de triple capa (precio por rollo)",
+      "priceToiletPaper": "0,80€",
+    
+      "rentalConditionss": "Condiciones de Alquiler",
+      "rentalCondition1": "Todos nuestros alquileres son por un período máximo de 7 noches. Se cobrará una tarifa adicional de 2€ por kit, por noche, a partir de la 8ª noche.",
+      "rentalCondition2": "Se solicitará un depósito de garantía en el primer alquiler.",
+      "rentalCondition3": "En caso de uso excesivo (manchas de sangre, maquillaje, huellas de zapatos, tinta, etc.), se aplicará un cargo adicional.",
+      "rentalCondition4": "En caso de daños, cobramos el costo de reemplazo del artículo nuevo.",
+    
+      "finalNotes": "Estos precios y condiciones garantizan que los servicios ofrecidos por Excellence Laundry satisfacen las necesidades de nuestros clientes profesionales con practicidad y calidad.",
+    
+      "packageAluguell": "Paquete",
+      "descriptionAluguell": "Descripción",
+      "priceAluguell": "Precio"
+
+    }
