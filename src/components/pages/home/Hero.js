@@ -31,7 +31,7 @@ export default function Hero() {
 
   return (
     <div>
-      <div className="curve relative overflow-hidden before:w-[1280px] before:h-[71px] before:bg-no-repeat before:bg-[url('/assets/images/detail1.webp')] before:bottom-[0] before:content-[''] before:absolute before:left-[50%] before:bg-[length:100%_100%] lg:before:w-full bg-color03">
+      <div id="home" className="curve relative overflow-hidden before:w-[1280px] before:h-[71px] before:bg-no-repeat before:bg-[url('/assets/images/detail1.webp')] before:bottom-[0] before:content-[''] before:absolute before:left-[50%] before:bg-[length:100%_100%] lg:before:w-full bg-color03">
         <motion.div
           ref={ref}
           initial="hidden"
