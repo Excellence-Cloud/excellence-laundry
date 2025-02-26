@@ -14,8 +14,6 @@ import IntroductionSkeleton from "@/components/skeleton-loaders/IntroductionSkel
 import WhyUsSkeleton from "@/components/skeleton-loaders/WhyUsSkeleton";
 import TeamSkeleton from "@/components/skeleton-loaders/TeamSkeleton";
 import AboutSkeleton from "@/components/skeleton-loaders/AboutSkeleton";
-import ServicesSkeleton from "@/components/skeleton-loaders/ServicesSkeleton";
-import PacksSkeleton from "@/components/skeleton-loaders/PacksSkeleton";
 import LavanderiaSkeleton from "@/components/skeleton-loaders/LavanderiaSkeleton";
 import AluguelSkeleton from "@/components/skeleton-loaders/AluguelSkeleton";
 import FaqSkeleton from "@/components/skeleton-loaders/FaqSkeleton";
@@ -56,17 +54,6 @@ const Team = dynamic(() => import("@/components/pages/home/Team"), {
 });
 const About = dynamic(() => import("@/components/pages/home/About"), {
   loading: () => <AboutSkeleton />,
-  ssr: false,
-});
-const Services = dynamic(
-  () => import("@/components/pages/home/Services/Services"),
-  {
-    loading: () => <ServicesSkeleton />,
-    ssr: false,
-  },
-);
-const Packs = dynamic(() => import("@/components/pages/home/Packs"), {
-  loading: () => <PacksSkeleton />,
   ssr: false,
 });
 const Lavanderia = dynamic(() => import("@/components/pages/home/Lavanderia"), {
@@ -187,8 +174,6 @@ export default function Home(props) {
           <WhyUs />
           <Team />
           <About />
-                {/*<Services />*/}
-          {/*<Packs />*/}
           <Lavanderia />
           <Aluguel />
           <Faq />
