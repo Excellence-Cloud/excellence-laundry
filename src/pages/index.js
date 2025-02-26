@@ -190,8 +190,8 @@ export default function Home(props) {
           <Services />
           <Packs />
           <Lavanderia />
-          <Faq />
           <Aluguel />
+          <Faq />
 
           <div className="flex flex-col gap-[32px]">
             <ContactUpper />
