@@ -10,7 +10,7 @@ export default function Introduction() {
   const { ref, controls, imageVariants } = useScrollAnimation();
 
   return (
-    <div className="md:h-[full] px-[24px] lg:px-[80px] mx-auto max-w-[640px] md:max-w-full xl:max-w-[1280px] flex flex-col gap-[32px] md:grid md:grid-cols-[450fr_638fr] w-full">
+    <div id="service" className="md:h-[full] px-[24px] lg:px-[80px] mx-auto max-w-[640px] md:max-w-full xl:max-w-[1280px] flex flex-col gap-[32px] md:grid md:grid-cols-[450fr_638fr] w-full">
       <Image
         aria-hidden={true}
         src="/assets/images/img2.webp"
