@@ -1,4 +1,95 @@
 {
+
+
+    "plansItemThreeTitle": "Enterprise Plan",
+  "plansItemThreeDescription": "Best for large enterprises with custom needs",
+  "plansItemThreeArray": [
+    {"text": "Everything in Professional Plan"},
+    {"text": "Unlimited storage"},
+    {"text": "Custom integrations"},
+    {"text": "Dedicated account manager"},
+    {"text": "On-site training and support"}
+  ],
+
+  "customSolutionTitle": "Tailored Solutions for Your Unique Needs",
+  "customSolutionDescription": "We offer custom solutions that align perfectly with your business requirements. Our team works with you to create the ideal setup.",
+  "customSolutionCTA": "Contact Us for a Custom Quote",
+
+  "rentalConditionsTitle": "Terms and Rental Conditions",
+  "rentalConditions": [
+    {"text": "Minimum contract duration of 12 months"},
+    {"text": "Early termination fees apply"},
+    {"text": "All fees are due on the 1st of each month"},
+    {"text": "Equipment maintenance covered by provider"},
+    {"text": "Cancellation requires 30-day notice"}
+  ],
+
+  
+  "servicesSubtitle": "Os Nossos Serviços",
+  "servicesTitle": "Ofertas da Excellence Cleaners",
+  "services": [
+    {
+      "image": "img4.webp",
+      "shortTitle": "Limpeza entre alugueres sazonais",
+      "title": "Limpeza entre alugueres sazonais",
+      "description": "Este serviço é pensado para os proprietários de moradias ou apartamentos em aluguer sazonal. Intervimos entre cada aluguer para preparar a sua propriedade, garantindo que os seus hóspedes encontrem um espaço imaculado à chegada. Cada intervenção é realizada minuciosamente, para manter a sua propriedade no melhor estado possível e garantir críticas positivas e a máxima satisfação dos seus hóspedes."
+    },
+    {
+      "image": "img5.webp",
+      "shortTitle": "Limpeza anual para proprietários residentes",
+      "title": "Limpeza anual para proprietários residentes",
+      "description": "Oferecemos serviços de limpeza recorrentes para proprietários que residem nas suas habitações ao longo do ano. As nossas prestações adaptam-se ao seu horário e asseguramos a manutenção de uma limpeza irrepreensível na sua casa, semana após semana."
+    },
+    {
+      "image": "img6.webp",
+      "shortTitle": "Limpeza de preparação",
+      "title": "Limpeza de preparação",
+      "description": "Este serviço é perfeito para preparar uma propriedade antes de iniciar o aluguer sazonal. Realizamos uma limpeza completa e profunda, garantindo que o seu imóvel está pronto para receber os primeiros hóspedes."
+    },
+    {
+      "image": "img7.webp",
+      "shortTitle": "Limpeza profunda",
+      "title": "Limpeza profunda",
+      "description": "Para uma manutenção intensiva, este serviço é ideal para limpar as zonas mais difíceis de aceder, os cantos, os tecidos e superfícies que necessitam de atenção especial. Esta limpeza é recomendada antes do início de uma nova temporada de aluguer."
+    },
+    {
+      "image": "img8.webp",
+      "shortTitle": "Limpeza de sofás e tapetes",
+      "title": "Limpeza de sofás e tapetes",
+      "description": "Eliminação de manchas, alérgenos e odores, preservando a qualidade dos seus tecidos e mobiliário"
+    },
+    {
+      "image": "img9.webp",
+      "shortTitle": "Limpeza de janelas",
+      "title": "Limpeza de janelas",
+      "description": "As nossas equipas garantem um serviço impecável, deixando as suas janelas perfeitamente limpas e sem manchas, para o máximo de luminosidade."
+    }
+  ],
+  "servicesButtonOne": "Descubra Nossos Serviços",
+  "servicesButtonTwo": "Entre em Contato",
+  "servicesButtonThree": "Solicitar Orçamento",
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   "guideLinesLanguagesLocale": "Warning: Do not alter the DO_NOT_CHANGE and currentLocale fields. They are linked to the website language. For example, changing 'en' to 'en_US' will lead to a non-existent page (e.g., https://excellence-conciergerie.com/en_US). Existing locales are pt, en, fr, es. Do not add non-existent locales. Only modify based on the current translation file. fr/common.js currentLocale should always be 'fr', en/common.js currentLocale should always be 'en', etc.",
   "currentLanguage": "Português",
   "currentLanguageFlag": "flag3.svg",
@@ -106,50 +197,6 @@
   "aboutDescriptionline3": "A Excellence Laundry é a escolha certa para quem busca um serviço confiável e profissional, com atenção aos detalhes e um atendimento personalizado. Estamos aqui para cuidar do que é essencial para o seu estabelecimento, para que você possa focar no que realmente importa: oferecer a melhor experiência aos seus clientes.",
   "aboutDescriptionline4": "Nossa missão é simplificar a gestão de lavanderia para nossos parceiros e garantir a máxima satisfação com os nossos serviços. Conte conosco para tornar a gestão de seu enxoval mais eficiente e sem complicação.",
   "aboutButton": "Descubra Nossa Trajetória de Excelência",
-
-  "servicesSubtitle": "Os Nossos Serviços",
-  "servicesTitle": "Ofertas da Excellence Cleaners",
-  "services": [
-    {
-      "image": "img4.webp",
-      "shortTitle": "Limpeza entre alugueres sazonais",
-      "title": "Limpeza entre alugueres sazonais",
-      "description": "Este serviço é pensado para os proprietários de moradias ou apartamentos em aluguer sazonal. Intervimos entre cada aluguer para preparar a sua propriedade, garantindo que os seus hóspedes encontrem um espaço imaculado à chegada. Cada intervenção é realizada minuciosamente, para manter a sua propriedade no melhor estado possível e garantir críticas positivas e a máxima satisfação dos seus hóspedes."
-    },
-    {
-      "image": "img5.webp",
-      "shortTitle": "Limpeza anual para proprietários residentes",
-      "title": "Limpeza anual para proprietários residentes",
-      "description": "Oferecemos serviços de limpeza recorrentes para proprietários que residem nas suas habitações ao longo do ano. As nossas prestações adaptam-se ao seu horário e asseguramos a manutenção de uma limpeza irrepreensível na sua casa, semana após semana."
-    },
-    {
-      "image": "img6.webp",
-      "shortTitle": "Limpeza de preparação",
-      "title": "Limpeza de preparação",
-      "description": "Este serviço é perfeito para preparar uma propriedade antes de iniciar o aluguer sazonal. Realizamos uma limpeza completa e profunda, garantindo que o seu imóvel está pronto para receber os primeiros hóspedes."
-    },
-    {
-      "image": "img7.webp",
-      "shortTitle": "Limpeza profunda",
-      "title": "Limpeza profunda",
-      "description": "Para uma manutenção intensiva, este serviço é ideal para limpar as zonas mais difíceis de aceder, os cantos, os tecidos e superfícies que necessitam de atenção especial. Esta limpeza é recomendada antes do início de uma nova temporada de aluguer."
-    },
-    {
-      "image": "img8.webp",
-      "shortTitle": "Limpeza de sofás e tapetes",
-      "title": "Limpeza de sofás e tapetes",
-      "description": "Eliminação de manchas, alérgenos e odores, preservando a qualidade dos seus tecidos e mobiliário"
-    },
-    {
-      "image": "img9.webp",
-      "shortTitle": "Limpeza de janelas",
-      "title": "Limpeza de janelas",
-      "description": "As nossas equipas garantem um serviço impecável, deixando as suas janelas perfeitamente limpas e sem manchas, para o máximo de luminosidade."
-    }
-  ],
-  "servicesButtonOne": "Descubra Nossos Serviços",
-  "servicesButtonTwo": "Entre em Contato",
-  "servicesButtonThree": "Solicitar Orçamento",
 
   "faqSubtitle": "Perguntas Frequentes",
   "faqTitle": "Estamos Aqui para Ajudar",
@@ -318,29 +365,6 @@
     {"text": "Advanced analytics"},
     {"text": "Team collaboration tools"},
     {"text": "Priority support"}
-  ],
-
-  "plansItemThreeTitle": "Enterprise Plan",
-  "plansItemThreeDescription": "Best for large enterprises with custom needs",
-  "plansItemThreeArray": [
-    {"text": "Everything in Professional Plan"},
-    {"text": "Unlimited storage"},
-    {"text": "Custom integrations"},
-    {"text": "Dedicated account manager"},
-    {"text": "On-site training and support"}
-  ],
-
-  "customSolutionTitle": "Tailored Solutions for Your Unique Needs",
-  "customSolutionDescription": "We offer custom solutions that align perfectly with your business requirements. Our team works with you to create the ideal setup.",
-  "customSolutionCTA": "Contact Us for a Custom Quote",
-
-  "rentalConditionsTitle": "Terms and Rental Conditions",
-  "rentalConditions": [
-    {"text": "Minimum contract duration of 12 months"},
-    {"text": "Early termination fees apply"},
-    {"text": "All fees are due on the 1st of each month"},
-    {"text": "Equipment maintenance covered by provider"},
-    {"text": "Cancellation requires 30-day notice"}
   ],
 
     "titlelaundryservice": "Lavanderia",
