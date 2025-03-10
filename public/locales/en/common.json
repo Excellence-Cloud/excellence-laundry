@@ -1,4 +1,111 @@
 {
+
+  "servicesSubtitle": "Our Services",
+  "servicesTitle": "Offers from Excellence Cleaners",
+  "services": [
+    {
+      "image": "img4.webp",
+      "shortTitle": "Cleaning Between Seasonal Rentals",
+      "title": "Cleaning Between Seasonal Rentals",
+      "description": "This service is designed for owners of villas or apartments in seasonal rental. We intervene between each rental to prepare your property, ensuring that your guests find an immaculate space upon arrival. Each intervention is carried out meticulously to maintain your property in the best possible condition, guaranteeing positive reviews and maximum satisfaction from your guests."
+    },
+    {
+      "image": "img5.webp",
+      "shortTitle": "Annual Cleaning for Resident Owners",
+      "title": "Annual Cleaning for Resident Owners",
+      "description": "We offer recurring cleaning services for owners who reside in their homes throughout the year. Our services are adapted to your schedule, ensuring the maintenance of impeccable cleanliness in your home, week after week."
+    },
+    {
+      "image": "img6.webp",
+      "shortTitle": "Preparation Cleaning",
+      "title": "Preparation Cleaning",
+      "description": "This service is perfect for preparing a property before starting seasonal rentals. We perform a complete and thorough cleaning, ensuring that your property is ready to welcome the first guests."
+    },
+    {
+      "image": "img7.webp",
+      "shortTitle": "Deep Cleaning",
+      "title": "Deep Cleaning",
+      "description": "For intensive maintenance, this service is ideal for cleaning hard-to-reach areas, corners, fabrics, and surfaces that require special attention. This cleaning is recommended before the start of a new rental season."
+    },
+    {
+      "image": "img8.webp",
+      "shortTitle": "Sofa and Carpet Cleaning",
+      "title": "Sofa and Carpet Cleaning",
+      "description": "Removal of stains, allergens, and odors while preserving the quality of your fabrics and furniture."
+    },
+    {
+      "image": "img9.webp",
+      "shortTitle": "Window Cleaning",
+      "title": "Window Cleaning",
+      "description": "Our teams ensure impeccable service, leaving your windows perfectly clean and streak-free for maximum brightness."
+    }
+  ],
+  "servicesButtonOne": "Discover Our Services",
+  "servicesButtonTwo": "Get in Touch",
+  "servicesButtonThree": "Request a Quote",
+
+  "plansSubtitle": "Our Flexible Plans for Every Need",
+  "plansTitle": "Choose Your Perfect Plan",
+
+  "plansItemOneTitle": "Basic Plan",
+  "plansItemOneDescription": "Ideal for individuals looking for essential features",
+  "plansItemOneArray": [
+    {"text": "Access to basic features"},
+    {"text": "24/7 customer support"},
+    {"text": "Limited storage capacity"},
+    {"text": "Monthly performance reports"}
+  ],
+
+  "plansItemTwoTitle": "Professional Plan",
+  "plansItemTwoDescription": "Perfect for small teams and growing businesses",
+  "plansItemTwoArray": [
+    {"text": "Everything in Basic Plan"},
+    {"text": "Extended storage capacity"},
+    {"text": "Advanced analytics"},
+    {"text": "Team collaboration tools"},
+    {"text": "Priority support"}
+  ],
+
+  "plansItemThreeTitle": "Enterprise Plan",
+  "plansItemThreeDescription": "Best for large enterprises with custom needs",
+  "plansItemThreeArray": [
+    {"text": "Everything in Professional Plan"},
+    {"text": "Unlimited storage"},
+    {"text": "Custom integrations"},
+    {"text": "Dedicated account manager"},
+    {"text": "On-site training and support"}
+  ],
+
+  "customSolutionTitle": "Tailored Solutions for Your Unique Needs",
+  "customSolutionDescription": "We offer custom solutions that align perfectly with your business requirements. Our team works with you to create the ideal setup.",
+  "customSolutionCTA": "Contact Us for a Custom Quote",
+
+  "rentalConditionsTitle": "Terms and Rental Conditions",
+  "rentalConditions": [
+    {"text": "Minimum contract duration of 12 months"},
+    {"text": "Early termination fees apply"},
+    {"text": "All fees are due on the 1st of each month"},
+    {"text": "Equipment maintenance covered by provider"},
+    {"text": "Cancellation requires 30-day notice"}
+  ],
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
   "guideLinesLanguagesLocale": "Warning: Do not alter the DO_NOT_CHANGE and currentLocale fields. They are linked to the website language. For example, changing 'en' to 'en_US' will lead to a non-existent page (e.g., https://excellence-conciergerie.com/en_US). Existing locales are pt, en, fr, es. Do not add non-existent locales. Only modify based on the current translation file. fr/common.js currentLocale should always be 'fr', en/common.js currentLocale should always be 'en', etc.",
   "currentLanguage": "English",
   "currentLanguageFlag": "flag1.svg",
@@ -106,51 +213,7 @@
   "aboutDescriptionline3": "Excellence Laundry is the right choice for those seeking a reliable and professional service, with attention to detail and personalized customer care. We are here to take care of what is essential for your establishment so that you can focus on what truly matters: providing the best experience for your customers.",
   "aboutDescriptionline4": "Our mission is to simplify laundry management for our partners and ensure maximum satisfaction with our services. Count on us to make your linen management more efficient and hassle-free.",
   "aboutButton": "Discover Our Journey of Excellence",
-
-  "servicesSubtitle": "Our Services",
-  "servicesTitle": "Offers from Excellence Cleaners",
-  "services": [
-    {
-      "image": "img4.webp",
-      "shortTitle": "Cleaning Between Seasonal Rentals",
-      "title": "Cleaning Between Seasonal Rentals",
-      "description": "This service is designed for owners of villas or apartments in seasonal rental. We intervene between each rental to prepare your property, ensuring that your guests find an immaculate space upon arrival. Each intervention is carried out meticulously to maintain your property in the best possible condition, guaranteeing positive reviews and maximum satisfaction from your guests."
-    },
-    {
-      "image": "img5.webp",
-      "shortTitle": "Annual Cleaning for Resident Owners",
-      "title": "Annual Cleaning for Resident Owners",
-      "description": "We offer recurring cleaning services for owners who reside in their homes throughout the year. Our services are adapted to your schedule, ensuring the maintenance of impeccable cleanliness in your home, week after week."
-    },
-    {
-      "image": "img6.webp",
-      "shortTitle": "Preparation Cleaning",
-      "title": "Preparation Cleaning",
-      "description": "This service is perfect for preparing a property before starting seasonal rentals. We perform a complete and thorough cleaning, ensuring that your property is ready to welcome the first guests."
-    },
-    {
-      "image": "img7.webp",
-      "shortTitle": "Deep Cleaning",
-      "title": "Deep Cleaning",
-      "description": "For intensive maintenance, this service is ideal for cleaning hard-to-reach areas, corners, fabrics, and surfaces that require special attention. This cleaning is recommended before the start of a new rental season."
-    },
-    {
-      "image": "img8.webp",
-      "shortTitle": "Sofa and Carpet Cleaning",
-      "title": "Sofa and Carpet Cleaning",
-      "description": "Removal of stains, allergens, and odors while preserving the quality of your fabrics and furniture."
-    },
-    {
-      "image": "img9.webp",
-      "shortTitle": "Window Cleaning",
-      "title": "Window Cleaning",
-      "description": "Our teams ensure impeccable service, leaving your windows perfectly clean and streak-free for maximum brightness."
-    }
-  ],
-  "servicesButtonOne": "Discover Our Services",
-  "servicesButtonTwo": "Get in Touch",
-  "servicesButtonThree": "Request a Quote",
-
+  
     "faqSubtitle": "Frequently Asked Questions",
   "faqTitle": "We Are Here to Help",
   "faqDescriptionOne": "Do you have questions about our services? We have compiled answers to the most common questions to help you better understand how we work and what we offer.",
@@ -297,51 +360,6 @@
   "thankYouDescription": "We appreciate you getting in touch. Our team will review your message and respond as soon as possible.",
   "additionalInfo": "In the meantime, feel free to explore our website further.",
   "goBackHome": "Go Back to Homepage",
-
-    "plansSubtitle": "Our Flexible Plans for Every Need",
-  "plansTitle": "Choose Your Perfect Plan",
-
-  "plansItemOneTitle": "Basic Plan",
-  "plansItemOneDescription": "Ideal for individuals looking for essential features",
-  "plansItemOneArray": [
-    {"text": "Access to basic features"},
-    {"text": "24/7 customer support"},
-    {"text": "Limited storage capacity"},
-    {"text": "Monthly performance reports"}
-  ],
-
-  "plansItemTwoTitle": "Professional Plan",
-  "plansItemTwoDescription": "Perfect for small teams and growing businesses",
-  "plansItemTwoArray": [
-    {"text": "Everything in Basic Plan"},
-    {"text": "Extended storage capacity"},
-    {"text": "Advanced analytics"},
-    {"text": "Team collaboration tools"},
-    {"text": "Priority support"}
-  ],
-
-  "plansItemThreeTitle": "Enterprise Plan",
-  "plansItemThreeDescription": "Best for large enterprises with custom needs",
-  "plansItemThreeArray": [
-    {"text": "Everything in Professional Plan"},
-    {"text": "Unlimited storage"},
-    {"text": "Custom integrations"},
-    {"text": "Dedicated account manager"},
-    {"text": "On-site training and support"}
-  ],
-
-  "customSolutionTitle": "Tailored Solutions for Your Unique Needs",
-  "customSolutionDescription": "We offer custom solutions that align perfectly with your business requirements. Our team works with you to create the ideal setup.",
-  "customSolutionCTA": "Contact Us for a Custom Quote",
-
-  "rentalConditionsTitle": "Terms and Rental Conditions",
-  "rentalConditions": [
-    {"text": "Minimum contract duration of 12 months"},
-    {"text": "Early termination fees apply"},
-    {"text": "All fees are due on the 1st of each month"},
-    {"text": "Equipment maintenance covered by provider"},
-    {"text": "Cancellation requires 30-day notice"}
-  ],
 
     "titlelaundryservice": "Laundry Service",
     "description": "Whether it's a hotel, a guesthouse, or a concierge service, Excellence Laundry is here to simplify the management of your linen and ensure it is always clean and impeccable for your customers. Say goodbye to concerns about logistics and the maintenance of your textiles and hygiene equipment. Let us take care of these tasks so you can focus on what truly matters: providing an unforgettable experience for your customers.",
