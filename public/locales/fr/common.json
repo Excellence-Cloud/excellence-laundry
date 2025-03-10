@@ -1,4 +1,123 @@
 {
+
+  
+  "servicesSubtitle": "Nos Services",
+  "servicesTitle": "Offres d'Excellence Cleaners",
+  "services": [
+    {
+      "image": "img4.webp",
+      "shortTitle": "Nettoyage entre locations saisonnières",
+      "title": "Nettoyage entre locations saisonnières",
+      "description": "Ce service est conçu pour les propriétaires de villas ou d'appartements en location saisonnière. Nous intervenons entre chaque location pour préparer votre bien, afin que vos locataires trouvent une propriété immaculée à leur arrivée. Chaque intervention est minutieusement réalisée pour que votre bien reste au meilleur de sa forme, et ainsi garantir des avis positifs et une satisfaction locataire optimale."
+    },
+    {
+      "image": "img5.webp",
+      "shortTitle": "Ménage à l’année pour propriétaires résidents",
+      "title": "Ménage à l’année pour propriétaires résidents",
+      "description": "Nous proposons des services de ménage récurrents pour les propriétaires qui résident dans leur logement à l'année. Nos prestations s'adaptent à votre emploi du temps, et nous veillons à maintenir une propreté irréprochable de votre domicile, semaine après semaine."
+    },
+    {
+      "image": "img6.webp",
+      "shortTitle": "Ménage de mise en route (ou premier ménage)",
+      "title": "Ménage de mise en route (ou premier ménage)",
+      "description": "Ce service est parfait pour préparer un bien avant sa mise en location saisonnière. Nous effectuons un nettoyage complet et approfondi afin que votre propriété soit prête pour accueillir ses premiers locataires."
+    },
+    {
+      "image": "img7.webp",
+      "shortTitle": "Deep cleaning (nettoyage en profondeur)",
+      "title": "Deep cleaning (nettoyage en profondeur)",
+      "description": "Pour un entretien approfondi, ce service est idéal pour nettoyer les zones les plus difficiles d'accès, les recoins, les textiles et les surfaces qui nécessitent une attention particulière. Ce nettoyage est recommandé avant le début d’une nouvelle saison de location.pq?"
+    },
+    {
+      "image": "img8.webp",
+      "shortTitle": "Nettoyage de canapés et tapis",
+      "title": "Nettoyage de canapés et tapis",
+      "description": "Élimination des taches, allergènes et odeurs pour préserver la qualité de vos textiles et meubles."
+    },
+    {
+      "image": "img9.webp",
+      "shortTitle": "Nettoyage de vitres",
+      "title": "Nettoyage de vitres",
+      "description": "Nos équipes assurent un service impeccable, laissant vos fenêtres parfaitement propres et sans traces, pour un maximum de luminosité."
+    }
+  ],
+  "servicesButtonOne": "Découvrez Nos Services",
+  "servicesButtonTwo": "Contactez-Nous",
+  "servicesButtonThree": "Demander un Devis",
+
+
+  "thankYouSubtitle": "Merci!",
+  "thankYouTitle": "Votre soumission a été reçue!",
+  "thankYouDescription": "Nous vous remercions de nous avoir contactés. Notre équipe examinera votre message et répondra dès que possible.",
+  "additionalInfo": "En attendant, n'hésitez pas à explorer davantage notre site web.",
+  "goBackHome": "Retourner à la Page d'Accueil",
+
+  "plansSubtitle": "Our Flexible Plans for Every Need",
+  "plansTitle": "Choose Your Perfect Plan",
+
+  "plansItemOneTitle": "Basic Plan",
+  "plansItemOneDescription": "Ideal for individuals looking for essential features",
+  "plansItemOneArray": [
+    {"text": "Access to basic features"},
+    {"text": "24/7 customer support"},
+    {"text": "Limited storage capacity"},
+    {"text": "Monthly performance reports"}
+  ],
+
+  "plansItemTwoTitle": "Professional Plan",
+  "plansItemTwoDescription": "Perfect for small teams and growing businesses",
+  "plansItemTwoArray": [
+    {"text": "Everything in Basic Plan"},
+    {"text": "Extended storage capacity"},
+    {"text": "Advanced analytics"},
+    {"text": "Team collaboration tools"},
+    {"text": "Priority support"}
+  ],
+
+  "plansItemThreeTitle": "Enterprise Plan",
+  "plansItemThreeDescription": "Best for large enterprises with custom needs",
+  "plansItemThreeArray": [
+    {"text": "Everything in Professional Plan"},
+    {"text": "Unlimited storage"},
+    {"text": "Custom integrations"},
+    {"text": "Dedicated account manager"},
+    {"text": "On-site training and support"}
+  ],
+
+  "customSolutionTitle": "Tailored Solutions for Your Unique Needs",
+  "customSolutionDescription": "We offer custom solutions that align perfectly with your business requirements. Our team works with you to create the ideal setup.",
+  "customSolutionCTA": "Contact Us for a Custom Quote",
+
+  "rentalConditionsTitle": "Terms and Rental Conditions",
+  "rentalConditions": [
+    {"text": "Minimum contract duration of 12 months"},
+    {"text": "Early termination fees apply"},
+    {"text": "All fees are due on the 1st of each month"},
+    {"text": "Equipment maintenance covered by provider"},
+    {"text": "Cancellation requires 30-day notice"}
+  ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
   "guideLinesLanguagesLocale": "Warning: Do not alter the DO_NOT_CHANGE and currentLocale fields. They are linked to the website language. For example, changing 'en' to 'en_US' will lead to a non-existent page (e.g., https://excellence-conciergerie.com/en_US). Existing locales are pt, en, fr, es. Do not add non-existent locales. Only modify based on the current translation file. fr/common.js currentLocale should always be 'fr', en/common.js currentLocale should always be 'en', etc.",
   "currentLanguage": "Français",
   "currentLanguageFlag": "flag2.svg",
@@ -216,50 +335,6 @@
   "aboutDescriptionline4": "Notre mission est de simplifier la gestion de la blanchisserie pour nos partenaires et de garantir une satisfaction maximale avec nos services. Comptez sur nous pour rendre la gestion de votre linge plus efficace et sans complication.",
   "aboutButton": "Découvrez Notre Parcours d’Excellence",
 
-  "servicesSubtitle": "Nos Services",
-  "servicesTitle": "Offres d'Excellence Cleaners",
-  "services": [
-    {
-      "image": "img4.webp",
-      "shortTitle": "Nettoyage entre locations saisonnières",
-      "title": "Nettoyage entre locations saisonnières",
-      "description": "Ce service est conçu pour les propriétaires de villas ou d'appartements en location saisonnière. Nous intervenons entre chaque location pour préparer votre bien, afin que vos locataires trouvent une propriété immaculée à leur arrivée. Chaque intervention est minutieusement réalisée pour que votre bien reste au meilleur de sa forme, et ainsi garantir des avis positifs et une satisfaction locataire optimale."
-    },
-    {
-      "image": "img5.webp",
-      "shortTitle": "Ménage à l’année pour propriétaires résidents",
-      "title": "Ménage à l’année pour propriétaires résidents",
-      "description": "Nous proposons des services de ménage récurrents pour les propriétaires qui résident dans leur logement à l'année. Nos prestations s'adaptent à votre emploi du temps, et nous veillons à maintenir une propreté irréprochable de votre domicile, semaine après semaine."
-    },
-    {
-      "image": "img6.webp",
-      "shortTitle": "Ménage de mise en route (ou premier ménage)",
-      "title": "Ménage de mise en route (ou premier ménage)",
-      "description": "Ce service est parfait pour préparer un bien avant sa mise en location saisonnière. Nous effectuons un nettoyage complet et approfondi afin que votre propriété soit prête pour accueillir ses premiers locataires."
-    },
-    {
-      "image": "img7.webp",
-      "shortTitle": "Deep cleaning (nettoyage en profondeur)",
-      "title": "Deep cleaning (nettoyage en profondeur)",
-      "description": "Pour un entretien approfondi, ce service est idéal pour nettoyer les zones les plus difficiles d'accès, les recoins, les textiles et les surfaces qui nécessitent une attention particulière. Ce nettoyage est recommandé avant le début d’une nouvelle saison de location.pq?"
-    },
-    {
-      "image": "img8.webp",
-      "shortTitle": "Nettoyage de canapés et tapis",
-      "title": "Nettoyage de canapés et tapis",
-      "description": "Élimination des taches, allergènes et odeurs pour préserver la qualité de vos textiles et meubles."
-    },
-    {
-      "image": "img9.webp",
-      "shortTitle": "Nettoyage de vitres",
-      "title": "Nettoyage de vitres",
-      "description": "Nos équipes assurent un service impeccable, laissant vos fenêtres parfaitement propres et sans traces, pour un maximum de luminosité."
-    }
-  ],
-  "servicesButtonOne": "Découvrez Nos Services",
-  "servicesButtonTwo": "Contactez-Nous",
-  "servicesButtonThree": "Demander un Devis",
-
   "faqSubtitle": "Questions Fréquemment Posées",
   "faqTitle": "Nous Sommes Là Pour Vous Aider",
   "faqDescriptionOne": "Vous avez des questions concernant nos services ? Nous avons rassemblé ici les réponses aux questions les plus courantes pour vous aider à mieux comprendre comment nous fonctionnons et ce que nous offrons.",
@@ -407,57 +482,6 @@
   "footerContactTitle": "Contact",
   "footerSiteLinksTitle": "Liens Utiles",
   "copyrightText": "Excellence Cleaners",
-
-  "thankYouSubtitle": "Merci!",
-  "thankYouTitle": "Votre soumission a été reçue!",
-  "thankYouDescription": "Nous vous remercions de nous avoir contactés. Notre équipe examinera votre message et répondra dès que possible.",
-  "additionalInfo": "En attendant, n'hésitez pas à explorer davantage notre site web.",
-  "goBackHome": "Retourner à la Page d'Accueil",
-
-  "plansSubtitle": "Our Flexible Plans for Every Need",
-  "plansTitle": "Choose Your Perfect Plan",
-
-  "plansItemOneTitle": "Basic Plan",
-  "plansItemOneDescription": "Ideal for individuals looking for essential features",
-  "plansItemOneArray": [
-    {"text": "Access to basic features"},
-    {"text": "24/7 customer support"},
-    {"text": "Limited storage capacity"},
-    {"text": "Monthly performance reports"}
-  ],
-
-  "plansItemTwoTitle": "Professional Plan",
-  "plansItemTwoDescription": "Perfect for small teams and growing businesses",
-  "plansItemTwoArray": [
-    {"text": "Everything in Basic Plan"},
-    {"text": "Extended storage capacity"},
-    {"text": "Advanced analytics"},
-    {"text": "Team collaboration tools"},
-    {"text": "Priority support"}
-  ],
-
-  "plansItemThreeTitle": "Enterprise Plan",
-  "plansItemThreeDescription": "Best for large enterprises with custom needs",
-  "plansItemThreeArray": [
-    {"text": "Everything in Professional Plan"},
-    {"text": "Unlimited storage"},
-    {"text": "Custom integrations"},
-    {"text": "Dedicated account manager"},
-    {"text": "On-site training and support"}
-  ],
-
-  "customSolutionTitle": "Tailored Solutions for Your Unique Needs",
-  "customSolutionDescription": "We offer custom solutions that align perfectly with your business requirements. Our team works with you to create the ideal setup.",
-  "customSolutionCTA": "Contact Us for a Custom Quote",
-
-  "rentalConditionsTitle": "Terms and Rental Conditions",
-  "rentalConditions": [
-    {"text": "Minimum contract duration of 12 months"},
-    {"text": "Early termination fees apply"},
-    {"text": "All fees are due on the 1st of each month"},
-    {"text": "Equipment maintenance covered by provider"},
-    {"text": "Cancellation requires 30-day notice"}
-  ],
 
   "titlelaundryservice": "Service de blanchisserie",
   "description": "Que ce soit un hôtel, une maison d'hôtes ou un service de conciergerie, Excellence Laundry est ici pour simplifier la gestion de votre linge et garantir qu'il soit toujours propre et impeccable pour vos clients. Dites adieu aux préoccupations concernant la logistique et l'entretien de vos textiles et équipements d'hygiène. Laissez-nous nous occuper de ces tâches afin que vous puissiez vous concentrer sur ce qui compte vraiment : offrir une expérience inoubliable à vos clients.",
