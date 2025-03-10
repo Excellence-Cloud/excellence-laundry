@@ -1,4 +1,114 @@
 {
+
+
+  "servicesSubtitle": "Nuestros Servicios",
+  "servicesTitle": "Ofertas de Excellence Cleaners",
+  "services": [
+    {
+      "image": "img4.webp",
+      "shortTitle": "Limpieza entre alquileres estacionales",
+      "title": "Limpieza entre alquileres estacionales",
+      "description": "Este servicio está pensado para propietarios de viviendas o apartamentos en alquiler estacional. Intervenimos entre cada alquiler para preparar su propiedad, garantizando que sus huéspedes encuentren un espacio inmaculado a su llegada. Cada intervención se realiza minuciosamente, para mantener su propiedad en el mejor estado posible y asegurar críticas positivas y la máxima satisfacción de sus huéspedes."
+    },
+    {
+      "image": "img5.webp",
+      "shortTitle": "Limpieza anual para propietarios residentes",
+      "title": "Limpieza anual para propietarios residentes",
+      "description": "Ofrecemos servicios de limpieza recurrentes para propietarios que residen en sus viviendas a lo largo del año. Nuestras prestaciones se adaptan a su horario y aseguramos el mantenimiento de una limpieza irreprochable en su hogar, semana tras semana."
+    },
+    {
+      "image": "img6.webp",
+      "shortTitle": "Limpieza de preparación",
+      "title": "Limpieza de preparación",
+      "description": "Este servicio es perfecto para preparar una propiedad antes de iniciar el alquiler estacional. Realizamos una limpieza completa y profunda, garantizando que su inmueble esté listo para recibir a los primeros huéspedes."
+    },
+    {
+      "image": "img7.webp",
+      "shortTitle": "Limpieza profunda",
+      "title": "Limpieza profunda",
+      "description": "Para un mantenimiento intensivo, este servicio es ideal para limpiar las zonas más difíciles de acceder, los rincones, los tejidos y superficies que requieren atención especial. Esta limpieza se recomienda antes del inicio de una nueva temporada de alquiler."
+    },
+    {
+      "image": "img8.webp",
+      "shortTitle": "Limpieza de sofás y alfombras",
+      "title": "Limpieza de sofás y alfombras",
+      "description": "Eliminación de manchas, alérgenos y olores, preservando la calidad de sus tejidos y mobiliario."
+    },
+    {
+      "image": "img9.webp",
+      "shortTitle": "Limpieza de ventanas",
+      "title": "Limpieza de ventanas",
+      "description": "Nuestros equipos garantizan un servicio impecable, dejando sus ventanas perfectamente limpias y sin manchas, para el máximo de luminosidad."
+    }
+  ],
+  "servicesButtonOne": "Descubra Nuestros Servicios",
+  "servicesButtonTwo": "Contáctenos",
+  "servicesButtonThree": "Solicitar Presupuesto",
+
+      "plansSubtitle": "Our Flexible Plans for Every Need",
+  "plansTitle": "Choose Your Perfect Plan",
+
+  "plansItemOneTitle": "Basic Plan",
+  "plansItemOneDescription": "Ideal for individuals looking for essential features",
+  "plansItemOneArray": [
+    {"text": "Access to basic features"},
+    {"text": "24/7 customer support"},
+    {"text": "Limited storage capacity"},
+    {"text": "Monthly performance reports"}
+  ],
+
+  "plansItemTwoTitle": "Professional Plan",
+  "plansItemTwoDescription": "Perfect for small teams and growing businesses",
+  "plansItemTwoArray": [
+    {"text": "Everything in Basic Plan"},
+    {"text": "Extended storage capacity"},
+    {"text": "Advanced analytics"},
+    {"text": "Team collaboration tools"},
+    {"text": "Priority support"}
+  ],
+
+  "plansItemThreeTitle": "Enterprise Plan",
+  "plansItemThreeDescription": "Best for large enterprises with custom needs",
+  "plansItemThreeArray": [
+    {"text": "Everything in Professional Plan"},
+    {"text": "Unlimited storage"},
+    {"text": "Custom integrations"},
+    {"text": "Dedicated account manager"},
+    {"text": "On-site training and support"}
+  ],
+
+  "customSolutionTitle": "Tailored Solutions for Your Unique Needs",
+  "customSolutionDescription": "We offer custom solutions that align perfectly with your business requirements. Our team works with you to create the ideal setup.",
+  "customSolutionCTA": "Contact Us for a Custom Quote",
+
+  "rentalConditionsTitle": "Terms and Rental Conditions",
+  "rentalConditions": [
+    {"text": "Minimum contract duration of 12 months"},
+    {"text": "Early termination fees apply"},
+    {"text": "All fees are due on the 1st of each month"},
+    {"text": "Equipment maintenance covered by provider"},
+    {"text": "Cancellation requires 30-day notice"}
+  ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   "guideLinesLanguagesLocale": "Warning: Do not alter the DO_NOT_CHANGE and currentLocale fields. They are linked to the website language. For example, changing 'en' to 'en_US' will lead to a non-existent page (e.g., https://excellence-conciergerie.com/en_US). Existing locales are pt, en, fr, es. Do not add non-existent locales. Only modify based on the current translation file. fr/common.js currentLocale should always be 'fr', en/common.js currentLocale should always be 'en', etc.",
   "currentLanguage": "Español",
   "currentLanguageFlag": "flag4.svg",
@@ -116,51 +226,7 @@
   "aboutDescriptionline3": "Excellence Laundry es la elección perfecta para quienes buscan un servicio confiable y profesional, con atención a los detalles y un trato personalizado. Estamos aquí para cuidar lo esencial de su establecimiento, para que usted pueda centrarse en lo que realmente importa: ofrecer la mejor experiencia a sus clientes.",
   "aboutDescriptionline4": "Nuestra misión es simplificar la gestión de lavandería para nuestros socios y garantizar la máxima satisfacción con nuestros servicios. Cuente con nosotros para hacer que la administración de su ropa de cama sea más eficiente y sin complicaciones.",
   "aboutButton": "Descubra Nuestra Trayectoria de Excelencia",
-
-  "servicesSubtitle": "Nuestros Servicios",
-  "servicesTitle": "Ofertas de Excellence Cleaners",
-  "services": [
-    {
-      "image": "img4.webp",
-      "shortTitle": "Limpieza entre alquileres estacionales",
-      "title": "Limpieza entre alquileres estacionales",
-      "description": "Este servicio está pensado para propietarios de viviendas o apartamentos en alquiler estacional. Intervenimos entre cada alquiler para preparar su propiedad, garantizando que sus huéspedes encuentren un espacio inmaculado a su llegada. Cada intervención se realiza minuciosamente, para mantener su propiedad en el mejor estado posible y asegurar críticas positivas y la máxima satisfacción de sus huéspedes."
-    },
-    {
-      "image": "img5.webp",
-      "shortTitle": "Limpieza anual para propietarios residentes",
-      "title": "Limpieza anual para propietarios residentes",
-      "description": "Ofrecemos servicios de limpieza recurrentes para propietarios que residen en sus viviendas a lo largo del año. Nuestras prestaciones se adaptan a su horario y aseguramos el mantenimiento de una limpieza irreprochable en su hogar, semana tras semana."
-    },
-    {
-      "image": "img6.webp",
-      "shortTitle": "Limpieza de preparación",
-      "title": "Limpieza de preparación",
-      "description": "Este servicio es perfecto para preparar una propiedad antes de iniciar el alquiler estacional. Realizamos una limpieza completa y profunda, garantizando que su inmueble esté listo para recibir a los primeros huéspedes."
-    },
-    {
-      "image": "img7.webp",
-      "shortTitle": "Limpieza profunda",
-      "title": "Limpieza profunda",
-      "description": "Para un mantenimiento intensivo, este servicio es ideal para limpiar las zonas más difíciles de acceder, los rincones, los tejidos y superficies que requieren atención especial. Esta limpieza se recomienda antes del inicio de una nueva temporada de alquiler."
-    },
-    {
-      "image": "img8.webp",
-      "shortTitle": "Limpieza de sofás y alfombras",
-      "title": "Limpieza de sofás y alfombras",
-      "description": "Eliminación de manchas, alérgenos y olores, preservando la calidad de sus tejidos y mobiliario."
-    },
-    {
-      "image": "img9.webp",
-      "shortTitle": "Limpieza de ventanas",
-      "title": "Limpieza de ventanas",
-      "description": "Nuestros equipos garantizan un servicio impecable, dejando sus ventanas perfectamente limpias y sin manchas, para el máximo de luminosidad."
-    }
-  ],
-  "servicesButtonOne": "Descubra Nuestros Servicios",
-  "servicesButtonTwo": "Contáctenos",
-  "servicesButtonThree": "Solicitar Presupuesto",
-
+  
   "faqSubtitle": "Preguntas Frecuentes",
   "faqTitle": "Estamos Aquí para Ayudar",
   "faqDescriptionOne": "¿Tiene dudas sobre nuestros servicios? Hemos reunido aquí las respuestas a las preguntas más comunes para ayudar a comprender mejor cómo trabajamos y lo que ofrecemos.",
@@ -306,51 +372,6 @@
   "thankYouDescription": "Agradecemos que te hayas puesto en contacto. Nuestro equipo revisará tu mensaje y responderá lo antes posible.",
   "additionalInfo": "Mientras tanto, siéntete libre de explorar más nuestro sitio web.",
   "goBackHome": "Volver a la Página Principal",
-
-    "plansSubtitle": "Our Flexible Plans for Every Need",
-  "plansTitle": "Choose Your Perfect Plan",
-
-  "plansItemOneTitle": "Basic Plan",
-  "plansItemOneDescription": "Ideal for individuals looking for essential features",
-  "plansItemOneArray": [
-    {"text": "Access to basic features"},
-    {"text": "24/7 customer support"},
-    {"text": "Limited storage capacity"},
-    {"text": "Monthly performance reports"}
-  ],
-
-  "plansItemTwoTitle": "Professional Plan",
-  "plansItemTwoDescription": "Perfect for small teams and growing businesses",
-  "plansItemTwoArray": [
-    {"text": "Everything in Basic Plan"},
-    {"text": "Extended storage capacity"},
-    {"text": "Advanced analytics"},
-    {"text": "Team collaboration tools"},
-    {"text": "Priority support"}
-  ],
-
-  "plansItemThreeTitle": "Enterprise Plan",
-  "plansItemThreeDescription": "Best for large enterprises with custom needs",
-  "plansItemThreeArray": [
-    {"text": "Everything in Professional Plan"},
-    {"text": "Unlimited storage"},
-    {"text": "Custom integrations"},
-    {"text": "Dedicated account manager"},
-    {"text": "On-site training and support"}
-  ],
-
-  "customSolutionTitle": "Tailored Solutions for Your Unique Needs",
-  "customSolutionDescription": "We offer custom solutions that align perfectly with your business requirements. Our team works with you to create the ideal setup.",
-  "customSolutionCTA": "Contact Us for a Custom Quote",
-
-  "rentalConditionsTitle": "Terms and Rental Conditions",
-  "rentalConditions": [
-    {"text": "Minimum contract duration of 12 months"},
-    {"text": "Early termination fees apply"},
-    {"text": "All fees are due on the 1st of each month"},
-    {"text": "Equipment maintenance covered by provider"},
-    {"text": "Cancellation requires 30-day notice"}
-  ],
 
     "titlelaundryservice": "Servicio de lavandería",
     "description": "Ya sea un hotel, una casa de huéspedes o un servicio de conserjería, Excellence Laundry está aquí para simplificar la gestión de su lencería y garantizar que siempre esté limpia e impecable para sus clientes. Diga adiós a las preocupaciones sobre la logística y el mantenimiento de sus textiles y equipos de higiene. Déjenos encargarnos de esas tareas para que pueda concentrarse en lo que realmente importa: ofrecer una experiencia inolvidable a sus clientes.",
