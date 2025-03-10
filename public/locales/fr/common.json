@@ -45,13 +45,6 @@
   "servicesButtonTwo": "Contactez-Nous",
   "servicesButtonThree": "Demander un Devis",
 
-
-  "thankYouSubtitle": "Merci!",
-  "thankYouTitle": "Votre soumission a été reçue!",
-  "thankYouDescription": "Nous vous remercions de nous avoir contactés. Notre équipe examinera votre message et répondra dès que possible.",
-  "additionalInfo": "En attendant, n'hésitez pas à explorer davantage notre site web.",
-  "goBackHome": "Retourner à la Page d'Accueil",
-
   "plansSubtitle": "Our Flexible Plans for Every Need",
   "plansTitle": "Choose Your Perfect Plan",
 
@@ -482,6 +475,12 @@
   "footerContactTitle": "Contact",
   "footerSiteLinksTitle": "Liens Utiles",
   "copyrightText": "Excellence Cleaners",
+
+  "thankYouSubtitle": "Merci!",
+  "thankYouTitle": "Votre soumission a été reçue!",
+  "thankYouDescription": "Nous vous remercions de nous avoir contactés. Notre équipe examinera votre message et répondra dès que possible.",
+  "additionalInfo": "En attendant, n'hésitez pas à explorer davantage notre site web.",
+  "goBackHome": "Retourner à la Page d'Accueil",
 
   "titlelaundryservice": "Service de blanchisserie",
   "description": "Que ce soit un hôtel, une maison d'hôtes ou un service de conciergerie, Excellence Laundry est ici pour simplifier la gestion de votre linge et garantir qu'il soit toujours propre et impeccable pour vos clients. Dites adieu aux préoccupations concernant la logistique et l'entretien de vos textiles et équipements d'hygiène. Laissez-nous nous occuper de ces tâches afin que vous puissiez vous concentrer sur ce qui compte vraiment : offrir une expérience inoubliable à vos clients.",
