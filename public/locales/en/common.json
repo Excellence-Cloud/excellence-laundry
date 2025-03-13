@@ -125,32 +125,32 @@
     { "text": "Contact", "DO_NOT_CHANGE": "contact" }
   ],
 
-"heroSubtitle": "Your Partner in Cleaning and Comfort",
-  "heroTitle": "EXCELLENCE LAUNDRY – WASH OR RENT, THE CHOICE IS YOURS!",
+"heroSubtitle": "Your Partner in Comfort and Quality",
+  "heroTitle": "EXCELLENCE LAUNDRY – WASHING OR RENTAL, THE IDEAL SOLUTION FOR YOU!",
   "heroButton": "Discover Our Services",
-  "heroParagraphline1": "At Excellence Laundry, we adapt to your needs. We offer professional washing to keep your textiles impeccable or the option to rent bed and bath linens, always fresh and ready to use.",
-  "heroParagraphline2": "✔ Premium laundry service – deep cleaning with high-quality products",
-  "heroParagraphline3": "✔ Linen rental – always impeccable, worry-free linens",
-  "heroParagraphline4": "✔ Punctuality and reliability – we deliver when and where you need it",
-  "heroParagraphline5": "Choose the ideal solution for you and ensure comfort and quality effortlessly!",
+  "heroParagraphline1": "At Excellence Laundry, we offer flexibility to meet your needs. Whether it's keeping your textiles spotless with our professional washing or ensuring constant freshness with bed and bath linen rental, we are ready to take care of everything.",
+  "heroParagraphline2": "✔ Premium Laundry – High-quality products for a deep clean",
+  "heroParagraphline3": "✔ Linen Rental – Impeccable linen, worry-free",
+  "heroParagraphline4": "✔ Guaranteed Punctuality – Delivery at the time and location you need",
+  "heroParagraphline5": "Choose the perfect solution for you and enjoy comfort and quality without effort!",
 
-  "howItWorksSubtitle": "Simplify Your Daily Life",
+  "howItWorksSubtitle": "Simplifying Your Daily Life",
   "howItWorksTitle": "How It Works",
   "howItWorks": [
     {
       "icon": "vector1.svg",
       "title": "Request a Quote",
-      "description": "Submit an online quote request to receive an accurate estimate of our cleaning services. We will respond promptly with a personalized offer."
+      "description": "Send your online quote request and receive an accurate estimate for our services. We will quickly respond with a tailored offer for you."
     },
     {
       "icon": "vector2.svg",
       "title": "Proposal Validation",
-      "description": "Review and approve our cleaning proposal. Once we receive your approval, we will schedule the intervention at your convenience."
+      "description": "Review and approve our personalized proposal. Once approved, we will schedule the collection and delivery of your items at your convenience."
     },
     {
       "icon": "vector3.svg",
-      "title": "Professional Intervention",
-      "description": "Our specialists will arrive at the specified address to perform the type of cleaning you specified, on the agreed date and time. You will enjoy a high-quality service, perfectly tailored to your needs."
+      "title": "Professional Service",
+      "description": "We take care of everything in our laundry, ensuring high-quality and efficient service for your textiles. We schedule collection and delivery based on your needs."
     }
   ],
 
