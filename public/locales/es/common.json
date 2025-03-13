@@ -216,42 +216,42 @@
   "aboutButton": "Descubra Nuestro Camino hacia la Excelencia",
   
  "faqSubtitle": "Preguntas Frecuentes",
-  "faqTitle": "Estamos Aquí Para Ayudarle",
-  "faqDescriptionOne": "¿Tiene preguntas sobre nuestros servicios de lavandería? Hemos recopilado aquí las respuestas a las preguntas más comunes para ayudarle a comprender mejor cómo funcionamos y qué ofrecemos.",
-  "faqDescriptionTwo": "Si no encuentra la respuesta que busca, no dude en contactarnos directamente. ¡Estamos aquí para ayudarle!",
-  "faq": [
-    {
-      "title": "¿Cómo puedo solicitar un servicio de lavandería?",
-      "description": "Para solicitar nuestros servicios, solo tiene que ponerse en contacto con nosotros por teléfono, WhatsApp o correo electrónico. Podemos organizar la recogida y entrega de su ropa en el horario que le convenga."
-    },
-    {
-      "title": "¿Qué tipos de ropa limpian?",
-      "description": "En Excellence Laundry, limpiamos una amplia gama de artículos, como sábanas, toallas, edredones, ropa delicada, uniformes y mucho más. Tratamos diferentes tipos de telas y garantizamos que cada prenda sea cuidada con esmero."
-    },
-    {
-      "title": "¿Limpian ropa delicada y especial?",
-      "description": "¡Sí! Tenemos experiencia en la limpieza de ropa delicada, como vestidos de novia, trajes, prendas de seda y otros artículos que requieren cuidados especiales. Utilizamos técnicas y productos adecuados para preservar la calidad de sus prendas."
-    },
-    {
-      "title": "¿Cómo funciona el proceso de recogida y entrega de la ropa?",
-      "description": "Ofrecemos un servicio de recogida y entrega directamente en su domicilio o en el lugar que elija. Solo tiene que programar con nosotros y nuestro equipo recogerá y entregará su ropa dentro de los plazos acordados, cuidando cada prenda."
-    },
-    {
-      "title": "¿Qué productos utilizan para el lavado?",
-      "description": "Utilizamos productos de limpieza de alta calidad adaptados a cada tipo de tela. Priorizamos detergentes y suavizantes eficaces y, cuando es posible, ecológicos, garantizando que su ropa quede limpia, fresca y bien cuidada."
-    },
-    {
-      "title": "¿Cuál es el tiempo de entrega de la ropa lavada?",
-      "description": "El tiempo de entrega depende del tipo de servicio solicitado. Para servicios estándar, el plazo de entrega es de 48 horas. Si necesita un servicio exprés, podemos ofrecer plazos más cortos según la disponibilidad y el volumen de los artículos."
-    },
-    {
-      "title": "¿Cuáles son las tarifas de los servicios de lavandería?",
-      "description": "Los precios varían según el tipo de artículo, la cantidad y el servicio solicitado. Para obtener una estimación precisa, contáctenos e indíquenos los artículos a lavar. Le proporcionaremos un presupuesto claro y transparente."
-    },
-    {
-      "title": "¿Ofrecen un servicio de lavandería regular o suscripción?",
-      "description": "Sí, ofrecemos planes de lavandería regulares o suscripciones para clientes que necesitan servicios continuos. Podemos organizar recogidas y entregas periódicas según su conveniencia, ya sea semanal, quincenal o mensual."
-    }
+"faqTitle": "Estamos Aquí Para Ayudarle",
+"faqDescriptionOne": "¿Tiene preguntas sobre nuestros servicios de lavandería? Hemos reunido aquí las respuestas a las preguntas más comunes para ayudarle a entender mejor cómo funcionamos y lo que ofrecemos.",
+"faqDescriptionTwo": "Si no encuentra la respuesta que busca, no dude en contactarnos directamente. ¡Estamos aquí para ayudarle!",
+"faq": [
+  {
+    "title": "¿Cómo puedo solicitar el servicio de lavandería?",
+    "description": "Para solicitar nuestros servicios, simplemente contáctenos por teléfono, WhatsApp o correo electrónico. Podemos organizar la recolección y entrega de su ropa de cama y toallas en el horario que más le convenga."
+  },
+  {
+    "title": "¿Qué tipos de artículos limpian?",
+    "description": "En Excellence Laundry, limpiamos una amplia variedad de artículos como sábanas, toallas, cobertores, edredones y mucho más. Tratamos todo tipo de telas con cuidado y garantizamos que cada prenda reciba la atención adecuada."
+  },
+  {
+    "title": "¿Limpian artículos delicados y especiales?",
+    "description": "¡Sí! Tenemos experiencia en limpiar artículos delicados como sábanas de seda, toallas de lujo y otros artículos que requieren cuidados especiales. Usamos técnicas y productos adecuados para preservar la calidad de sus artículos."
+  },
+  {
+    "title": "¿Cómo funciona el proceso de recolección y entrega de la ropa?",
+    "description": "Ofrecemos un servicio de recolección y entrega directamente en su hogar o en el lugar de su elección. Solo tiene que agendar con nosotros y nuestro equipo recogerá y entregará su ropa de cama y toallas en el plazo acordado, cuidando cada prenda con atención."
+  },
+  {
+    "title": "¿Qué productos utilizan para el lavado?",
+    "description": "Usamos productos de limpieza de alta calidad, adecuados para cada tipo de tela. Priorizamos detergentes y suavizantes eficaces y, siempre que sea posible, ecológicos, asegurando que su ropa quede limpia, fresca y bien cuidada."
+  },
+  {
+    "title": "¿Cuál es el plazo de entrega de la ropa lavada?",
+    "description": "El plazo de entrega depende del tipo de servicio solicitado. Para los servicios estándar, el plazo es de 48 horas. Si necesita un servicio exprés, podemos ofrecer plazos más cortos según la disponibilidad y el volumen de los artículos."
+  },
+  {
+    "title": "¿Cuáles son los precios de los servicios de lavandería?",
+    "description": "Los precios varían según el tipo de artículo, la cantidad y el servicio solicitado. Para obtener una estimación precisa, contáctenos e infórmenos sobre los artículos que desea limpiar. Le proporcionaremos un presupuesto claro y transparente."
+  },
+  {
+    "title": "¿Ofrecen servicio regular o suscripción?",
+    "description": "Sí, ofrecemos planes regulares o suscripciones para clientes que necesitan servicios continuos. Podemos organizar recolecciones y entregas periódicas, ya sea semanalmente, quincenalmente o mensualmente, según lo necesite."
+  }
   ],
 
   "afterBeforeSubtitle": "Antes y Después",
