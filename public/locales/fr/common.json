@@ -225,32 +225,32 @@
     { "text": "Contact", "DO_NOT_CHANGE": "contact" }
   ],
 
-   "heroSubtitle": "Your Partner in Comfort and Quality",
-  "heroTitle": "EXCELLENCE LAUNDRY – WASHING OR RENTAL, THE IDEAL SOLUTION FOR YOU!",
-  "heroButton": "Discover Our Services",
-  "heroParagraphline1": "At Excellence Laundry, we offer flexibility to meet your needs. Whether it's keeping your textiles spotless with our professional washing or ensuring constant freshness with bed and bath linen rental, we are ready to take care of everything.",
-  "heroParagraphline2": "✔ Premium Laundry – High-quality products for a deep clean",
-  "heroParagraphline3": "✔ Linen Rental – Impeccable linen, worry-free",
-  "heroParagraphline4": "✔ Guaranteed Punctuality – Delivery at the time and location you need",
-  "heroParagraphline5": "Choose the perfect solution for you and enjoy comfort and quality without effort!",
+    "heroSubtitle": "Votre Partenaire en Confort et Qualité",
+  "heroTitle": "EXCELLENCE LAUNDRY – LAVAGE OU LOCATION, LA SOLUTION IDÉALE POUR VOUS !",
+  "heroButton": "Découvrez Nos Services",
+  "heroParagraphline1": "Chez Excellence Laundry, nous offrons de la flexibilité pour répondre à vos besoins. Que ce soit pour garder vos textiles impeccables avec notre lavage professionnel ou pour garantir une fraîcheur constante avec la location de linge de lit et de bain, nous sommes prêts à tout prendre en charge.",
+  "heroParagraphline2": "✔ Lavage Premium – Produits de haute qualité pour un nettoyage en profondeur",
+  "heroParagraphline3": "✔ Location de Linge – Linge impeccable, sans soucis",
+  "heroParagraphline4": "✔ Ponctualité Garantie – Livraison au moment et à l'endroit que vous souhaitez",
+  "heroParagraphline5": "Choisissez la solution parfaite pour vous et profitez du confort et de la qualité sans effort !",
 
-  "howItWorksSubtitle": "Simplifying Your Daily Life",
-  "howItWorksTitle": "How It Works",
+  "howItWorksSubtitle": "Simplifiez Votre Vie Quotidienne",
+  "howItWorksTitle": "Comment Ça Marche",
   "howItWorks": [
     {
       "icon": "vector1.svg",
-      "title": "Request a Quote",
-      "description": "Send your online quote request and receive an accurate estimate for our services. We will quickly respond with a tailored offer for you."
+      "title": "Demande de Devis",
+      "description": "Envoyez votre demande de devis en ligne et recevez une estimation précise pour nos services. Nous répondrons rapidement avec une offre personnalisée pour vous."
     },
     {
       "icon": "vector2.svg",
-      "title": "Proposal Validation",
-      "description": "Review and approve our personalized proposal. Once approved, we will schedule the collection and delivery of your items at your convenience."
+      "title": "Validation de la Proposition",
+      "description": "Examinez et approuvez notre proposition personnalisée. Une fois approuvée, nous planifions la collecte et la livraison de vos articles selon votre convenance."
     },
     {
       "icon": "vector3.svg",
-      "title": "Professional Service",
-      "description": "We take care of everything in our laundry, ensuring high-quality and efficient service for your textiles. We schedule collection and delivery based on your needs."
+      "title": "Service Professionnel",
+      "description": "Nous nous occupons de tout dans notre blanchisserie, en garantissant un service de haute qualité et efficace pour vos textiles. Nous planifions la collecte et la livraison selon vos besoins."
     }
   ],
 
