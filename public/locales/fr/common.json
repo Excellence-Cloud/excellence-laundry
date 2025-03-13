@@ -314,42 +314,42 @@
   "aboutButton": "Découvrez Notre Parcours d'Excellence",
 
  "faqSubtitle": "Questions Fréquemment Posées",
-  "faqTitle": "Nous Sommes Là Pour Vous Aider",
-  "faqDescriptionOne": "Vous avez des questions concernant nos services de blanchisserie ? Nous avons rassemblé ici les réponses aux questions les plus courantes pour vous aider à mieux comprendre comment nous fonctionnons et ce que nous offrons.",
-  "faqDescriptionTwo": "Si vous ne trouvez pas la réponse que vous cherchez, n'hésitez pas à nous contacter directement. Nous sommes là pour vous aider !",
-  "faq": [
-    {
-      "title": "Comment puis-je demander un service de blanchisserie ?",
-      "description": "Pour demander nos services, il vous suffit de nous contacter par téléphone, WhatsApp ou e-mail. Nous pouvons organiser la collecte et la livraison de vos vêtements à l'heure qui vous convient."
-    },
-    {
-      "title": "Quels types de vêtements nettoyez-vous ?",
-      "description": "Chez Excellence Laundry, nous nettoyons une large gamme d'articles tels que des draps, des serviettes, des couettes, des vêtements délicats, des uniformes et bien plus encore. Nous traitons différents types de tissus et garantissons que chaque pièce est soigneusement prise en charge."
-    },
-    {
-      "title": "Nettoyez-vous des vêtements délicats et spéciaux ?",
-      "description": "Oui ! Nous avons l'expérience de nettoyer des vêtements délicats, comme des robes de mariée, des costumes, des vêtements en soie et d'autres articles nécessitant des soins particuliers. Nous utilisons des techniques et des produits appropriés pour préserver la qualité de vos articles."
-    },
-    {
-      "title": "Comment se déroule le processus de collecte et de livraison des vêtements ?",
-      "description": "Nous offrons un service de collecte et de livraison directement à votre domicile ou à l'endroit de votre choix. Il vous suffit de planifier avec nous et notre équipe viendra chercher et livrer vos vêtements dans les délais convenus, en prenant soin de chaque pièce."
-    },
-    {
-      "title": "Quels produits utilisez-vous pour le lavage ?",
-      "description": "Nous utilisons des produits de nettoyage de haute qualité adaptés à chaque type de tissu. Nous privilégions des détergents et assouplissants efficaces et, lorsque possible, écologiques, garantissant que vos vêtements restent propres, frais et bien entretenus."
-    },
-    {
-      "title": "Quel est le délai de livraison des vêtements lavés ?",
-      "description": "Le délai de livraison dépend du type de service demandé. Pour les services standard, le délai est de 48 heures. Si vous avez besoin d'un service express, nous pouvons offrir des délais plus courts en fonction de la disponibilité et du volume des articles."
-    },
-    {
-      "title": "Quels sont les tarifs des services de blanchisserie ?",
-      "description": "Les prix varient en fonction du type d'article, de la quantité et du service demandé. Pour obtenir une estimation précise, contactez-nous et indiquez-nous les articles à nettoyer. Nous vous fournirons un devis clair et transparent."
-    },
-    {
-      "title": "Proposez-vous un service de blanchisserie régulier ou un abonnement ?",
-      "description": "Oui, nous proposons des plans de blanchisserie réguliers ou des abonnements pour les clients qui nécessitent des services continus. Nous pouvons organiser des collectes et des livraisons périodiques selon votre convenance, qu'elles soient hebdomadaires, bihebdomadaires ou mensuelles."
-    }
+"faqTitle": "Nous Sommes Là Pour Vous Aider",
+"faqDescriptionOne": "Vous avez des questions concernant nos services de blanchisserie ? Nous avons rassemblé ici les réponses aux questions les plus courantes pour vous aider à mieux comprendre comment nous fonctionnons et ce que nous offrons.",
+"faqDescriptionTwo": "Si vous ne trouvez pas la réponse que vous cherchez, n'hésitez pas à nous contacter directement. Nous sommes là pour vous aider !",
+"faq": [
+  {
+    "title": "Comment puis-je demander un service de blanchisserie ?",
+    "description": "Pour demander nos services, il vous suffit de nous contacter par téléphone, WhatsApp ou e-mail. Nous pouvons organiser la collecte et la livraison de votre linge de lit et serviettes à l'heure qui vous convient."
+  },
+  {
+    "title": "Quels types d'articles nettoyez-vous ?",
+    "description": "Chez Excellence Laundry, nous nettoyons une large gamme d'articles tels que des draps, des serviettes, des couvertures, des couettes et bien plus encore. Nous traitons différents types de tissus et garantissons que chaque pièce est soigneusement prise en charge."
+  },
+  {
+    "title": "Nettoyez-vous des articles délicats et spéciaux ?",
+    "description": "Oui ! Nous avons l'expérience de nettoyer des articles délicats comme des draps en soie, des serviettes de luxe et d'autres articles nécessitant des soins particuliers. Nous utilisons des techniques et des produits appropriés pour préserver la qualité de vos articles."
+  },
+  {
+    "title": "Comment se déroule le processus de collecte et de livraison des vêtements ?",
+    "description": "Nous offrons un service de collecte et de livraison directement à votre domicile ou à l'endroit de votre choix. Il vous suffit de planifier avec nous et notre équipe viendra chercher et livrer vos draps et serviettes dans les délais convenus, en prenant soin de chaque pièce."
+  },
+  {
+    "title": "Quels produits utilisez-vous pour le lavage ?",
+    "description": "Nous utilisons des produits de nettoyage de haute qualité adaptés à chaque type de tissu. Nous privilégions des détergents et assouplissants efficaces et, lorsque possible, écologiques, garantissant que vos articles restent propres, frais et bien entretenus."
+  },
+  {
+    "title": "Quel est le délai de livraison des articles lavés ?",
+    "description": "Le délai de livraison dépend du type de service demandé. Pour les services standard, le délai est de 48 heures. Si vous avez besoin d'un service express, nous pouvons offrir des délais plus courts en fonction de la disponibilité et du volume des articles."
+  },
+  {
+    "title": "Quels sont les tarifs des services de blanchisserie ?",
+    "description": "Les prix varient en fonction du type d'article, de la quantité et du service demandé. Pour obtenir une estimation précise, contactez-nous et indiquez-nous les articles à nettoyer. Nous vous fournirons un devis clair et transparent."
+  },
+  {
+    "title": "Proposez-vous un service de blanchisserie régulier ou un abonnement ?",
+    "description": "Oui, nous proposons des plans de blanchisserie réguliers ou des abonnements pour les clients qui nécessitent des services continus. Nous pouvons organiser des collectes et des livraisons périodiques selon votre convenance, qu'elles soient hebdomadaires, bihebdomadaires ou mensuelles."
+  }
   ],
 
   "afterBeforeSubtitle": "Avant et Après",
