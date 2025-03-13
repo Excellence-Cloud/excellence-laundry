@@ -198,42 +198,42 @@
   "aboutButton": "Descubra Nossa Trajetória de Excelência",
 
 "faqSubtitle": "Perguntas Frequentes",
-  "faqTitle": "Estamos Aqui Para Ajudar Você",
-  "faqDescriptionOne": "Tem dúvidas sobre nossos serviços de lavanderia? Reunimos aqui as respostas às perguntas mais comuns para ajudar você a entender melhor como funcionamos e o que oferecemos.",
-  "faqDescriptionTwo": "Se não encontrar a resposta que procura, não hesite em nos contatar diretamente. Estamos à disposição para ajudar!",
-  "faq": [
-    {
-      "title": "Como posso solicitar um serviço de lavanderia?",
-      "description": "Para solicitar nossos serviços, basta entrar em contato conosco por telefone, WhatsApp ou e-mail. Podemos agendar a coleta e entrega das suas roupas no horário que for mais conveniente para você."
-    },
-    {
-      "title": "Quais tipos de roupas vocês limpam?",
-      "description": "Na Excellence Laundry, limpamos uma ampla gama de itens, como roupas de cama, toalhas, edredons, roupas delicadas, uniformes e muito mais. Trabalhamos com diversos tipos de tecidos e garantimos que cada peça seja tratada adequadamente."
-    },
-    {
-      "title": "Vocês limpam roupas delicadas e especiais?",
-      "description": "Sim! Temos experiência em limpar roupas delicadas, como vestidos de noiva, ternos, roupas de seda e outros itens que exigem cuidados especiais. Nós utilizamos técnicas e produtos adequados para preservar a qualidade de seus itens."
-    },
-    {
-      "title": "Como é feito o processo de coleta e entrega das roupas?",
-      "description": "Oferecemos coleta e entrega diretamente na sua casa ou no local que preferir. Basta agendar conosco e nossa equipe irá buscar e entregar as roupas no prazo combinado, com todo o cuidado e atenção."
-    },
-    {
-      "title": "Quais produtos vocês utilizam nas lavagens?",
-      "description": "Utilizamos produtos de alta qualidade e adequados para cada tipo de tecido. Trabalhamos com detergentes e amaciantes eficientes e, sempre que possível, ecológicos, garantindo que as suas roupas fiquem limpas, frescas e bem cuidadas."
-    },
-    {
-      "title": "Qual é o tempo de entrega das roupas lavadas?",
-      "description": "O prazo de entrega varia dependendo do tipo de serviço solicitado. Para serviços comuns, o prazo é de 48 horas. Caso precise de um serviço expresso, podemos oferecer prazos mais curtos, dependendo da disponibilidade e do volume."
-    },
-    {
-      "title": "Quais são os preços dos serviços de lavanderia?",
-      "description": "Os preços variam conforme o tipo de item, a quantidade e o serviço necessário. Para uma estimativa precisa, entre em contato conosco e nos informe as peças que deseja lavar. Forneceremos um orçamento claro e sem surpresas."
-    },
-    {
-      "title": "Vocês oferecem algum serviço de lavanderia regular ou assinatura?",
-      "description": "Sim, oferecemos planos de lavanderia regular ou assinatura para clientes que precisam de serviços contínuos. Podemos agendar coletas e entregas periódicas de acordo com a sua conveniência, seja semanal, quinzenal ou mensal."
-    }
+"faqTitle": "Estamos Aqui Para Ajudar",
+"faqDescriptionOne": "Tem dúvidas sobre nossos serviços de lavanderia? Reunimos aqui as respostas para as perguntas mais comuns para ajudá-lo a entender melhor como funcionamos e o que oferecemos.",
+"faqDescriptionTwo": "Se não encontrar a resposta que procura, não hesite em nos contactar diretamente. Estamos aqui para ajudar!",
+"faq": [
+  {
+    "title": "Como posso solicitar o serviço de lavanderia?",
+    "description": "Para solicitar nossos serviços, basta nos contactar por telefone, WhatsApp ou e-mail. Podemos organizar a coleta e entrega da sua roupa de cama e toalhas no horário que mais lhe convier."
+  },
+  {
+    "title": "Que tipos de itens vocês lavam?",
+    "description": "Na Excellence Laundry, lavamos uma ampla gama de itens como lençóis, toalhas, cobertores, edredons e muito mais. Tratamos todos os tipos de tecidos com cuidado e garantimos que cada peça receba a atenção adequada."
+  },
+  {
+    "title": "Vocês lavam itens delicados e especiais?",
+    "description": "Sim! Temos experiência em lavar itens delicados como lençóis de seda, toalhas de luxo e outros artigos que exigem cuidados especiais. Usamos técnicas e produtos apropriados para preservar a qualidade dos seus itens."
+  },
+  {
+    "title": "Como funciona o processo de coleta e entrega da roupa?",
+    "description": "Oferecemos serviço de coleta e entrega diretamente na sua casa ou no local de sua escolha. Basta agendar conosco e nossa equipe pegará e entregará sua roupa de cama e toalhas no prazo acordado, cuidando de cada peça com atenção."
+  },
+  {
+    "title": "Quais produtos vocês utilizam para lavagem?",
+    "description": "Usamos produtos de limpeza de alta qualidade, adequados para cada tipo de tecido. Priorizamos detergentes e amaciantes eficazes e, sempre que possível, ecológicos, garantindo que suas roupas fiquem limpas, frescas e bem cuidadas."
+  },
+  {
+    "title": "Qual o prazo de entrega da roupa lavada?",
+    "description": "O prazo de entrega depende do tipo de serviço solicitado. Para os serviços padrão, o prazo é de 48 horas. Se precisar de um serviço expresso, podemos oferecer prazos mais curtos, dependendo da disponibilidade e volume das peças."
+  },
+  {
+    "title": "Quais são os preços dos serviços de lavanderia?",
+    "description": "Os preços variam de acordo com o tipo de item, a quantidade e o serviço solicitado. Para obter uma estimativa precisa, entre em contato conosco e nos informe os itens que deseja lavar. Nós forneceremos um orçamento claro e transparente."
+  },
+  {
+    "title": "Vocês oferecem serviço regular ou assinatura?",
+    "description": "Sim, oferecemos planos regulares ou assinaturas para clientes que precisam de serviços contínuos. Podemos agendar coletas e entregas periódicas, seja semanalmente, quinzenalmente ou mensalmente, conforme sua necessidade."
+  }
   ],
 
   "afterBeforeSubtitle": "Antes e Depois",
