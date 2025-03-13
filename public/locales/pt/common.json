@@ -138,42 +138,41 @@
     }
   ],
 
-  "introductionSubtitle": "Descubra Nossos Pontos Fortes",
-  "introductionTitle": "Serviços da Excellence Cleaners",
-  "introductionDescription": "Temos orgulho de oferecer uma gama abrangente de serviços de lavanderia e manutenção projetados para superar suas expectativas. Seja você um gerente de hotel de luxo ou de aluguéis de temporada, nossa equipe experiente garante resultados impecáveis com cada pedido. Explore nossas principais vantagens",
+  "introductionSubtitle": "Descubra Nossos Diferenciais",
+  "introductionTitle": "Serviços Excellence Laundry",
+  "introductionDescription": "Na Excellence Laundry, nos especializamos em oferecer serviços de lavanderia e aluguel de roupas de alta qualidade, sempre com o objetivo de superar suas expectativas. Se você está em busca de um serviço de lavanderia confiável ou de uma solução prática para aluguel de roupa de cama e banho, nossa equipe experiente garante resultados perfeitos a cada pedido. Explore as principais vantagens de escolher a Excellence Laundry para suas necessidades.",
   "introductionAdvantages": [
-    { "text": "Limpeza entre locações de temporada;" },
-    { "text": "Serviço de limpeza anual para proprietários residentes;" },
-    { "text": "Limpeza profunda;" },
-    { "text": "Limpeza de sofás, tapetes e têxteis;" },
-    { "text": "Limpeza de janelas;" },
-    { "text": "Limpeza de escritórios e clínicas;" },
-    { "text": "Serviços sob medida." }
+    { "text": "Lavagem profissional de roupas;" },
+    { "text": "Aluguel de enxovais – sempre frescos e prontos para uso;" },
+    { "text": "Serviço de entrega pontual;" },
+    { "text": "Lavagem de roupas delicadas e peças especiais;" },
+    { "text": "Serviço de lavanderia sob demanda;" },
+    { "text": "Soluções personalizadas para cada cliente." }
   ],
 
-  "whyUsSubtitle": "Serviço de Limpeza",
-  "whyUsTitle": "Por que Escolher a Excellence Cleaners?",
-  "whyUsDescription": "Na Excellence Cleaners, com mais de 3 anos de expertise na limpeza de vilas e apartamentos de luxo para locação sazonal, destacamo-nos pelo nosso compromisso em oferecer um serviço impecável. Compreendemos a importância da primeira impressão para seus inquilinos e garantimos que sua propriedade esteja sempre perfeita entre cada estadia.",
+  "whyUsSubtitle": "Serviço de Lavanderia Premium",
+  "whyUsTitle": "Por que Escolher a Excellence Laundry?",
+  "whyUsDescription": "Na Excellence Laundry, temos mais de 3 anos de experiência oferecendo serviços de lavanderia e aluguel de enxovais para atender a todas as suas necessidades. Nosso compromisso com a qualidade nos distingue no mercado, proporcionando soluções práticas, eficazes e personalizadas para cada cliente. Garantimos que suas roupas e roupas de cama estejam sempre impecáveis, com a pontualidade e a qualidade que você espera.",
   "whyUsReasons": [
     {
-      "title": "Serviço de limpeza anual para proprietários residentes",
-      "description": "Além das locações sazonais, oferecemos contratos de manutenção regular para proprietários residentes. Nosso serviço de limpeza anual garante um lar limpo e acolhedor durante todo o ano, sem que você precise se preocupar."
+      "title": "Lavagem profissional de roupas",
+      "description": "Nosso serviço de lavanderia utiliza produtos de alta qualidade e técnicas especializadas para garantir que suas roupas fiquem impecáveis, sem danos ou desgastes."
     },
     {
-      "title": "Flexibilidade e rapidez de intervenção",
-      "description": "Nossas equipes são flexíveis e se adaptam às suas necessidades. Mobilizamos diversos agentes para intervenções rápidas, especialmente entre duas locações sazonais, a fim de maximizar seus períodos de locação."
+      "title": "Aluguel de enxovais sempre frescos",
+      "description": "Oferecemos um serviço de aluguel de roupas de cama e banho, para que você sempre tenha itens limpos e frescos sem se preocupar com a lavagem. Nossa opção de aluguel é ideal para quem busca praticidade e qualidade."
     },
     {
-      "title": "Qualidade e atenção aos detalhes",
-      "description": "Compreendemos as exigências de propriedades de prestígio. Nossa equipe, treinada para satisfazer proprietários e inquilinos, limpa cada canto com precisão, assegurando que sua propriedade esteja sempre impecável."
+      "title": "Pontualidade e confiabilidade",
+      "description": "Na Excellence Laundry, sabemos a importância da pontualidade. Entregamos suas roupas e enxovais no momento certo, sempre com a qualidade e cuidado que você espera."
     },
     {
-      "title": "Tarificação transparente",
-      "description": "Nossos preços começam a partir de 26,90€HT/h. A duração das intervenções é ajustada com base no número de agentes, com total transparência sobre os custos. Assim, você desfruta de um serviço de alta qualidade sem surpresas desagradáveis."
+      "title": "Qualidade garantida",
+      "description": "Nosso compromisso com a qualidade é absoluto. Cuidamos de cada peça com atenção aos detalhes, utilizando equipamentos modernos e produtos de excelência para oferecer o melhor serviço de lavanderia e aluguel."
     },
     {
-      "title": "Vantagens ao escolher a Excellence Cleaners e sua equipe",
-      "description": "Escolher a Excellence Cleaners é optar por uma equipe dedicada, profissional e treinada nas técnicas mais avançadas de limpeza. Utilizamos equipamentos modernos e de alta qualidade, garantindo resultados superiores e otimizando a eficácia de nossos processos. Comprometemo-nos a oferecer um serviço pontual e de alta qualidade em cada intervenção. Nossos colaboradores são rigorosamente selecionados por sua expertise e confiabilidade, assegurando a segurança e a discrição em sua propriedade. Além disso, prestamos atenção especial às suas necessidades específicas e exigências para oferecer um serviço personalizado que supera suas expectativas. Com a Excellence Cleaners, você tem a certeza de trabalhar com uma equipe competente, engajada e atenta."
+      "title": "Soluções sob medida",
+      "description": "Na Excellence Laundry, personalizamos nossos serviços de acordo com suas necessidades. Se você tem requisitos específicos, nossa equipe está pronta para adaptar o serviço e oferecer a solução ideal para você."
     }
   ],
 
