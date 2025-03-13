@@ -215,34 +215,42 @@
   "aboutDescriptionline4": "Nuestra misión es simplificar la gestión de lavandería para nuestros socios y garantizar su máxima satisfacción con nuestros servicios. Confíe en nosotros para hacer que la gestión de sus sábanas sea más eficiente y sin complicaciones.",
   "aboutButton": "Descubra Nuestro Camino hacia la Excelencia",
   
-  "faqSubtitle": "Preguntas Frecuentes",
-  "faqTitle": "Estamos Aquí para Ayudar",
-  "faqDescriptionOne": "¿Tiene dudas sobre nuestros servicios? Hemos reunido aquí las respuestas a las preguntas más comunes para ayudar a comprender mejor cómo trabajamos y lo que ofrecemos.",
-  "faqDescriptionTwo": "Si no encuentra la respuesta que busca, contáctenos directamente. ¡Estamos aquí para ayudar!",
+ "faqSubtitle": "Preguntas Frecuentes",
+  "faqTitle": "Estamos Aquí Para Ayudarle",
+  "faqDescriptionOne": "¿Tiene preguntas sobre nuestros servicios de lavandería? Hemos recopilado aquí las respuestas a las preguntas más comunes para ayudarle a comprender mejor cómo funcionamos y qué ofrecemos.",
+  "faqDescriptionTwo": "Si no encuentra la respuesta que busca, no dude en contactarnos directamente. ¡Estamos aquí para ayudarle!",
   "faq": [
     {
-      "title": "¿Cómo puedo reservar un servicio de limpieza?",
-      "description": "Basta con ponerse en contacto con nosotros por teléfono, WhatsApp o correo electrónico. Discutiremos sus necesidades específicas y agendaremos una fecha y hora para la intervención. Somos flexibles y nos adaptamos a su disponibilidad para ofrecerle un servicio personalizado."
+      "title": "¿Cómo puedo solicitar un servicio de lavandería?",
+      "description": "Para solicitar nuestros servicios, solo tiene que ponerse en contacto con nosotros por teléfono, WhatsApp o correo electrónico. Podemos organizar la recogida y entrega de su ropa en el horario que le convenga."
     },
     {
-      "title": "¿Qué tipos de propiedades limpian?",
-      "description": "Nos especializamos en la limpieza de casas y apartamentos de prestigio, especialmente aquellos destinados al alquiler estacional. Sin embargo, también limpiamos residencias principales. Si es propietario residente o gestiona un inmueble para alquiler, tenemos la solución adecuada a sus necesidades."
+      "title": "¿Qué tipos de ropa limpian?",
+      "description": "En Excellence Laundry, limpiamos una amplia gama de artículos, como sábanas, toallas, edredones, ropa delicada, uniformes y mucho más. Tratamos diferentes tipos de telas y garantizamos que cada prenda sea cuidada con esmero."
     },
     {
-      "title": "¿Cómo determinan el número de personas para el servicio?",
-      "description": "El número de personas asignadas depende del tamaño de la propiedad y del tipo de servicio solicitado. Evaluamos cada situación individualmente para garantizar una limpieza eficiente y rápida. Cuando enviamos más de una persona, el tiempo de ejecución se reduce, manteniendo la calidad del servicio."
+      "title": "¿Limpian ropa delicada y especial?",
+      "description": "¡Sí! Tenemos experiencia en la limpieza de ropa delicada, como vestidos de novia, trajes, prendas de seda y otros artículos que requieren cuidados especiales. Utilizamos técnicas y productos adecuados para preservar la calidad de sus prendas."
     },
     {
-      "title": "¿Qué productos y equipos utilizan?",
-      "description": "Utilizamos productos de limpieza profesionales de alta calidad, respetuosos del medio ambiente y seguros para superficies delicadas. Nuestro equipo está equipado con todos los materiales necesarios para realizar una limpieza completa, incluyendo equipos especializados para sofás, alfombras y vidrios. Si tiene preferencias por determinados productos, podemos adaptarnos."
+      "title": "¿Cómo funciona el proceso de recogida y entrega de la ropa?",
+      "description": "Ofrecemos un servicio de recogida y entrega directamente en su domicilio o en el lugar que elija. Solo tiene que programar con nosotros y nuestro equipo recogerá y entregará su ropa dentro de los plazos acordados, cuidando cada prenda."
     },
     {
-      "title": "¿Ofrecen contratos de limpieza regular?",
-      "description": "Sí, ofrecemos servicios regulares para clientes que desean un mantenimiento a largo plazo, ya sea para residencias principales o propiedades de alquiler estacional. Podemos organizar intervenciones semanales, mensuales o según su calendario, siempre con la misma rigurosidad y calidad."
+      "title": "¿Qué productos utilizan para el lavado?",
+      "description": "Utilizamos productos de limpieza de alta calidad adaptados a cada tipo de tela. Priorizamos detergentes y suavizantes eficaces y, cuando es posible, ecológicos, garantizando que su ropa quede limpia, fresca y bien cuidada."
     },
     {
-      "title": "¿Cuáles son sus precios y cómo se calculan?",
-      "description": "Nuestros precios comienzan desde 26,90€/h (sin IVA) por persona. El costo total depende del número de horas necesarias y del número de personas movilizadas para el servicio. Cuando más de una persona interviene, el tiempo de limpieza se reduce proporcionalmente. Siempre proporcionamos una estimación antes de cada servicio, garantizando total transparencia."
+      "title": "¿Cuál es el tiempo de entrega de la ropa lavada?",
+      "description": "El tiempo de entrega depende del tipo de servicio solicitado. Para servicios estándar, el plazo de entrega es de 48 horas. Si necesita un servicio exprés, podemos ofrecer plazos más cortos según la disponibilidad y el volumen de los artículos."
+    },
+    {
+      "title": "¿Cuáles son las tarifas de los servicios de lavandería?",
+      "description": "Los precios varían según el tipo de artículo, la cantidad y el servicio solicitado. Para obtener una estimación precisa, contáctenos e indíquenos los artículos a lavar. Le proporcionaremos un presupuesto claro y transparente."
+    },
+    {
+      "title": "¿Ofrecen un servicio de lavandería regular o suscripción?",
+      "description": "Sí, ofrecemos planes de lavandería regulares o suscripciones para clientes que necesitan servicios continuos. Podemos organizar recogidas y entregas periódicas según su conveniencia, ya sea semanal, quincenal o mensual."
     }
   ],
 
