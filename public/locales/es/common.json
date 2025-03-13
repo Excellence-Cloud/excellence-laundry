@@ -127,32 +127,32 @@
     { "text": "Contacto", "DO_NOT_CHANGE": "contact" }
   ],
 
-  "heroSubtitle": "Su Socio en Limpieza y Conforto",
-  "heroTitle": "EXCELLENCE LAUNDRY – ¡LAVADO O ALQUILER, LA ELECCIÓN ES SUYA!",
-  "heroButton": "Descubra Nuestros Servicios",
-  "heroParagraphline1": "En Excellence Laundry, nos adaptamos a sus necesidades. Ofrecemos lavado profesional para mantener sus textiles impecables o la opción de alquiler de ropa de cama y baño, siempre fresca y lista para usar.",
-  "heroParagraphline2": "✔ Servicio de lavandería premium – limpieza profunda con productos de alta calidad",
-  "heroParagraphline3": "✔ Alquiler de lencería – ropa siempre impecable, sin preocupaciones",
-  "heroParagraphline4": "✔ Puntualidad y fiabilidad – entregamos cuando y donde lo necesite",
-  "heroParagraphline5": "¡Elija la solución ideal para usted y garantice confort y calidad sin esfuerzo!",
+  "heroSubtitle": "Tu Socio en Confort y Calidad",
+  "heroTitle": "EXCELLENCE LAUNDRY – LAVADO O ALQUILER, ¡LA SOLUCIÓN IDEAL PARA TI!",
+  "heroButton": "Descubre Nuestros Servicios",
+  "heroParagraphline1": "En Excellence Laundry, ofrecemos flexibilidad para satisfacer tus necesidades. Ya sea para mantener tus textiles impecables con nuestro lavado profesional o para garantizar una frescura constante con el alquiler de ropa de cama y baño, estamos listos para encargarnos de todo.",
+  "heroParagraphline2": "✔ Lavado Premium – Productos de alta calidad para una limpieza profunda",
+  "heroParagraphline3": "✔ Alquiler de Ropa – Ropa impecable, sin preocupaciones",
+  "heroParagraphline4": "✔ Puntualidad Garantizada – Entrega en el momento y lugar que necesites",
+  "heroParagraphline5": "Elige la solución perfecta para ti y disfruta de confort y calidad sin esfuerzo!",
 
-  "howItWorksSubtitle": "Simplifique Su Vida Diaria",
+  "howItWorksSubtitle": "Simplifica Tu Vida Diaria",
   "howItWorksTitle": "Cómo Funciona",
   "howItWorks": [
     {
       "icon": "vector1.svg",
-      "title": "Solicitud de Presupuesto",
-      "description": "Envíe una solicitud de presupuesto en línea para obtener una estimación precisa de nuestros servicios de limpieza. Responderemos rápidamente con una oferta personalizada."
+      "title": "Solicitar un Presupuesto",
+      "description": "Envía tu solicitud de presupuesto en línea y recibe una estimación precisa de nuestros servicios. Responderemos rápidamente con una oferta personalizada para ti."
     },
     {
       "icon": "vector2.svg",
       "title": "Validación de la Propuesta",
-      "description": "Revise y apruebe nuestra propuesta de limpieza. Una vez que recibamos su aprobación, agendaremos la intervención en su conveniencia."
+      "description": "Revisa y aprueba nuestra propuesta personalizada. Una vez aprobada, programamos la recogida y entrega de tus artículos según tu conveniencia."
     },
     {
       "icon": "vector3.svg",
-      "title": "Intervención Profesional",
-      "description": "Nuestros especialistas irán a la dirección indicada para realizar el tipo de limpieza que usted especificó, en la fecha y hora acordadas. Disfrutará de un servicio de alta calidad, perfectamente adaptado a sus necesidades."
+      "title": "Servicio Profesional",
+      "description": "Nos encargamos de todo en nuestra lavandería, garantizando un servicio de alta calidad y eficiencia para tus textiles. Programamos la recogida y entrega según tus necesidades."
     }
   ],
 
