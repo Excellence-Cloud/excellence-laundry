@@ -154,42 +154,41 @@
     }
   ],
 
-   "introductionSubtitle": "Discover Our Strengths",
-  "introductionTitle": "Excellence Cleaners Services",
-  "introductionDescription": "We take pride in offering a comprehensive range of laundry and maintenance services designed to exceed your expectations. Whether you are a luxury hotel manager or a seasonal rental operator, our experienced team ensures impeccable results with every request. Explore our key advantages.",
+  "introductionSubtitle": "Discover Our Strengths",
+  "introductionTitle": "Excellence Laundry Services",
+  "introductionDescription": "At Excellence Laundry, we specialize in providing high-quality laundry and linen rental services, always aiming to exceed your expectations. Whether you're looking for a reliable laundry service or a practical solution for renting bed and bath linens, our experienced team ensures perfect results with every order. Explore the key benefits of choosing Excellence Laundry for your needs.",
   "introductionAdvantages": [
-    { "text": "Cleaning between seasonal rentals;" },
-    { "text": "Annual cleaning service for resident owners;" },
-    { "text": "Deep cleaning;" },
-    { "text": "Cleaning of sofas, carpets, and textiles;" },
-    { "text": "Window cleaning;" },
-    { "text": "Office and clinic cleaning;" },
-    { "text": "Tailored services." }
+    { "text": "Professional clothing laundry;" },
+    { "text": "Linen rental – always fresh and ready to use;" },
+    { "text": "Timely delivery service;" },
+    { "text": "Laundry for delicate garments and special items;" },
+    { "text": "On-demand laundry service;" },
+    { "text": "Customized solutions for each client." }
   ],
 
-   "whyUsSubtitle": "Cleaning Service",
-  "whyUsTitle": "Why Choose Excellence Cleaners?",
-  "whyUsDescription": "At Excellence Cleaners, with over 3 years of expertise in cleaning luxury villas and apartments for seasonal rentals, we stand out for our commitment to delivering impeccable service. We understand the importance of first impressions for your tenants and ensure that your property is always perfect between stays.",
+  "whyUsSubtitle": "Premium Laundry Service",
+  "whyUsTitle": "Why Choose Excellence Laundry?",
+  "whyUsDescription": "At Excellence Laundry, we have over 3 years of experience providing laundry and linen rental services tailored to all your needs. Our commitment to quality sets us apart in the market, offering practical, efficient, and personalized solutions for each client. We guarantee that your clothing and bed linens will always be spotless, with the punctuality and quality you expect.",
   "whyUsReasons": [
     {
-      "title": "Annual cleaning service for resident owners",
-      "description": "In addition to seasonal rentals, we offer regular maintenance contracts for resident owners. Our annual cleaning service ensures a clean and welcoming home throughout the year, allowing you to worry less."
+      "title": "Professional clothing laundry",
+      "description": "Our laundry service uses high-quality products and specialized techniques to ensure that your clothes are spotless, without damage or wear."
     },
     {
-      "title": "Flexibility and rapid intervention",
-      "description": "Our teams are flexible and adapt to your needs. We mobilize multiple agents for quick interventions, especially between two seasonal rentals, to maximize your rental periods."
+      "title": "Linen rental always fresh",
+      "description": "We offer a linen rental service so that you always have clean, fresh items without worrying about laundry. Our rental option is perfect for those who seek convenience and quality."
     },
     {
-      "title": "Quality and attention to detail",
-      "description": "We understand the demands of prestigious properties. Our team, trained to satisfy both owners and tenants, cleans every corner with precision, ensuring that your property is always immaculate."
+      "title": "Punctuality and reliability",
+      "description": "At Excellence Laundry, we understand the importance of punctuality. We deliver your clothes and linens on time, always with the quality and care you expect."
     },
     {
-      "title": "Transparent pricing",
-      "description": "Our prices start from €26.90HT/hour. The duration of interventions is adjusted based on the number of agents, with complete transparency about costs. This way, you enjoy high-quality service without unpleasant surprises."
+      "title": "Guaranteed quality",
+      "description": "Our commitment to quality is unwavering. We take great care of each item, paying attention to detail and using modern equipment and top-quality products to provide the best laundry and rental services."
     },
     {
-      "title": "Advantages of choosing Excellence Cleaners and our team",
-      "description": "Choosing Excellence Cleaners means opting for a dedicated, professional team trained in the most advanced cleaning techniques. We use modern, high-quality equipment, ensuring superior results and optimizing the effectiveness of our processes. We are committed to delivering timely, high-quality service in every intervention. Our employees are rigorously selected for their expertise and reliability, ensuring safety and discretion in your property. Additionally, we pay special attention to your specific needs and requirements to provide a personalized service that exceeds your expectations. With Excellence Cleaners, you can be confident that you are working with a competent, engaged, and attentive team."
+      "title": "Tailored solutions",
+      "description": "At Excellence Laundry, we customize our services to meet your needs. If you have specific requirements, our team is ready to adapt the service and offer the ideal solution for you."
     }
   ],
 
