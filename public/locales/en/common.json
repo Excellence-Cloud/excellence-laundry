@@ -213,34 +213,42 @@
   "aboutDescriptionline4": "Our mission is to simplify laundry management for our partners and ensure their maximum satisfaction with our services. Trust us to make managing your linens more efficient and hassle-free.",
   "aboutButton": "Discover Our Path to Excellence",
   
-    "faqSubtitle": "Frequently Asked Questions",
-  "faqTitle": "We Are Here to Help",
-  "faqDescriptionOne": "Do you have questions about our services? We have compiled answers to the most common questions to help you better understand how we work and what we offer.",
-  "faqDescriptionTwo": "If you can’t find the answer you’re looking for, feel free to contact us directly. We are here to help!",
+   "faqSubtitle": "Frequently Asked Questions",
+  "faqTitle": "We Are Here To Help You",
+  "faqDescriptionOne": "Do you have questions about our laundry services? We've gathered the answers to the most common questions to help you better understand how we operate and what we offer.",
+  "faqDescriptionTwo": "If you can't find the answer you're looking for, feel free to contact us directly. We are here to assist you!",
   "faq": [
     {
-      "title": "How can I book a cleaning service?",
-      "description": "Simply contact us via phone, WhatsApp, or email. We will discuss your specific needs and schedule a date and time for the intervention. We are flexible and adapt to your availability to provide you with personalized service."
+      "title": "How can I request a laundry service?",
+      "description": "To request our services, simply contact us via phone, WhatsApp, or email. We can arrange a pick-up and delivery for your laundry at a time that works best for you."
     },
     {
-      "title": "What types of properties do you clean?",
-      "description": "We specialize in cleaning prestigious homes and apartments, particularly those intended for seasonal rental. However, we also clean primary residences. Whether you are a resident owner or managing a rental property, we have the right solution for your needs."
+      "title": "What types of laundry do you clean?",
+      "description": "At Excellence Laundry, we clean a wide range of items, such as bed linens, towels, duvets, delicate clothing, uniforms, and more. We handle various fabric types and ensure each item is treated with care."
     },
     {
-      "title": "How do you determine the number of people for the service?",
-      "description": "The number of assigned personnel depends on the size of the property and the type of service requested. We assess each situation individually to ensure efficient and quick cleaning. When sending more than one person, the execution time is reduced while maintaining the quality of service."
+      "title": "Do you clean delicate and special items?",
+      "description": "Yes! We have experience in cleaning delicate items such as wedding dresses, suits, silk garments, and other pieces that require special care. We use appropriate techniques and products to preserve the quality of your clothing."
     },
     {
-      "title": "What products and equipment do you use?",
-      "description": "We use high-quality professional cleaning products that are environmentally friendly and safe for delicate surfaces. Our team is equipped with all the necessary materials to perform a complete cleaning, including specialized equipment for sofas, carpets, and glass. If you have preferences for specific products, we can adapt accordingly."
+      "title": "How does the pick-up and delivery process work?",
+      "description": "We offer a convenient pick-up and delivery service directly from your home or location of choice. Just schedule with us, and our team will pick up and deliver your laundry within the agreed-upon time frame, taking care of each item."
     },
     {
-      "title": "Do you offer regular cleaning contracts?",
-      "description": "Yes, we offer regular services for clients who want long-term maintenance, whether for primary residences or seasonal rental properties. We can arrange weekly, monthly, or as-needed interventions, always with the same rigor and quality."
+      "title": "What products do you use for washing?",
+      "description": "We use high-quality laundry products suitable for each fabric type. We prioritize effective detergents and softeners, and where possible, eco-friendly options, ensuring that your laundry is clean, fresh, and well-cared-for."
     },
     {
-      "title": "What are your prices and how are they calculated?",
-      "description": "Our prices start from €26.90/hour (excluding VAT) per person. The total cost depends on the number of hours required and the number of people mobilized for the service. When more than one person intervenes, the cleaning time is reduced proportionally. We always provide an estimate before each service, ensuring complete transparency."
+      "title": "What is the delivery time for washed laundry?",
+      "description": "Delivery times depend on the service requested. For standard services, the delivery time is 48 hours. If you need an express service, we can offer shorter delivery times depending on availability and the volume of items."
+    },
+    {
+      "title": "What are the rates for your laundry services?",
+      "description": "Prices vary depending on the type of item, quantity, and service requested. To get an accurate estimate, contact us and let us know the items you'd like to have cleaned. We'll provide you with a clear and transparent quote."
+    },
+    {
+      "title": "Do you offer regular laundry services or subscriptions?",
+      "description": "Yes, we offer regular laundry services or subscription plans for clients who need continuous services. We can arrange periodic pick-ups and deliveries based on your convenience, whether weekly, bi-weekly, or monthly."
     }
   ],
 
