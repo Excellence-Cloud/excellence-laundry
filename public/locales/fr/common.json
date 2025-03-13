@@ -313,34 +313,42 @@
   "aboutDescriptionline4": "Notre mission est de simplifier la gestion de la blanchisserie pour nos partenaires et de garantir leur satisfaction maximale avec nos services. Comptez sur nous pour rendre la gestion de votre linge plus efficace et sans tracas.",
   "aboutButton": "Découvrez Notre Parcours d'Excellence",
 
-  "faqSubtitle": "Questions Fréquemment Posées",
+ "faqSubtitle": "Questions Fréquemment Posées",
   "faqTitle": "Nous Sommes Là Pour Vous Aider",
-  "faqDescriptionOne": "Vous avez des questions concernant nos services ? Nous avons rassemblé ici les réponses aux questions les plus courantes pour vous aider à mieux comprendre comment nous fonctionnons et ce que nous offrons.",
+  "faqDescriptionOne": "Vous avez des questions concernant nos services de blanchisserie ? Nous avons rassemblé ici les réponses aux questions les plus courantes pour vous aider à mieux comprendre comment nous fonctionnons et ce que nous offrons.",
   "faqDescriptionTwo": "Si vous ne trouvez pas la réponse que vous cherchez, n'hésitez pas à nous contacter directement. Nous sommes là pour vous aider !",
   "faq": [
     {
-      "title": "Comment puis-je réserver une prestation de nettoyage ?",
-      "description": "Il vous suffit de nous contacter via téléphone, WhatsApp ou par email. Nous discuterons de vos besoins spécifiques, puis nous fixerons une date et une heure pour l’intervention. Nous sommes flexibles et nous adaptons à vos disponibilités pour vous offrir un service sur mesure."
+      "title": "Comment puis-je demander un service de blanchisserie ?",
+      "description": "Pour demander nos services, il vous suffit de nous contacter par téléphone, WhatsApp ou e-mail. Nous pouvons organiser la collecte et la livraison de vos vêtements à l'heure qui vous convient."
     },
     {
-      "title": "Quels types de biens nettoyez-vous ?",
-      "description": "Nous nous spécialisons dans le nettoyage de villas et d’appartements de prestige, notamment ceux destinés à la location saisonnière. Toutefois, nous intervenons également dans les résidences principales. Que vous soyez un propriétaire résident ou que vous gériez un bien en location, nous avons une solution adaptée à vos besoins."
+      "title": "Quels types de vêtements nettoyez-vous ?",
+      "description": "Chez Excellence Laundry, nous nettoyons une large gamme d'articles tels que des draps, des serviettes, des couettes, des vêtements délicats, des uniformes et bien plus encore. Nous traitons différents types de tissus et garantissons que chaque pièce est soigneusement prise en charge."
     },
     {
-      "title": "Comment est déterminé le nombre de personnes pour une prestation ?",
-      "description": "Le nombre de personnes affectées à une prestation dépend de la taille de la propriété et du type de service demandé. Nous évaluons chaque situation individuellement afin de garantir un nettoyage efficace et rapide. Si nous envoyons plus d'une personne, cela réduit le temps d'exécution tout en maintenant la qualité du service."
+      "title": "Nettoyez-vous des vêtements délicats et spéciaux ?",
+      "description": "Oui ! Nous avons l'expérience de nettoyer des vêtements délicats, comme des robes de mariée, des costumes, des vêtements en soie et d'autres articles nécessitant des soins particuliers. Nous utilisons des techniques et des produits appropriés pour préserver la qualité de vos articles."
     },
     {
-      "title": "Quels produits et équipements utilisez-vous ?",
-      "description": "Nous utilisons des produits de nettoyage professionnels de haute qualité, respectueux de l'environnement et sûrs pour les surfaces délicates. Notre équipe est équipée de tout le matériel nécessaire pour assurer un nettoyage complet, y compris des équipements spécialisés pour les canapés, tapis et vitres. Si vous avez des préférences pour certains produits, nous pouvons nous adapter."
+      "title": "Comment se déroule le processus de collecte et de livraison des vêtements ?",
+      "description": "Nous offrons un service de collecte et de livraison directement à votre domicile ou à l'endroit de votre choix. Il vous suffit de planifier avec nous et notre équipe viendra chercher et livrer vos vêtements dans les délais convenus, en prenant soin de chaque pièce."
     },
     {
-      "title": "Proposez-vous des contrats de nettoyage régulier ?",
-      "description": "Oui, nous offrons des services réguliers pour les clients qui souhaitent un entretien à long terme, que ce soit pour des résidences principales ou des biens en location saisonnière. Nous pouvons organiser des interventions hebdomadaires, mensuelles ou selon le calendrier de votre choix, toujours avec la même rigueur et la même qualité."
+      "title": "Quels produits utilisez-vous pour le lavage ?",
+      "description": "Nous utilisons des produits de nettoyage de haute qualité adaptés à chaque type de tissu. Nous privilégions des détergents et assouplissants efficaces et, lorsque possible, écologiques, garantissant que vos vêtements restent propres, frais et bien entretenus."
     },
     {
-      "title": "Quels sont vos tarifs et comment sont-ils calculés ?",
-      "description": "Nos tarifs commencent à 26,90€HT/h pour une personne. Le coût total dépend du nombre d’heures nécessaires et du nombre de personnes mobilisées pour la prestation. Si plus d’une personne intervient, la durée du nettoyage sera réduite proportionnellement. Nous fournissons toujours une estimation avant chaque prestation, afin de garantir une transparence totale."
+      "title": "Quel est le délai de livraison des vêtements lavés ?",
+      "description": "Le délai de livraison dépend du type de service demandé. Pour les services standard, le délai est de 48 heures. Si vous avez besoin d'un service express, nous pouvons offrir des délais plus courts en fonction de la disponibilité et du volume des articles."
+    },
+    {
+      "title": "Quels sont les tarifs des services de blanchisserie ?",
+      "description": "Les prix varient en fonction du type d'article, de la quantité et du service demandé. Pour obtenir une estimation précise, contactez-nous et indiquez-nous les articles à nettoyer. Nous vous fournirons un devis clair et transparent."
+    },
+    {
+      "title": "Proposez-vous un service de blanchisserie régulier ou un abonnement ?",
+      "description": "Oui, nous proposons des plans de blanchisserie réguliers ou des abonnements pour les clients qui nécessitent des services continus. Nous pouvons organiser des collectes et des livraisons périodiques selon votre convenance, qu'elles soient hebdomadaires, bihebdomadaires ou mensuelles."
     }
   ],
 
