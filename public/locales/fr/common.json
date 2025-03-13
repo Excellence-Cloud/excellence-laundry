@@ -254,41 +254,41 @@
     }
   ],
 
-  "introductionSubtitle": "Découvrez Nos Atouts",
-  "introductionTitle": "Services Excellence Laundry",
-  "introductionDescription": "Chez Excellence Laundry, nous nous spécialisons dans la fourniture de services de blanchisserie et de location de linge de haute qualité, toujours dans le but de dépasser vos attentes. Que vous soyez à la recherche d'un service de blanchisserie fiable ou d'une solution pratique pour la location de linge de lit et de bain, notre équipe expérimentée garantit des résultats parfaits à chaque commande. Découvrez les principaux avantages de choisir Excellence Laundry pour vos besoins.",
+  "introductionSubtitle": "Découvrez Nos Points Forts",
+  "introductionTitle": "Services d'Excellence Laundry",
+  "introductionDescription": "Chez Excellence Laundry, nous nous spécialisons dans la fourniture de services de blanchisserie et de location de linge de lit de haute qualité, toujours dans le but de dépasser vos attentes. Que vous recherchiez un service de blanchisserie fiable ou une solution pratique pour louer du linge de lit et des serviettes, notre équipe expérimentée garantit des résultats parfaits à chaque commande. Découvrez les principaux avantages de choisir Excellence Laundry pour vos besoins.",
   "introductionAdvantages": [
     { "text": "Blanchisserie professionnelle de vêtements;" },
     { "text": "Location de linge de lit – toujours frais et prêt à l'emploi;" },
-    { "text": "Service de livraison ponctuel;" },
-    { "text": "Blanchisserie de vêtements délicats et d'articles spéciaux;" },
+    { "text": "Service de livraison ponctuelle;" },
+    { "text": "Nettoyage de vêtements délicats et articles spéciaux;" },
     { "text": "Service de blanchisserie à la demande;" },
     { "text": "Solutions personnalisées pour chaque client." }
   ],
 
   "whyUsSubtitle": "Service de Blanchisserie Premium",
   "whyUsTitle": "Pourquoi Choisir Excellence Laundry ?",
-  "whyUsDescription": "Chez Excellence Laundry, nous avons plus de 3 ans d'expérience dans la fourniture de services de blanchisserie et de location de linge adaptés à tous vos besoins. Notre engagement envers la qualité nous distingue sur le marché, en offrant des solutions pratiques, efficaces et personnalisées pour chaque client. Nous garantissons que vos vêtements et votre linge de lit seront toujours impeccables, avec la ponctualité et la qualité que vous attendez.",
+  "whyUsDescription": "Chez Excellence Laundry, nous avons plus de 3 ans d'expérience dans la fourniture de services de blanchisserie et de location de linge de lit adaptés à tous vos besoins. Notre engagement envers la qualité nous distingue sur le marché, offrant des solutions pratiques, efficaces et personnalisées pour chaque client. Nous garantissons que vos vêtements et linge de lit seront toujours impeccables, avec la ponctualité et la qualité que vous attendez.",
   "whyUsReasons": [
     {
       "title": "Blanchisserie professionnelle de vêtements",
-      "description": "Notre service de blanchisserie utilise des produits de haute qualité et des techniques spécialisées pour garantir que vos vêtements soient impeccables, sans dommage ni usure."
+      "description": "Notre service de blanchisserie utilise des produits de haute qualité et des techniques spécialisées pour garantir que vos vêtements soient impeccables, sans dommages ni usure."
     },
     {
       "title": "Location de linge de lit toujours frais",
-      "description": "Nous proposons un service de location de linge de lit et de bain, pour que vous ayez toujours des articles propres et frais sans vous soucier du lavage. Notre option de location est idéale pour ceux qui recherchent la praticité et la qualité."
+      "description": "Nous offrons un service de location de linge de lit et de serviettes, afin que vous ayez toujours des articles propres et frais sans vous soucier du lavage. Notre option de location est idéale pour ceux qui recherchent confort et qualité."
     },
     {
       "title": "Ponctualité et fiabilité",
-      "description": "Chez Excellence Laundry, nous savons l'importance de la ponctualité. Nous livrons vos vêtements et votre linge à l'heure, toujours avec la qualité et l'attention que vous attendez."
+      "description": "Chez Excellence Laundry, nous comprenons l'importance de la ponctualité. Nous livrons vos vêtements et linge de lit à temps, toujours avec la qualité et l'attention que vous attendez."
     },
     {
       "title": "Qualité garantie",
-      "description": "Notre engagement envers la qualité est absolu. Nous prenons soin de chaque pièce avec attention aux détails, en utilisant des équipements modernes et des produits d'excellence pour offrir le meilleur service de blanchisserie et de location."
+      "description": "Notre engagement envers la qualité est absolu. Nous prenons soin de chaque vêtement avec une attention particulière aux détails, en utilisant des équipements modernes et des produits de haute qualité pour offrir le meilleur service de blanchisserie et de location."
     },
     {
       "title": "Solutions sur mesure",
-      "description": "Chez Excellence Laundry, nous personnalisons nos services en fonction de vos besoins. Si vous avez des exigences spécifiques, notre équipe est prête à adapter le service et à offrir la solution idéale pour vous."
+      "description": "Chez Excellence Laundry, nous personnalisons nos services en fonction de vos besoins. Si vous avez des exigences spécifiques, notre équipe est prête à adapter le service et à vous offrir la solution idéale."
     }
   ],
 
