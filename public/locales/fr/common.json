@@ -225,32 +225,32 @@
     { "text": "Contact", "DO_NOT_CHANGE": "contact" }
   ],
 
-  "heroSubtitle": "Votre Partenaire en Propreté et Confort",
-  "heroTitle": "EXCELLENCE LAUNDRY – LAVAGE OU LOCATION, À VOUS DE CHOISIR !",
-  "heroButton": "Découvrez Nos Services",
-  "heroParagraphline1": "Chez Excellence Laundry, nous nous adaptons à vos besoins. Nous offrons un lavage professionnel pour garder vos textiles impeccables ou l’option de location de linge de lit et de bain, toujours frais et prêt à l’emploi.",
-  "heroParagraphline2": "✔ Service de blanchisserie premium – nettoyage en profondeur avec des produits de haute qualité",
-  "heroParagraphline3": "✔ Location de linge – du linge toujours impeccable, sans souci",
-  "heroParagraphline4": "✔ Ponctualité et fiabilité – nous livrons quand et où vous en avez besoin",
-  "heroParagraphline5": "Choisissez la solution idéale pour vous et assurez confort et qualité sans effort !",
+   "heroSubtitle": "Your Partner in Comfort and Quality",
+  "heroTitle": "EXCELLENCE LAUNDRY – WASHING OR RENTAL, THE IDEAL SOLUTION FOR YOU!",
+  "heroButton": "Discover Our Services",
+  "heroParagraphline1": "At Excellence Laundry, we offer flexibility to meet your needs. Whether it's keeping your textiles spotless with our professional washing or ensuring constant freshness with bed and bath linen rental, we are ready to take care of everything.",
+  "heroParagraphline2": "✔ Premium Laundry – High-quality products for a deep clean",
+  "heroParagraphline3": "✔ Linen Rental – Impeccable linen, worry-free",
+  "heroParagraphline4": "✔ Guaranteed Punctuality – Delivery at the time and location you need",
+  "heroParagraphline5": "Choose the perfect solution for you and enjoy comfort and quality without effort!",
 
-  "howItWorksSubtitle": "Simplifiez Votre Vie Quotidienne",
-  "howItWorksTitle": "Comment Ça Marche",
+  "howItWorksSubtitle": "Simplifying Your Daily Life",
+  "howItWorksTitle": "How It Works",
   "howItWorks": [
     {
       "icon": "vector1.svg",
-      "title": "Demande de Devis",
-      "description": "Soumettez une demande de devis en ligne pour obtenir une estimation précise de nos services de nettoyage. Nous vous répondrons rapidement avec une offre personnalisée."
+      "title": "Request a Quote",
+      "description": "Send your online quote request and receive an accurate estimate for our services. We will quickly respond with a tailored offer for you."
     },
     {
       "icon": "vector2.svg",
-      "title": "Validation de la Proposition",
-      "description": "Examinez et approuvez notre proposition de nettoyage. Une fois votre approbation reçue, nous planifierons l'intervention à votre convenance."
+      "title": "Proposal Validation",
+      "description": "Review and approve our personalized proposal. Once approved, we will schedule the collection and delivery of your items at your convenience."
     },
     {
       "icon": "vector3.svg",
-      "title": "Intervention Professionnelle",
-      "description": "Nos experts se rendent à l'adresse indiquée pour réaliser le type de nettoyage que vous avez spécifié, à la date et l'heure convenues. Vous bénéficierez d'un service de haute qualité, parfaitement adapté à vos besoins."
+      "title": "Professional Service",
+      "description": "We take care of everything in our laundry, ensuring high-quality and efficient service for your textiles. We schedule collection and delivery based on your needs."
     }
   ],
 
