@@ -254,56 +254,41 @@
     }
   ],
 
-  "introductionSubtitle": "Découvrez Nos Forces",
-  "introductionTitle": "Services d'Excellence Cleaners",
-  "introductionDescription": "Nous sommes fiers d'offrir une gamme complète de services de blanchisserie et d'entretien conçus pour dépasser vos attentes. Que vous gériez un hôtel de luxe ou des locations de vacances, notre équipe expérimentée garantit des résultats impeccables à chaque commande. Explorez nos principaux avantages",
+  "introductionSubtitle": "Découvrez Nos Atouts",
+  "introductionTitle": "Services Excellence Laundry",
+  "introductionDescription": "Chez Excellence Laundry, nous nous spécialisons dans la fourniture de services de blanchisserie et de location de linge de haute qualité, toujours dans le but de dépasser vos attentes. Que vous soyez à la recherche d'un service de blanchisserie fiable ou d'une solution pratique pour la location de linge de lit et de bain, notre équipe expérimentée garantit des résultats parfaits à chaque commande. Découvrez les principaux avantages de choisir Excellence Laundry pour vos besoins.",
   "introductionAdvantages": [
-    {
-      "text": "Nettoyage entre locations saisonnières"
-    },
-    {
-      "text": "Ménage à l’année pour propriétaires résidents"
-    },
-    {
-      "text": "Nettoyage en profondeur (deep cleaning)"
-    },
-    {
-      "text": "Nettoyage de canapés, tapis et textiles"
-    },
-    {
-      "text": "Nettoyage des vitres"
-    },
-    {
-      "text": "Nettoyage de bureaux et cliniques"
-    },
-    {
-      "text": "Services sur mesure"
-    }
+    { "text": "Blanchisserie professionnelle de vêtements;" },
+    { "text": "Location de linge de lit – toujours frais et prêt à l'emploi;" },
+    { "text": "Service de livraison ponctuel;" },
+    { "text": "Blanchisserie de vêtements délicats et d'articles spéciaux;" },
+    { "text": "Service de blanchisserie à la demande;" },
+    { "text": "Solutions personnalisées pour chaque client." }
   ],
 
-  "whyUsSubtitle": "Service de Nettoyage",
-  "whyUsTitle": "Pourquoi Choisir Excellence Cleaners?",
-  "whyUsDescription": "Chez Excellence Cleaners, avec plus de 3 ans d'expertise dans le nettoyage de villas et appartements de luxe en location saisonnière, nous nous distinguons par notre engagement à offrir un service impeccable. Nous comprenons l'importance de la première impression pour vos locataires et garantissons que votre propriété sera toujours parfaite entre chaque séjour.",
+  "whyUsSubtitle": "Service de Blanchisserie Premium",
+  "whyUsTitle": "Pourquoi Choisir Excellence Laundry ?",
+  "whyUsDescription": "Chez Excellence Laundry, nous avons plus de 3 ans d'expérience dans la fourniture de services de blanchisserie et de location de linge adaptés à tous vos besoins. Notre engagement envers la qualité nous distingue sur le marché, en offrant des solutions pratiques, efficaces et personnalisées pour chaque client. Nous garantissons que vos vêtements et votre linge de lit seront toujours impeccables, avec la ponctualité et la qualité que vous attendez.",
   "whyUsReasons": [
     {
-      "title": "Service de ménage à l’année pour propriétaires résidents",
-      "description": "En plus des locations saisonnières, nous proposons des contrats d’entretien régulier pour les propriétaires résidents. Notre service de ménage à l’année garantit un domicile propre et accueillant tout au long de l'année, sans que vous ayez à vous en soucier."
+      "title": "Blanchisserie professionnelle de vêtements",
+      "description": "Notre service de blanchisserie utilise des produits de haute qualité et des techniques spécialisées pour garantir que vos vêtements soient impeccables, sans dommage ni usure."
     },
     {
-      "title": "Flexibilité et rapidité d’intervention",
-      "description": "Nos équipes sont flexibles et s’adaptent à vos besoins. Nous mobilisons plusieurs agents pour des interventions rapides, notamment entre deux locations saisonnières, afin de maximiser vos périodes de location."
+      "title": "Location de linge de lit toujours frais",
+      "description": "Nous proposons un service de location de linge de lit et de bain, pour que vous ayez toujours des articles propres et frais sans vous soucier du lavage. Notre option de location est idéale pour ceux qui recherchent la praticité et la qualité."
     },
     {
-      "title": "Qualité et souci du détail",
-      "description": "Nous comprenons les exigences des biens de prestige. Notre équipe, formée pour satisfaire propriétaires et locataires, nettoie chaque recoin avec précision, assurant que votre propriété est toujours impeccable."
+      "title": "Ponctualité et fiabilité",
+      "description": "Chez Excellence Laundry, nous savons l'importance de la ponctualité. Nous livrons vos vêtements et votre linge à l'heure, toujours avec la qualité et l'attention que vous attendez."
     },
     {
-      "title": "Tarification transparente",
-      "description": "Nos tarifs débutent à 26,90€HT/h. La durée des interventions est ajustée en fonction du nombre d'agents, avec une transparence totale sur les coûts. Profitez ainsi d'un service haut de gamme sans mauvaises surprises."
+      "title": "Qualité garantie",
+      "description": "Notre engagement envers la qualité est absolu. Nous prenons soin de chaque pièce avec attention aux détails, en utilisant des équipements modernes et des produits d'excellence pour offrir le meilleur service de blanchisserie et de location."
     },
     {
-      "title": "Avantages à choisir Excellence Cleaners et son équipe",
-      "description": "Choisir Excellence Cleaners, c’est opter pour une équipe dévouée, professionnelle et formée aux techniques les plus avancées de nettoyage. Nous utilisons des équipements modernes et de haute qualité, garantissant des résultats supérieurs et optimisant l’efficacité de nos processus. Nous nous engageons à offrir un service ponctuel et de haute qualité à chaque intervention. Nos collaborateurs sont rigoureusement sélectionnés pour leur expertise et leur fiabilité, assurant ainsi la sécurité et la discrétion dans votre bien. En outre, nous accordons une attention particulière à vos besoins spécifiques et à vos exigences pour vous offrir un service personnalisé qui dépasse vos attentes. Avec Excellence Cleaners, vous avez l'assurance de travailler avec une équipe compétente, engagée et à l’écoute."
+      "title": "Solutions sur mesure",
+      "description": "Chez Excellence Laundry, nous personnalisons nos services en fonction de vos besoins. Si vous avez des exigences spécifiques, notre équipe est prête à adapter le service et à offrir la solution idéale pour vous."
     }
   ],
 
