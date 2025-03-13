@@ -213,43 +213,43 @@
   "aboutDescriptionline4": "Our mission is to simplify laundry management for our partners and ensure their maximum satisfaction with our services. Trust us to make managing your linens more efficient and hassle-free.",
   "aboutButton": "Discover Our Path to Excellence",
   
-   "faqSubtitle": "Frequently Asked Questions",
-  "faqTitle": "We Are Here To Help You",
-  "faqDescriptionOne": "Do you have questions about our laundry services? We've gathered the answers to the most common questions to help you better understand how we operate and what we offer.",
-  "faqDescriptionTwo": "If you can't find the answer you're looking for, feel free to contact us directly. We are here to assist you!",
-  "faq": [
-    {
-      "title": "How can I request a laundry service?",
-      "description": "To request our services, simply contact us via phone, WhatsApp, or email. We can arrange a pick-up and delivery for your laundry at a time that works best for you."
-    },
-    {
-      "title": "What types of laundry do you clean?",
-      "description": "At Excellence Laundry, we clean a wide range of items, such as bed linens, towels, duvets, delicate clothing, uniforms, and more. We handle various fabric types and ensure each item is treated with care."
-    },
-    {
-      "title": "Do you clean delicate and special items?",
-      "description": "Yes! We have experience in cleaning delicate items such as wedding dresses, suits, silk garments, and other pieces that require special care. We use appropriate techniques and products to preserve the quality of your clothing."
-    },
-    {
-      "title": "How does the pick-up and delivery process work?",
-      "description": "We offer a convenient pick-up and delivery service directly from your home or location of choice. Just schedule with us, and our team will pick up and deliver your laundry within the agreed-upon time frame, taking care of each item."
-    },
-    {
-      "title": "What products do you use for washing?",
-      "description": "We use high-quality laundry products suitable for each fabric type. We prioritize effective detergents and softeners, and where possible, eco-friendly options, ensuring that your laundry is clean, fresh, and well-cared-for."
-    },
-    {
-      "title": "What is the delivery time for washed laundry?",
-      "description": "Delivery times depend on the service requested. For standard services, the delivery time is 48 hours. If you need an express service, we can offer shorter delivery times depending on availability and the volume of items."
-    },
-    {
-      "title": "What are the rates for your laundry services?",
-      "description": "Prices vary depending on the type of item, quantity, and service requested. To get an accurate estimate, contact us and let us know the items you'd like to have cleaned. We'll provide you with a clear and transparent quote."
-    },
-    {
-      "title": "Do you offer regular laundry services or subscriptions?",
-      "description": "Yes, we offer regular laundry services or subscription plans for clients who need continuous services. We can arrange periodic pick-ups and deliveries based on your convenience, whether weekly, bi-weekly, or monthly."
-    }
+  "faqSubtitle": "Frequently Asked Questions",
+"faqTitle": "We Are Here to Help",
+"faqDescriptionOne": "Do you have questions about our laundry services? We have gathered the answers to the most common questions here to help you better understand how we operate and what we offer.",
+"faqDescriptionTwo": "If you can't find the answer you're looking for, don't hesitate to contact us directly. We are here to help!",
+"faq": [
+  {
+    "title": "How can I request laundry service?",
+    "description": "To request our services, simply contact us via phone, WhatsApp, or email. We can arrange for the pickup and delivery of your bed linen and towels at a time that suits you best."
+  },
+  {
+    "title": "What types of items do you clean?",
+    "description": "At Excellence Laundry, we clean a wide range of items such as sheets, towels, blankets, duvets, and much more. We handle different types of fabrics with care and ensure each piece is properly taken care of."
+  },
+  {
+    "title": "Do you clean delicate and special items?",
+    "description": "Yes! We have experience cleaning delicate items such as silk sheets, luxury towels, and other items that require special care. We use appropriate techniques and products to preserve the quality of your items."
+  },
+  {
+    "title": "How does the pickup and delivery process work?",
+    "description": "We offer a pickup and delivery service directly to your home or chosen location. Simply schedule with us, and our team will pick up and deliver your bed linen and towels on the agreed timeline, taking care of each item."
+  },
+  {
+    "title": "What products do you use for washing?",
+    "description": "We use high-quality cleaning products suitable for each type of fabric. We prioritize effective and, whenever possible, eco-friendly detergents and softeners, ensuring your items stay clean, fresh, and well-maintained."
+  },
+  {
+    "title": "What is the delivery time for cleaned items?",
+    "description": "The delivery time depends on the type of service requested. For standard services, the delivery time is 48 hours. If you need an express service, we can offer shorter timelines depending on availability and the volume of items."
+  },
+  {
+    "title": "What are the prices for laundry services?",
+    "description": "Prices vary depending on the type of item, quantity, and service requested. To get an accurate estimate, contact us and let us know which items you need cleaned. We will provide you with a clear and transparent quote."
+  },
+  {
+    "title": "Do you offer regular service or subscription?",
+    "description": "Yes, we offer regular laundry plans or subscriptions for clients who need continuous services. We can arrange periodic pickups and deliveries, whether weekly, biweekly, or monthly, according to your needs."
+  }
   ],
 
  "afterBeforeSubtitle": "Before and After",
