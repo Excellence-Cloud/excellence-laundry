@@ -197,34 +197,42 @@
   "aboutDescriptionline4": "Nossa missão é simplificar a gestão da lavanderia para nossos parceiros e garantir a máxima satisfação com nossos serviços. Conte conosco para tornar a gestão do seu enxoval mais eficiente e sem complicações.",
   "aboutButton": "Descubra Nossa Trajetória de Excelência",
 
-  "faqSubtitle": "Perguntas Frequentes",
-  "faqTitle": "Estamos Aqui para Ajudar",
-  "faqDescriptionOne": "Tem dúvidas sobre os nossos serviços? Reunimos aqui as respostas às perguntas mais comuns para ajudar a compreender melhor como trabalhamos e o que oferecemos.",
-  "faqDescriptionTwo": "Se não encontrar a resposta que procura, entre em contacto diretamente connosco. Estamos aqui para ajudar!",
+"faqSubtitle": "Perguntas Frequentes",
+  "faqTitle": "Estamos Aqui Para Ajudar Você",
+  "faqDescriptionOne": "Tem dúvidas sobre nossos serviços de lavanderia? Reunimos aqui as respostas às perguntas mais comuns para ajudar você a entender melhor como funcionamos e o que oferecemos.",
+  "faqDescriptionTwo": "Se não encontrar a resposta que procura, não hesite em nos contatar diretamente. Estamos à disposição para ajudar!",
   "faq": [
     {
-      "title": "Como posso reservar um serviço de limpeza?",
-      "description": "Basta entrar em contacto connosco por telefone, WhatsApp ou e-mail. Discutiremos as suas necessidades específicas e agendaremos uma data e hora para a intervenção. Somos flexíveis e adaptamo-nos à sua disponibilidade para lhe oferecer um serviço personalizado."
+      "title": "Como posso solicitar um serviço de lavanderia?",
+      "description": "Para solicitar nossos serviços, basta entrar em contato conosco por telefone, WhatsApp ou e-mail. Podemos agendar a coleta e entrega das suas roupas no horário que for mais conveniente para você."
     },
     {
-      "title": "Que tipos de imóveis limpam?",
-      "description": "Especializamo-nos na limpeza de casas e apartamentos de prestígio, especialmente aqueles destinados ao aluguer sazonal. No entanto, também limpamos residências principais. Se é proprietário residente ou gere um imóvel para aluguer, temos a solução adequada às suas necessidades."
+      "title": "Quais tipos de roupas vocês limpam?",
+      "description": "Na Excellence Laundry, limpamos uma ampla gama de itens, como roupas de cama, toalhas, edredons, roupas delicadas, uniformes e muito mais. Trabalhamos com diversos tipos de tecidos e garantimos que cada peça seja tratada adequadamente."
     },
     {
-      "title": "Como determinam o número de pessoas para o serviço?",
-      "description": "O número de pessoas atribuídas depende do tamanho da propriedade e do tipo de serviço solicitado. Avaliamos cada situação individualmente para garantir uma limpeza eficiente e rápida. Quando enviamos mais de uma pessoa, o tempo de execução é reduzido, mantendo a qualidade do serviço."
+      "title": "Vocês limpam roupas delicadas e especiais?",
+      "description": "Sim! Temos experiência em limpar roupas delicadas, como vestidos de noiva, ternos, roupas de seda e outros itens que exigem cuidados especiais. Nós utilizamos técnicas e produtos adequados para preservar a qualidade de seus itens."
     },
     {
-      "title": "Que produtos e equipamentos utilizam?",
-      "description": "Utilizamos produtos de limpeza profissionais de alta qualidade, respeitadores do ambiente e seguros para superfícies delicadas. A nossa equipa está equipada com todos os materiais necessários para realizar uma limpeza completa, incluindo equipamentos especializados para sofás, tapetes e vidros. Se tiver preferências por determinados produtos, podemos adaptar-nos."
+      "title": "Como é feito o processo de coleta e entrega das roupas?",
+      "description": "Oferecemos coleta e entrega diretamente na sua casa ou no local que preferir. Basta agendar conosco e nossa equipe irá buscar e entregar as roupas no prazo combinado, com todo o cuidado e atenção."
     },
     {
-      "title": "Oferecem contratos de limpeza regular?",
-      "description": "Sim, oferecemos serviços regulares para clientes que desejam uma manutenção a longo prazo, seja para residências principais ou propriedades de aluguer sazonal. Podemos organizar intervenções semanais, mensais ou conforme o seu calendário, sempre com a mesma rigor e qualidade."
+      "title": "Quais produtos vocês utilizam nas lavagens?",
+      "description": "Utilizamos produtos de alta qualidade e adequados para cada tipo de tecido. Trabalhamos com detergentes e amaciantes eficientes e, sempre que possível, ecológicos, garantindo que as suas roupas fiquem limpas, frescas e bem cuidadas."
     },
     {
-      "title": "Quais são os vossos preços e como são calculados?",
-      "description": "Os nossos preços começam a partir de 26,90€/h (sem IVA) por pessoa. O custo total depende do número de horas necessárias e do número de pessoas mobilizadas para o serviço. Quando mais de uma pessoa intervém, o tempo de limpeza é reduzido proporcionalmente. Fornecemos sempre uma estimativa antes de cada serviço, garantindo total transparência."
+      "title": "Qual é o tempo de entrega das roupas lavadas?",
+      "description": "O prazo de entrega varia dependendo do tipo de serviço solicitado. Para serviços comuns, o prazo é de 48 horas. Caso precise de um serviço expresso, podemos oferecer prazos mais curtos, dependendo da disponibilidade e do volume."
+    },
+    {
+      "title": "Quais são os preços dos serviços de lavanderia?",
+      "description": "Os preços variam conforme o tipo de item, a quantidade e o serviço necessário. Para uma estimativa precisa, entre em contato conosco e nos informe as peças que deseja lavar. Forneceremos um orçamento claro e sem surpresas."
+    },
+    {
+      "title": "Vocês oferecem algum serviço de lavanderia regular ou assinatura?",
+      "description": "Sim, oferecemos planos de lavanderia regular ou assinatura para clientes que precisam de serviços contínuos. Podemos agendar coletas e entregas periódicas de acordo com a sua conveniência, seja semanal, quinzenal ou mensal."
     }
   ],
 
